@@ -1,21 +1,28 @@
-import React, { useState } from "react";
+import React, { useState, useEffect } from "react";
 import { MapContainer, TileLayer, Marker, Popup } from "react-leaflet";
 import "leaflet/dist/leaflet.css";
 import L from "leaflet";
 import axios from "axios";
 
 const customIcon = new L.Icon({
-  iconUrl: "https://cdn-icons-png.flaticon.com/512/149/149072.png", // Ícone de uma pessoa
+  iconUrl: "https://cdn-icons-png.flaticon.com/512/149/149072.png", 
   iconSize: [40, 40],
   iconAnchor: [20, 40],
   popupAnchor: [0, -35],
 });
 
+const locaisAlagoas = [
+  { nome: "Maceió", lat: -9.6658, lon: -35.7353 },
+  { nome: "Arapiraca", lat: -9.75487, lon: -36.6616 },
+  { nome: "Palmeira dos Índios", lat: -9.4057, lon: -36.6328 },
+  { nome: "Maragogi", lat: -9.0074, lon: -35.2223 }
+];
+
 const MapaComGeocodificacao = () => {
   const [lat, setLat] = useState("");
   const [lon, setLon] = useState("");
   const [endereco, setEndereco] = useState("");
-  const [coordenadas, setCoordenadas] = useState({ lat: -9.5713, lon: -36.7819 }); // Estado de Alagoas
+  const [coordenadas, setCoordenadas] = useState({ lat: -9.5713, lon: -36.7819 }); 
 
   const definirCoordenadas = () => {
     if (!lat || !lon) return;
@@ -70,11 +77,11 @@ const MapaComGeocodificacao = () => {
           style={{ marginRight: "5px", padding: "5px", borderRadius: "5px", border: "1px solid #ccc", width: "300px" }}
         />
         <button onClick={buscarCoordenadasPorEndereco} style={{ padding: "5px 10px", borderRadius: "5px", background: "#28a745", color: "white", border: "none", cursor: "pointer" }}>
-          Adicionar Endereço
+          Buscar Endereço
         </button>
       </div>
       
-      <div style={{ width: "60vw", height: "50vh", borderRadius: "10px", overflow: "hidden", boxShadow: "0px 4px 10px rgba(0, 0, 0, 0.2)" }}>
+      <div style={{ width: "80vw", height: "80vh", borderRadius: "10px", overflow: "hidden", boxShadow: "0px 4px 10px rgba(0, 0, 0, 0.2)" }}>
         <MapContainer
           center={[coordenadas.lat, coordenadas.lon]}
           zoom={9}
@@ -84,6 +91,11 @@ const MapaComGeocodificacao = () => {
           <Marker position={[coordenadas.lat, coordenadas.lon]} icon={customIcon}>
             <Popup>Local selecionado</Popup>
           </Marker>
+          {locaisAlagoas.map((local, index) => (
+            <Marker key={index} position={[local.lat, local.lon]} icon={customIcon}>
+              <Popup>{local.nome}</Popup>
+            </Marker>
+          ))}
         </MapContainer>
       </div>
     </div>
