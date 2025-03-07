@@ -1,0 +1,2926 @@
+[
+    {
+        "endereco": "RUA OLINDA, PRIMAVERA, ARAPIRACA",
+        "cep": "57304420",
+        "coordenadas": {
+            "lat": -9.759860401181786,
+            "lon": -36.66154214279468
+        }
+    },
+    {
+        "endereco": "AV. JOSUÉ MESSIAS , PAU DARCO , ARAPIRACA",
+        "cep": "57319990"
+    },
+    {
+        "endereco": "RUA PROJETADA 18 QD R, OLHO D'ÁGUA DO CAZUZINHA, ARAPIRACA",
+        "cep": "57304000"
+    },
+    {
+        "endereco": "RUA NOSSA SENHORA DA SALETE, BRASÍLIA, ARAPIRACA",
+        "cep": "57313285",
+        "coordenadas": {
+            "lat": -9.750933328982203,
+            "lon": -36.64317711347731
+        }
+    },
+    {
+        "endereco": "RUA MARIA CLEONICE DOS SANTOS, CAVACO, ARAPIRACA",
+        "cep": "57306700",
+        "coordenadas": {
+            "lat": -9.7333024,
+            "lon": -36.6790775
+        }
+    },
+    {
+        "endereco": "AVENIDA MUNIZ FALCÃO, SÃO LUIZ II, ARAPIRACA",
+        "cep": "57301381",
+        "coordenadas": {
+            "lat": -9.767989363956193,
+            "lon": -36.65343498817962
+        }
+    },
+    {
+        "endereco": "RUA ABRAÃO DE OLIVEIRA, CAVACO, ARAPIRACA",
+        "cep": "57306490",
+        "coordenadas": {
+            "lat": -9.739191003210607,
+            "lon": -36.678035876780434
+        }
+    },
+    {
+        "endereco": "RUA PRESIDENTE TANCREDO DE ALMEIDA NEVES, NOVO HORIZONTE, ARAPIRACA",
+        "cep": "57312700"
+    },
+    {
+        "endereco": "RUA SALVELINA MARIA DA CONCEIÇÃO, VERDES CAMPOS, ARAPIRACA",
+        "cep": "57303-040"
+    },
+    {
+        "endereco": "RUA GERUZA BARROS CABRAL DA SILVA, GUARIBAS, ARAPIRACA",
+        "cep": "57303724"
+    },
+    {
+        "endereco": "RUA SÃO SALVADOR, VERDES CAMPOS, ARAPIRACA",
+        "cep": "57303140"
+    },
+    {
+        "endereco": "RUA FLORÊNCIO APOLINÁRIO, ALTO DO CRUZEIRO, ARAPIRACA",
+        "cep": "57312440",
+        "coordenadas": {
+            "lat": -9.751541659589762,
+            "lon": -36.65635055163262
+        }
+    },
+    {
+        "endereco": "RUA MARIA JOSÉ DAS NEVES, BANANEIRAS, ARAPIRACA",
+        "cep": "57318450"
+    },
+    {
+        "endereco": "AVENIDA PIO XII, BOM SUCESSO, ARAPIRACA",
+        "cep": "57309153"
+    },
+    {
+        "endereco": "RUA PAULO AFONSO, PRIMAVERA, ARAPIRACA",
+        "cep": "57304000",
+        "coordenadas": {
+            "lat": -9.766748515771953,
+            "lon": -36.66254619021255
+        }
+    },
+    {
+        "endereco": "POVOADO PAU D'ARCO, PAU D'ARCO, ARAPIRACA",
+        "cep": "57319990"
+    },
+    {
+        "endereco": "RUA BRAZ VIEIRA DE SANTANA, PRIMAVERA, ARAPIRACA",
+        "cep": "57304430",
+        "coordenadas": {
+            "lat": -9.759686663159782,
+            "lon": -36.65915740888421
+        }
+    },
+    {
+        "endereco": "PRAÇA LUIZ PEREIRA LIMA, VERDES CAMPOS , ARAPIRACA",
+        "cep": "57300970"
+    },
+    {
+        "endereco": "RUA SÃO JORGE, CAITITUS, ARAPIRACA",
+        "cep": "57311205",
+        "coordenadas": {
+            "lat": -9.742334135111554,
+            "lon": -36.65717233927047
+        }
+    },
+    {
+        "endereco": "RUA SÃO JORGE, CAITITUS, ARAPIRACA",
+        "cep": "57311-205",
+        "coordenadas": {
+            "lat": -9.742334135111554,
+            "lon": -36.65717233927047
+        }
+    },
+    {
+        "endereco": "RUA FERNANDES LIMA, CENTRO, ARAPIRACA",
+        "cep": "57300060",
+        "coordenadas": {
+            "lat": -9.754112895229053,
+            "lon": -36.661116458162404
+        }
+    },
+    {
+        "endereco": "RUA JOSÉ AFONSO MARANHÃO, BRASÍLIA, ARAPIRACA",
+        "cep": "57313290",
+        "coordenadas": {
+            "lat": -9.749714086877276,
+            "lon": -36.64762422127824
+        }
+    },
+    {
+        "endereco": "RUA HELENO CASTRO ALVES, PLANALTO, ARAPIRACA",
+        "cep": "57308580",
+        "coordenadas": {
+            "lat": -9.725455931888922,
+            "lon": -36.66093027490193
+        }
+    },
+    {
+        "endereco": "RUA PRIMAVERA, PRIMAVERA, ARAPIRACA",
+        "cep": "57304210",
+        "coordenadas": {
+            "lat": -9.76401987971684,
+            "lon": -36.657853898946776
+        }
+    },
+    {
+        "endereco": "RUA JOSÉ CÍCERO DE QUEIROZ, SANTA ESMERALDA, ARAPIRACA",
+        "cep": "57312-240 "
+    },
+    {
+        "endereco": "RUA PROFESSOR JOSÉ MAURO DA SILVA, JARDIM TROPICAL, ARAPIRACA",
+        "cep": "57316-048"
+    },
+    {
+        "endereco": "RUA HELENO CASTRO ALVES, PLANALTO, ARAPIRACA",
+        "cep": "57308580",
+        "coordenadas": {
+            "lat": -9.725455931888922,
+            "lon": -36.66093027490193
+        }
+    },
+    {
+        "endereco": "RUA DIONÍSIO PEDRO DOS SANTOS, BAIXA GRANDE, ARAPIRACA",
+        "cep": "57307240",
+        "coordenadas": {
+            "lat": -9.730578231855644,
+            "lon": -36.67172437006287
+        }
+    },
+    {
+        "endereco": "RUA GOVERNADOR LUIZ CAVALCANTE, ALTO DO CRUZEIRO, ARAPIRACA",
+        "cep": "57312270",
+        "coordenadas": {
+            "lat": -9.7505554,
+            "lon": -36.6580852
+        }
+    },
+    {
+        "endereco": "RUA TIBÚRCIO VALERIANO, JARDIM ESPERANÇA, ARAPIRACA",
+        "cep": "57307740",
+        "coordenadas": {
+            "lat": -9.727066762633681,
+            "lon": -36.68297483724957
+        }
+    },
+    {
+        "endereco": "RUA ESTUDANTE JOSÉ DE OLIVEIRA LEITE, OURO PRETO, ARAPIRACA",
+        "cep": "57301060",
+        "coordenadas": {
+            "lat": -9.75820215210393,
+            "lon": -36.655172399924844
+        }
+    },
+    {
+        "endereco": "RUA ADEMAR MEDEIROS, PLANALTO, ARAPIRACA",
+        "cep": "57.308-100",
+        "coordenadas": {
+            "lat": -9.727159661821018,
+            "lon": -36.66769032750954
+        }
+    },
+    {
+        "endereco": "RUA WALMIR NOVAES DOS SANTOS, PRIMAVERA, ARAPIRACA",
+        "cep": "57304160",
+        "coordenadas": {
+            "lat": -9.76676273867266,
+            "lon": -36.659966235906474
+        }
+    },
+    {
+        "endereco": "RUA COSTA RÊGO, ALTO DO CRUZEIRO, ARAPIRACA",
+        "cep": "57312280",
+        "coordenadas": {
+            "lat": -9.749943817953802,
+            "lon": -36.6556623641763
+        }
+    },
+    {
+        "endereco": "RUA JURANDIR ANDRÉ, SÃO LUIZ, ARAPIRACA",
+        "cep": "57301310",
+        "coordenadas": {
+            "lat": -9.767034278769325,
+            "lon": -36.64669820533719
+        }
+    },
+    {
+        "endereco": "RUA MARAGOGI, JARDIM TROPICAL, ARAPIRACA",
+        "cep": "57316-025"
+    },
+    {
+        "endereco": "AVENIDA ANDRÉ LEÃO, BRASÍLIA, ARAPIRACA",
+        "cep": "57313160"
+    },
+    {
+        "endereco": "RUA AFONSO PENA, MANUEL TELES, ARAPIRACA",
+        "cep": "57305310"
+    },
+    {
+        "endereco": "RUA JOSÉ CARDOSO DA SILVA, BRASÍLIA, ARAPIRACA",
+        "cep": "57313725"
+    },
+    {
+        "endereco": "RUA PROFESSORA MARIA ANA DOS SANTOS GALINDO, CANAFÍSTULA, ARAPIRACA",
+        "cep": "57302519"
+    },
+    {
+        "endereco": "RUA TIBÚRCIO VALERIANO, 966, JARDIM ESPERANÇA, ARAPIRACA",
+        "cep": "57307740",
+        "coordenadas": {
+            "lat": -9.727066762633681,
+            "lon": -36.68297483724957
+        }
+    },
+    {
+        "endereco": "RUA GERALDO DAMASCENO FERREIRA, BAIXA GRANDE, ARAPIRACA",
+        "cep": "57307145",
+        "coordenadas": {
+            "lat": -9.732009936869487,
+            "lon": -36.67349194760979
+        }
+    },
+    {
+        "endereco": "RUA JOSÉ PEDRO DOS SANTOS, MASSARANDUBA, ARAPIRACA",
+        "cep": "57309813"
+    },
+    {
+        "endereco": "RUA CLÁUDIO DE ALBUQUERQUE LIMA, SÃO LUIZ, ARAPIRACA",
+        "cep": "57301409",
+        "coordenadas": {
+            "lat": -9.766424532426095,
+            "lon": -36.650919430562055
+        }
+    },
+    {
+        "endereco": "RUA ANA ROSA DE OLIVEIRA, SÃO LUIZ II, ARAPIRACA",
+        "cep": "57301706",
+        "coordenadas": {
+            "lat": -9.770642971358157,
+            "lon": -36.65422853672677
+        }
+    },
+    {
+        "endereco": "RUA MARIA VICENCIA DE ALBUQUERQUE, CAPIATA, CAPIATA, ARAPIRACA",
+        "cep": "57310180",
+        "coordenadas": {
+            "lat": -9.74030372050096,
+            "lon": -36.66394618097539
+        }
+    },
+    {
+        "endereco": "PRAÇA JEOVÁ CAETANO, JARDIM ESPERANÇA, ARAPIRACA",
+        "cep": "57307590"
+    },
+    {
+        "endereco": "RUA BENJAMIM FREIRE DE AMORIM, BRASILIANA, ARAPIRACA",
+        "cep": "57310540"
+    },
+    {
+        "endereco": "RUA LUÍS PEREIRA PESSOA, SÃO LUIZ II, ARAPIRACA",
+        "cep": "57301738"
+    },
+    {
+        "endereco": "RUA PEDRO OLIVEIRA, BRASÍLIA, ARAPIRACA",
+        "cep": "57313350",
+        "coordenadas": {
+            "lat": -9.752450056629298,
+            "lon": -36.64486143500712
+        }
+    },
+    {
+        "endereco": "RUA ÂNGELO TAVARES, BAIXÃO, ARAPIRACA",
+        "cep": "57305390",
+        "coordenadas": {
+            "lat": -9.750561158558188,
+            "lon": -36.67074131410938
+        }
+    },
+    {
+        "endereco": "RUA MARINITA GOMES DE LIMA, BATINGAS, ARAPIRACA",
+        "cep": "57317584"
+    },
+    {
+        "endereco": "LOTEAMENTO NOVA AMÉRICA, BATINGAS, ARAPIRACA",
+        "cep": "57317563"
+    },
+    {
+        "endereco": "RUA SARGENTO BENEVIDES MONTES, PRIMAVERA, ARAPIRACA",
+        "cep": "57304410",
+        "coordenadas": {
+            "lat": -9.760737120152891,
+            "lon": -36.66085452173413
+        }
+    },
+    {
+        "endereco": "RUA ANTÔNIO FELIZ SILVA, CACIMBAS, ARAPIRACA",
+        "cep": "57304570"
+    },
+    {
+        "endereco": "RUA AGNELO LEITE, ZÉLIA BARBOSA ROCHA, ARAPIRACA",
+        "cep": "57305705",
+        "coordenadas": {
+            "lat": -9.74793265,
+            "lon": -36.6741047
+        }
+    },
+    {
+        "endereco": "RUA SÃO NICOLAU, BRASÍLIA, ARAPIRACA",
+        "cep": "57313090",
+        "coordenadas": {
+            "lat": -9.752077591988053,
+            "lon": -36.65122805151225
+        }
+    },
+    {
+        "endereco": "RUA PROFESSORA MARIA BISPO DOS SANTOS, CANAFÍSTULA, ARAPIRACA",
+        "cep": "57302678",
+        "coordenadas": {
+            "lat": -9.768455859100335,
+            "lon": -36.635151360206194
+        }
+    },
+    {
+        "endereco": "RUA JANUÁRIO ANDRÉ NETO, SÃO LUIZ II, ARAPIRACA",
+        "cep": "57301726",
+        "coordenadas": {
+            "lat": -9.767602310885591,
+            "lon": -36.65486496011848
+        }
+    },
+    {
+        "endereco": "AVENIDA ANDRÉ LEÃO, BRASÍLIA, ARAPIRACA",
+        "cep": "57313160"
+    },
+    {
+        "endereco": "RUA JÚLIO HONORATO DE MIRANDA, MANUEL TELES, ARAPIRACA",
+        "cep": "57305175"
+    },
+    {
+        "endereco": "PRAÇA LUIZ PEREIRA LIMA S/N, AGRESTE, ARAPIRACA",
+        "cep": "57300970"
+    },
+    {
+        "endereco": "AVENIDA ANDRÉ LEÃO, BRASÍLIA, ARAPIRACA",
+        "cep": "57313160"
+    },
+    {
+        "endereco": "PRAÇA JEOVÁ CAETANO, JARDIM ESPERANÇA, ARAPIRACA",
+        "cep": "57307590"
+    },
+    {
+        "endereco": "RUA JEOVANILSON PEREIRA SILVA, OLHO D'ÁGUA DOS CAZUZINHAS, ARAPIRACA",
+        "cep": "57303785"
+    },
+    {
+        "endereco": "RUA AZALÉIA BRANCA, VERDES CAMPOS, ARAPIRACA",
+        "cep": "57303068"
+    },
+    {
+        "endereco": "RUA TEREZINHA VIEIRA DE LIMA E SILVA, SENADOR NILO COELHO, ARAPIRACA",
+        "cep": "57309405"
+    },
+    {
+        "endereco": "RUA HÉLIO JOSÉ DE SOUZA, BOM SUCESSO, ARAPIRACA",
+        "cep": "57309128"
+    },
+    {
+        "endereco": "RUA TEÓFILO PEREIRA LIMA, SÃO LUIZ II, ARAPIRACA",
+        "cep": "57301728",
+        "coordenadas": {
+            "lat": -9.768314415048371,
+            "lon": -36.65461454965732
+        }
+    },
+    {
+        "endereco": "PRAÇA LUIZ PEREIRA LIMA, CENTRO, ARAPIRACA",
+        "cep": "57300970"
+    },
+    {
+        "endereco": "RUA JOSÉ CORADO DOS ANJOS, SENADOR NILO COELHO, ARAPIRACA",
+        "cep": "57309483"
+    },
+    {
+        "endereco": "RUA PROFESSOR GUEDES DE MIRANDA, PRIMAVERA, ARAPIRACA",
+        "cep": "57304380",
+        "coordenadas": {
+            "lat": -9.760860633947383,
+            "lon": -36.65937624627493
+        }
+    },
+    {
+        "endereco": "RUA SANTA CLARA, OLHO D'ÁGUA DOS CAZUZINHAS, ARAPIRACA",
+        "cep": "57303797"
+    },
+    {
+        "endereco": "RUA ANTÔNIO SALÚ, JOÃO PAULO II, ARAPIRACA",
+        "cep": "57316612"
+    },
+    {
+        "endereco": "RUA ANTENOR PEREIRA NUNES, BAIXA GRANDE, ARAPIRACA",
+        "cep": "57307181",
+        "coordenadas": {
+            "lat": -9.73115575,
+            "lon": -36.676371849999995
+        }
+    },
+    {
+        "endereco": "RUA GOVERNADOR LUIZ CAVALCANTE, ALTO DO CRUZEIRO, ARAPIRACA",
+        "cep": "57312270",
+        "coordenadas": {
+            "lat": -9.7505554,
+            "lon": -36.6580852
+        }
+    },
+    {
+        "endereco": "RUA SÃO GERALDO, SENADOR TEOTÔNIO VILELA, ARAPIRACA",
+        "cep": "57311600",
+        "coordenadas": {
+            "lat": -9.743648459704588,
+            "lon": -36.65871929143257
+        }
+    },
+    {
+        "endereco": "RUA ALÍRIO PEREIRA ROCHA, SÃO LUIZ, ARAPIRACA",
+        "cep": "57301418",
+        "coordenadas": {
+            "lat": -9.768954774691522,
+            "lon": -36.64367111742313
+        }
+    },
+    {
+        "endereco": "RUA MANOEL MARTINS LEMOS, PRIMAVERA, ARAPIRACA",
+        "cep": "57304150",
+        "coordenadas": {
+            "lat": -9.767227687765763,
+            "lon": -36.66047206573166
+        }
+    },
+    {
+        "endereco": "RUA WALTER CARLOS DE SOUZA, OLHO D'ÁGUA DOS CAZUZINHAS, ARAPIRACA",
+        "cep": "57303833"
+    },
+    {
+        "endereco": "RUA ESTUDANTE FABIANA MACIA B DE LIMA, VERDES CAMPOS, ARAPIRACA",
+        "cep": "57303058"
+    },
+    {
+        "endereco": "RUA JOÃO NICOLAU DE MELO, SENADOR ARNON DE MELO, ARAPIRACA",
+        "cep": "57315094"
+    },
+    {
+        "endereco": "RUA SEVERINO DE OLIVEIRA BARBOSA, JARDIM ESPERANÇA, ARAPIRACA",
+        "cep": "57307766"
+    },
+    {
+        "endereco": "RUA EXPEDICIONÁRIO BRASILEIROS, CAVACO, ARAPIRACA",
+        "cep": "57306415"
+    },
+    {
+        "endereco": "RUA BELA VISTA, BRASÍLIA, ARAPIRACA",
+        "cep": "57313180",
+        "coordenadas": {
+            "lat": -9.75291854931378,
+            "lon": -36.64326844876793
+        }
+    },
+    {
+        "endereco": "RUA SETE DE SETEMBRO, CENTRO, ARAPIRACA",
+        "cep": "57300480",
+        "coordenadas": {
+            "lat": -9.746864675919507,
+            "lon": -36.66151133724879
+        }
+    },
+    {
+        "endereco": "AVENIDA ELVIRA BARBOSA LOPES, NOVO HORIZONTE, ARAPIRACA",
+        "cep": "57312-680",
+        "coordenadas": {
+            "lat": -9.743516035976016,
+            "lon": -36.64216986027905
+        }
+    },
+    {
+        "endereco": "RUA 13 DE JUNHO, VERDES CAMPOS, ARAPIRACA",
+        "cep": "57303086"
+    },
+    {
+        "endereco": "RUA MANOEL FRANCELINO DE ALBUQUERQUE, ALTO DO CRUZEIRO, ARAPIRACA",
+        "cep": "57312350",
+        "coordenadas": {
+            "lat": -9.746976122198891,
+            "lon": -36.653177914102976
+        }
+    },
+    {
+        "endereco": "RUA JOVELINO LIMA, MASSARANDUBA, ARAPIRACA",
+        "cep": "57 309 828"
+    },
+    {
+        "endereco": "RUA OTILINA FERNANDES DA SILVA, NOVA ESPERANÇA, ARAPIRACA",
+        "cep": "57316458"
+    },
+    {
+        "endereco": "RUA LAURITA NOGUEIRA E SILVA ALCÂNTARA, MASSARANDUBA, ARAPIRACA",
+        "cep": "57309792"
+    },
+    {
+        "endereco": "RUA SÃO PEDRO, ALTO DO CRUZEIRO, ARAPIRACA",
+        "cep": "57312445",
+        "coordenadas": {
+            "lat": -9.746276833506661,
+            "lon": -36.65861864329653
+        }
+    },
+    {
+        "endereco": "RUA DÁLIA VERMELHA, VERDES CAMPOS, ARAPIRACA",
+        "cep": "57303072"
+    },
+    {
+        "endereco": "RUA JOSUÉ LINO DA SILVA, BOA VISTA, ARAPIRACA",
+        "cep": "57303304",
+        "coordenadas": {
+            "lat": -9.783363626705851,
+            "lon": -36.634985877105805
+        }
+    },
+    {
+        "endereco": "RUA ANDRÉ LEÃO, BRASÍLIA, ARAPIRACA",
+        "cep": "57313160",
+        "coordenadas": {
+            "lat": -9.75373665762935,
+            "lon": -36.647251805248395
+        }
+    },
+    {
+        "endereco": "RUA JAILDE PEREIRA, CANAFÍSTULA, ARAPIRACA",
+        "cep": "57302774"
+    },
+    {
+        "endereco": "RUA LUCIANA RODRIGUES DE ARAÚJO, BOA VISTA, ARAPIRACA",
+        "cep": "57303215"
+    },
+    {
+        "endereco": "PRAÇA LUIZ PEREIRA LIMA, CENTRO, ARAPIRACA",
+        "cep": "57300970"
+    },
+    {
+        "endereco": "RUA JOSÉ LAELSON DE LIMA, BOM SUCESSO, ARAPIRACA",
+        "cep": "57309067"
+    },
+    {
+        "endereco": "RUA SÃO JOÃO, ALTO DO CRUZEIRO, ARAPIRACA",
+        "cep": "57312265",
+        "coordenadas": {
+            "lat": -9.745877507712308,
+            "lon": -36.65552379501746
+        }
+    },
+    {
+        "endereco": "RUA NOEMI PEREIRA LIMA, BOM SUCESSO, ARAPIRACA",
+        "cep": "57309160"
+    },
+    {
+        "endereco": "RUA LUIZ JOSÉ DE ALBUQUERQUE, ELDORADO, ARAPIRACA",
+        "cep": "57306090",
+        "coordenadas": {
+            "lat": -9.744427400562364,
+            "lon": -36.67116858075274
+        }
+    },
+    {
+        "endereco": "RUA GERSON OLIVEIRA LINS, BOM SUCESSO, ARAPIRACA",
+        "cep": "57309176"
+    },
+    {
+        "endereco": "RUA COITÉ DO NOIA, PLANALTO, ARAPIRACA",
+        "cep": "57308160",
+        "coordenadas": {
+            "lat": -9.724631625322363,
+            "lon": -36.66549762832186
+        }
+    },
+    {
+        "endereco": "RUA JOSÉ AUGUSTO VITAL, NOVA ESPERANÇA, ARAPIRACA",
+        "cep": "57316405"
+    },
+    {
+        "endereco": "RUA MANOEL LUIZ GOMES, SÃO LUIZ, ARAPIRACA",
+        "cep": "57301240",
+        "coordenadas": {
+            "lat": -9.763841620991977,
+            "lon": -36.65352025634417
+        }
+    },
+    {
+        "endereco": "RUA JOSÉ DOMINGOS DOS SANTOS, BAIXA GRANDE, ARAPIRACA",
+        "cep": "57307020",
+        "coordenadas": {
+            "lat": -9.736557176504817,
+            "lon": -36.67293529741633
+        }
+    },
+    {
+        "endereco": "RUA TEODORO PEREIRA, CAPIATÃ, ARAPIRACA",
+        "cep": "57310170",
+        "coordenadas": {
+            "lat": -9.741802202890588,
+            "lon": -36.66351053112976
+        }
+    },
+    {
+        "endereco": "RUA TEREZA DE ALBUQUERQUE , SANTA EDWIGES, ARAPIRACA",
+        "cep": "57310300",
+        "coordenadas": {
+            "lat": -9.736873383212398,
+            "lon": -36.660541909863916
+        }
+    },
+    {
+        "endereco": "RUA AROLDO JÚLIO DA SILVA, PLANALTO, ARAPIRACA",
+        "cep": "57308540"
+    },
+    {
+        "endereco": "AVENIDA JANY CAMELO LIMA, PLANALTO, ARAPIRACA",
+        "cep": "57308310",
+        "coordenadas": {
+            "lat": -9.723565934747736,
+            "lon": -36.66492603877779
+        }
+    },
+    {
+        "endereco": "RUA PROFESSORA BRANCA LEITE, BRASILIANA, ARAPIRACA",
+        "cep": "57310525",
+        "coordenadas": {
+            "lat": -9.731986656056117,
+            "lon": -36.66577668195575
+        }
+    },
+    {
+        "endereco": "RUA ERNESTO LEANDRO DE LIRA, BRASILIANA, ARAPIRACA",
+        "cep": "57310455"
+    },
+    {
+        "endereco": "RUA EDUARDO ALVES DA SILVA, OLHO D'ÁGUA DOS CAZUZINHAS, ARAPIRACA",
+        "cep": "57303848"
+    },
+    {
+        "endereco": "RUA COSTA GAMA, PRIMAVERA, ARAPIRACA",
+        "cep": "57304250",
+        "coordenadas": {
+            "lat": -9.762940312040422,
+            "lon": -36.65934282152928
+        }
+    },
+    {
+        "endereco": "RODOVIA AL-220, SENADOR ARNON DE MELO, ARAPIRACA",
+        "cep": "57315745"
+    },
+    {
+        "endereco": "RUA SAMARITANA - LADO PAR, CAITITUS, ARAPIRACA",
+        "cep": "57311185"
+    },
+    {
+        "endereco": "RUA JOSÉ MATHEUS SOBRINHO, BRASÍLIA, ARAPIRACA",
+        "cep": "57313820",
+        "coordenadas": {
+            "lat": -9.75451415,
+            "lon": -36.64541025
+        }
+    },
+    {
+        "endereco": "AVENIDA CORONEL VICENTE RAMOS, OLHO D'ÁGUA DOS CAZUZINHA, ARAPIRACA",
+        "cep": "57303-786"
+    },
+    {
+        "endereco": "RUA WALMIR NOVAES DOS SANTOS, PRIMAVERA, ARAPIRACA",
+        "cep": "57304160",
+        "coordenadas": {
+            "lat": -9.76676273867266,
+            "lon": -36.659966235906474
+        }
+    },
+    {
+        "endereco": "RODOVIA AL-115, BOM SUCESSO, ARAPIRACA",
+        "cep": "57309005",
+        "coordenadas": {
+            "lat": -9.710596889165263,
+            "lon": -36.68407298091918
+        }
+    },
+    {
+        "endereco": "RUA MARLUCE GUIMARÃES, PADRE ANTÔNIO LIMA NETO, ARAPIRACA",
+        "cep": "57304662",
+        "coordenadas": {
+            "lat": -9.763666779969077,
+            "lon": -36.66788144796717
+        }
+    },
+    {
+        "endereco": "RODOVIA AL-115, BOM SUCESSO, ARAPIRACA",
+        "cep": "57309005",
+        "coordenadas": {
+            "lat": -9.710596889165263,
+            "lon": -36.68407298091918
+        }
+    },
+    {
+        "endereco": "RUA ANTENOR PEREIRA NUNES, BAIXA GRANDE, ARAPIRACA",
+        "cep": "57307181",
+        "coordenadas": {
+            "lat": -9.73115575,
+            "lon": -36.676371849999995
+        }
+    },
+    {
+        "endereco": "RUA LUÍZA MARIA DE OLINDA, SANTA EDWIGES, ARAPIRACA",
+        "cep": "57310-380",
+        "coordenadas": {
+            "lat": -9.73762915828718,
+            "lon": -36.66302415735944
+        }
+    },
+    {
+        "endereco": "RUA SÃO JOSÉ, BANANEIRAS, ARAPIRACA",
+        "cep": "57318450"
+    },
+    {
+        "endereco": "RUA OLÍVIA BRITO DE ALMEIDA, SANTA ESMERALDA, ARAPIRACA",
+        "cep": "57312019",
+        "coordenadas": {
+            "lat": -9.73655076950818,
+            "lon": -36.650142059702105
+        }
+    },
+    {
+        "endereco": "RUA MARINETE BARBOSA DOS SANTOS, BOM SUCESSO, ARAPIRACA",
+        "cep": "57309166"
+    },
+    {
+        "endereco": "RUA ARISTIDES FÉLIX DA SILVA, JARDIM DE MARIA, ARAPIRACA",
+        "cep": "57311048"
+    },
+    {
+        "endereco": "RUA JOSÉ JAIME ALVES DOS SANTOS, CANAFÍSTULA, ARAPIRACA",
+        "cep": "57302175"
+    },
+    {
+        "endereco": "RUA JOSEFA LÚCIO DE OLIVEIRA, CAVACO, ARAPIRACA",
+        "cep": "57306800",
+        "coordenadas": {
+            "lat": -9.73504515,
+            "lon": -36.67729385
+        }
+    },
+    {
+        "endereco": "RUA PALESTINA, PLANALTO, ARAPIRACA",
+        "cep": "57308400",
+        "coordenadas": {
+            "lat": -9.724193291875649,
+            "lon": -36.662768158704395
+        }
+    },
+    {
+        "endereco": "RUA ANTONIO MARROQUIM, BAIXÃO, ARAPIRACA",
+        "cep": "57305430",
+        "coordenadas": {
+            "lat": -9.747946210372673,
+            "lon": -36.66933445486521
+        }
+    },
+    {
+        "endereco": "RUA JOSÉ EZEQUIEL SANTOS, CAVACO, ARAPIRACA",
+        "cep": "57306350",
+        "coordenadas": {
+            "lat": -9.741793429271024,
+            "lon": -36.6737332989555
+        }
+    },
+    {
+        "endereco": "RUA SANTO EXPEDITO, VERDES CAMPOS, ARAPIRACA",
+        "cep": "57303054"
+    },
+    {
+        "endereco": "RUA JOSÉ CÍCERO ALÉCIO DA SILVA, NOVA ESPERANÇA, ARAPIRACA",
+        "cep": "57316416"
+    },
+    {
+        "endereco": "RUA MARECHAL COSTA E SILVA, PRIMAVERA, ARAPIRACA",
+        "cep": "57304100",
+        "coordenadas": {
+            "lat": -9.766195350709102,
+            "lon": -36.661545702434466
+        }
+    },
+    {
+        "endereco": "RUA MANOEL DO NASCIMENTO ABREU FILHO, SÃO LUIZ, ARAPIRACA",
+        "cep": "57301408"
+    },
+    {
+        "endereco": "RUA LUIZ FIRMINO DE OLIVEIRA, BATINGAS, ARAPIRACA",
+        "cep": "57317558"
+    },
+    {
+        "endereco": "POVOADO CAPIM , CAPIM, ARAPIRACA",
+        "cep": "57318-750 "
+    },
+    {
+        "endereco": "RUA EDVALDO DA SILVA, PLANALTO, ARAPIRACA",
+        "cep": "57308289",
+        "coordenadas": {
+            "lat": -9.723075509723111,
+            "lon": -36.66379658253305
+        }
+    },
+    {
+        "endereco": "AVENIDA DEPUTADA CECI CUNHA - ATÉ 271 - LADO ÍMPAR, ALTO DO CRUZEIRO, ARAPIRACA",
+        "cep": "57312485"
+    },
+    {
+        "endereco": "RUA ENOQUE BEZERRA DE LIMA, PLANALTO, ARAPIRACA",
+        "cep": "57308714"
+    },
+    {
+        "endereco": "RUA GASPAR RIBEIRO WERCELONE, BAIXA GRANDE, ARAPIRACA",
+        "cep": "57307030"
+    },
+    {
+        "endereco": "R LUCIANA RODRIGUES DE ARAUJO, BATINGAS, ARAPIRACA",
+        "cep": "57303-215"
+    },
+    {
+        "endereco": "RUA ISABEL MARIA DE JESUS, PLANALTO, ARAPIRACA",
+        "cep": "57308830"
+    },
+    {
+        "endereco": "RUA MARIA LOURENÇO DOS SANTOS, ZÉLIA BARBOSA ROCHA, ARAPIRACA",
+        "cep": "57305745"
+    },
+    {
+        "endereco": "RUA NOSSA SENHORA DA SALETE, ALTO DO CRUZEIRO, ARAPIRACA",
+        "cep": "57312390",
+        "coordenadas": {
+            "lat": -9.747215095141065,
+            "lon": -36.64985233472027
+        }
+    },
+    {
+        "endereco": "AVENIDA VEREADOR JOÃO SATURNINO DE ALMEIDA, VERDES CAMPOS, ARAPIRACA",
+        "cep": "57303120"
+    },
+    {
+        "endereco": "RUA TAQUARANA, MANUEL TELES, ARAPIRACA",
+        "cep": "57305160"
+    },
+    {
+        "endereco": "AVENIDA PIO XII, PLANALTO, ARAPIRACA",
+        "cep": "57308-051",
+        "coordenadas": {
+            "lat": -9.723400047369317,
+            "lon": -36.67082399733825
+        }
+    },
+    {
+        "endereco": "RUA PRIMAVERA, PRIMAVERA, ARAPIRACA",
+        "cep": "57304210",
+        "coordenadas": {
+            "lat": -9.76401987971684,
+            "lon": -36.657853898946776
+        }
+    },
+    {
+        "endereco": "RUA ADALBERON DE CASTRO TAVARES, MASSARANDUBA, ARAPIRACA",
+        "cep": "57309802"
+    },
+    {
+        "endereco": "RUA MESTRE GERALDO, SENADOR ARNON DE MELO, ARAPIRACA",
+        "cep": "57315700",
+        "coordenadas": {
+            "lat": -9.736397504804225,
+            "lon": -36.644964726808
+        }
+    },
+    {
+        "endereco": "RUA ENAURA BRITO DE FARIAS, BOM SUCESSO, ARAPIRACA",
+        "cep": "57309196",
+        "coordenadas": {
+            "lat": -9.707651637504727,
+            "lon": -36.68886893345792
+        }
+    },
+    {
+        "endereco": "RUA YPÊ BRANCO, SENADOR NILO COELHO, ARAPIRACA",
+        "cep": "57309499"
+    },
+    {
+        "endereco": "RUA HORÁCIO ALEXANDRE DOS SANTOS, ELDORADO, ARAPIRACA",
+        "cep": "57306230",
+        "coordenadas": {
+            "lat": -9.741065899999999,
+            "lon": -36.666848
+        }
+    },
+    {
+        "endereco": "RUA PAPA FRANCISCO, PADRE ANTÔNIO LIMA NETO, ARAPIRACA",
+        "cep": "57304690"
+    },
+    {
+        "endereco": "RUA PADRE ANTÔNIO LIMA NETO, JARDIM TROPICAL, ARAPIRACA",
+        "cep": "57316-040"
+    },
+    {
+        "endereco": "RUA LEITE NETO, CACIMBAS, ARAPIRACA",
+        "cep": "57304520",
+        "coordenadas": {
+            "lat": -9.75839159595271,
+            "lon": -36.66612597496468
+        }
+    },
+    {
+        "endereco": "ANTÔNIO ROCHERY DE LIMA, BANANEIRAS, ARAPIRACA",
+        "cep": "57318450"
+    },
+    {
+        "endereco": "RUA ENAURA BRITO DE FARIAS, BOM SUCESSO, ARAPIRACA",
+        "cep": "57309-196",
+        "coordenadas": {
+            "lat": -9.707651637504727,
+            "lon": -36.68886893345792
+        }
+    },
+    {
+        "endereco": "RUA ANTÔNIO SIMÃO, BOA VISTA, ARAPIRACA",
+        "cep": "57303290",
+        "coordenadas": {
+            "lat": -9.782442421837798,
+            "lon": -36.62882132276222
+        }
+    },
+    {
+        "endereco": "RUA LUIZ DUARTE, BRASÍLIA, ARAPIRACA",
+        "cep": "57313380"
+    },
+    {
+        "endereco": "RUA PROFESSORA TEREZINHA AMORIM DE OLIVEIRA, SANTA ESMERALDA, ARAPIRACA",
+        "cep": "57312013",
+        "coordenadas": {
+            "lat": -9.7373461441378,
+            "lon": -36.64965192632416
+        }
+    },
+    {
+        "endereco": "QUADRA: B1, AGRESTE, ARAPIRACA",
+        "cep": "57300970"
+    },
+    {
+        "endereco": "RUA JOSÉ CORADO DOS ANJOS, SENADOR NILO COELHO, ARAPIRACA",
+        "cep": "57309-483 "
+    },
+    {
+        "endereco": "RUA ENOQUE BEZERRA DE LIMA, PLANALTO, ARAPIRACA",
+        "cep": "57308714"
+    },
+    {
+        "endereco": "RUA PROJETADA , PLANALTO, ARAPIRACA",
+        "cep": "57304010"
+    },
+    {
+        "endereco": "RUA CEARÁ, NOVA ESPERANÇA, ARAPIRACA",
+        "cep": "57316466"
+    },
+    {
+        "endereco": "RUA EUCLIDES MARQUES DE SÁ, JOÃO PAULO II, ARAPIRACA",
+        "cep": "57316648"
+    },
+    {
+        "endereco": "RUA ÂNGELO SOBRINHO, CAVACO, ARAPIRACA",
+        "cep": "57306530",
+        "coordenadas": {
+            "lat": -9.73542323652446,
+            "lon": -36.68121023202994
+        }
+    },
+    {
+        "endereco": "RUA AMÉLIA NUNES CORREIA, PLANALTO, ARAPIRACA",
+        "cep": "57308720",
+        "coordenadas": {
+            "lat": -9.720354018894232,
+            "lon": -36.666444752867115
+        }
+    },
+    {
+        "endereco": "RUA GOVERNADOR LUIZ CAVALCANTE, ALTO DO CRUZEIRO, ARAPIRACA",
+        "cep": "57312270",
+        "coordenadas": {
+            "lat": -9.7505554,
+            "lon": -36.6580852
+        }
+    },
+    {
+        "endereco": "RUA PRESIDENTE TANCREDO DE ALMEIDA NEVES, NOVO HORIZONTE, ARAPIRACA",
+        "cep": "57312700"
+    },
+    {
+        "endereco": "RUA ANTÔNIO OLIVEIRA MELO, BRASÍLIA, ARAPIRACA",
+        "cep": "57313050",
+        "coordenadas": {
+            "lat": -9.754537503578074,
+            "lon": -36.65060432598325
+        }
+    },
+    {
+        "endereco": "RUA JOSÉ LOPES DA SILVA, CENTRO, ARAPIRACA",
+        "cep": "57300130",
+        "coordenadas": {
+            "lat": -9.75384197688912,
+            "lon": -36.66545545528394
+        }
+    },
+    {
+        "endereco": "RUA PEDRO NUNES DE ALBUQUERQUE, CENTRO, ARAPIRACA",
+        "cep": "57300550",
+        "coordenadas": {
+            "lat": -9.745301232004735,
+            "lon": -36.664552339411934
+        }
+    },
+    {
+        "endereco": "RUA DÁCIA BEZERRA CAVALCANTE, BRASÍLIA, ARAPIRACA",
+        "cep": "57313100",
+        "coordenadas": {
+            "lat": -9.75260418528218,
+            "lon": -36.651186421074605
+        }
+    },
+    {
+        "endereco": "AVENIDA ANDRÉ AVELINO DA SILVA, JARDIM ESPERANÇA, ARAPIRACA",
+        "cep": "57307330"
+    },
+    {
+        "endereco": "RUA FLORÊNCIO APOLINÁRIO, ALTO DO CRUZEIRO, ARAPIRACA",
+        "cep": "57312440",
+        "coordenadas": {
+            "lat": -9.751541659589762,
+            "lon": -36.65635055163262
+        }
+    },
+    {
+        "endereco": "RUA NOSSA SENHORA DA PENHA, CAITITUS, ARAPIRACA",
+        "cep": "57265000",
+        "coordenadas": {
+            "lat": -9.73980554458123,
+            "lon": -36.65631799642573
+        }
+    },
+    {
+        "endereco": "RUA PRIMAVERA, PRIMAVERA, ARAPIRACA",
+        "cep": "57304210",
+        "coordenadas": {
+            "lat": -9.76401987971684,
+            "lon": -36.657853898946776
+        }
+    },
+    {
+        "endereco": "RUA JOSÉ FERREIRA DA SILVA, BRASÍLIA, ARAPIRACA",
+        "cep": "57313-755",
+        "coordenadas": {
+            "lat": -9.752403623900037,
+            "lon": -36.63952956896352
+        }
+    },
+    {
+        "endereco": "RUA DELMIRO GOUVEIA, ALTO DO CRUZEIRO, ARAPIRACA",
+        "cep": "57312415",
+        "coordenadas": {
+            "lat": -9.751992755270349,
+            "lon": -36.656695526501274
+        }
+    },
+    {
+        "endereco": "QUADRA 37 LOTE 2L, BOM SUCESSO , ARAPIRACA",
+        "cep": "57300970"
+    },
+    {
+        "endereco": "RUA FERNANDES LIMA, CENTRO, ARAPIRACA",
+        "cep": "57300070",
+        "coordenadas": {
+            "lat": -9.754112895229053,
+            "lon": -36.661116458162404
+        }
+    },
+    {
+        "endereco": "RUA NÉ FIRMINO, PLANALTO, ARAPIRACA",
+        "cep": "57308090",
+        "coordenadas": {
+            "lat": -9.726563870713097,
+            "lon": -36.668388813706
+        }
+    },
+    {
+        "endereco": "RUA MANOEL LÚCIO DA SILVA, PRIMAVERA, ARAPIRACA",
+        "cep": "57304350",
+        "coordenadas": {
+            "lat": -9.758210267244609,
+            "lon": -36.661818805188105
+        }
+    },
+    {
+        "endereco": "RUA ÂNGELO SOBRINHO, SENADOR NILO COELHO, ARAPIRACA",
+        "cep": "57309460"
+    },
+    {
+        "endereco": "RUA ESTUDANTE JOSEANE DE LIMA, CACIMBAS, ARAPIRACA",
+        "cep": "57304475",
+        "coordenadas": {
+            "lat": -9.75723788857224,
+            "lon": -36.66285691277789
+        }
+    },
+    {
+        "endereco": "RUA JOSÉ ANTÔNIO DE ALBUQUERQUE, CAITITUS, ARAPIRACA",
+        "cep": "57311260",
+        "coordenadas": {
+            "lat": -9.740244381044983,
+            "lon": -36.65659650246622
+        }
+    },
+    {
+        "endereco": "RUA BRASÍLIA, BRASÍLIA, ARAPIRACA",
+        "cep": "57313130",
+        "coordenadas": {
+            "lat": -9.752742339285282,
+            "lon": -36.653062255951
+        }
+    },
+    {
+        "endereco": "RUA GILBERTO FÉLIX DE MENEZES, SENADOR ARNON DE MELO, ARAPIRACA",
+        "cep": "57315-780",
+        "coordenadas": {
+            "lat": -9.734545808445764,
+            "lon": -36.64304101285582
+        }
+    },
+    {
+        "endereco": "ODETE FERNANDES, NOVA ESPERANÇA, ARAPIRACA",
+        "cep": "57316456"
+    },
+    {
+        "endereco": "CÍCERO TORRES, BRASÍLIA, ARAPIRACA",
+        "cep": "57313-170",
+        "coordenadas": {
+            "lat": -9.755004652023159,
+            "lon": -36.64547770690867
+        }
+    },
+    {
+        "endereco": "RUA JOSÉ BARBOSA DE MELO, CANAFÍSTULA, ARAPIRACA",
+        "cep": "57302620",
+        "coordenadas": {
+            "lat": -9.761697423492473,
+            "lon": -36.62817979982531
+        }
+    },
+    {
+        "endereco": "RUA OURO BRANCO, SANTA ESMERALDA, ARAPIRACA",
+        "cep": "57312020",
+        "coordenadas": {
+            "lat": -9.739569705942271,
+            "lon": -36.652823611347806
+        }
+    },
+    {
+        "endereco": "RUA ENGENHEIRO CAMILO COLLIER, PRIMAVERA, ARAPIRACA",
+        "cep": "57304240",
+        "coordenadas": {
+            "lat": -9.760948624825362,
+            "lon": -36.6573108688388
+        }
+    },
+    {
+        "endereco": "RUA PRIMAVERA, PRIMAVERA, ARAPIRACA",
+        "cep": "57304210",
+        "coordenadas": {
+            "lat": -9.76401987971684,
+            "lon": -36.657853898946776
+        }
+    },
+    {
+        "endereco": "RUA ELÍSIO BARBOSA, NOVA ESPERANÇA, ARAPIRACA",
+        "cep": "57316415"
+    },
+    {
+        "endereco": "RUA FELIZARDO JONAS LEAL ARAÚJO, BAIXA GRANDE, ARAPIRACA",
+        "cep": "57307100"
+    },
+    {
+        "endereco": "RUA JOSÉ HONORATO, PRIMAVERA, ARAPIRACA",
+        "cep": "57304390",
+        "coordenadas": {
+            "lat": -9.762336444512979,
+            "lon": -36.65908172653788
+        }
+    },
+    {
+        "endereco": "RUA MARAGOGI, JARDIM TROPICAL, ARAPIRACA",
+        "cep": "57316025"
+    },
+    {
+        "endereco": "RUA PROFESSORA TEREZINHA AMORIM DE OLIVEIRA, SANTA ESMERALDA, ARAPIRACA",
+        "cep": "57312013",
+        "coordenadas": {
+            "lat": -9.7373461441378,
+            "lon": -36.64965192632416
+        }
+    },
+    {
+        "endereco": "RUA MANOEL AFONSO MARANHÃO, BAIXA GRANDE, ARAPIRACA",
+        "cep": "57307185",
+        "coordenadas": {
+            "lat": -9.72806438461317,
+            "lon": -36.67096717076187
+        }
+    },
+    {
+        "endereco": "RUA ESTUDANTE JOSEANE DE LIMA, CACIMBAS, ARAPIRACA",
+        "cep": "57304475",
+        "coordenadas": {
+            "lat": -9.75723788857224,
+            "lon": -36.66285691277789
+        }
+    },
+    {
+        "endereco": "RUA ARAÇÁ, MASSARANDUBA, ARAPIRACA",
+        "cep": "57309638"
+    },
+    {
+        "endereco": "RUA DA LIBERDADE, SANTA ESMERALDA, ARAPIRACA",
+        "cep": "57312230",
+        "coordenadas": {
+            "lat": -9.74044497403002,
+            "lon": -36.6460984896686
+        }
+    },
+    {
+        "endereco": "RUA PORTO CALVO, MANUEL TELES, ARAPIRACA",
+        "cep": "57305-195"
+    },
+    {
+        "endereco": "RUA ENOQUE BEZERRA DE LIMA, PLANALTO, ARAPIRACA",
+        "cep": "57308714"
+    },
+    {
+        "endereco": "RUA TERTULIANO BARBOSA LEITE, CANAFÍSTULA, ARAPIRACA",
+        "cep": "57302160",
+        "coordenadas": {
+            "lat": -9.760477496230926,
+            "lon": -36.63423856494459
+        }
+    },
+    {
+        "endereco": "RUA JOSÉ JÚLIO DE ALMEIDA, VERDES CAMPOS, ARAPIRACA",
+        "cep": "57303038"
+    },
+    {
+        "endereco": "RUA PRINCESA IZABEL, BATINGAS, ARAPIRACA",
+        "cep": "57317581"
+    },
+    {
+        "endereco": "RUA JACARÉ DOS HOMENS, PLANALTO, ARAPIRACA",
+        "cep": "57308270",
+        "coordenadas": {
+            "lat": -9.720966506957335,
+            "lon": -36.665284887406074
+        }
+    },
+    {
+        "endereco": "RUA FRANCISCO CAVALCANTE, PRIMAVERA, ARAPIRACA",
+        "cep": "57304090",
+        "coordenadas": {
+            "lat": -9.766776483637942,
+            "lon": -36.66333222212278
+        }
+    },
+    {
+        "endereco": "NOSSA SENHORA DA SALETE, ALTO DO CRUZEIRO, ARAPIRACA",
+        "cep": "57312390",
+        "coordenadas": {
+            "lat": -9.747215095141065,
+            "lon": -36.64985233472027
+        }
+    },
+    {
+        "endereco": "RUA TRINTA DE OUTUBRO, CENTRO, ARAPIRACA",
+        "cep": "57300380",
+        "coordenadas": {
+            "lat": -9.749546560142418,
+            "lon": -36.66300875336671
+        }
+    },
+    {
+        "endereco": "RUA JOANA PEREIRA AZEVEDO, CAPIATÃ, ARAPIRACA",
+        "cep": "57310120",
+        "coordenadas": {
+            "lat": -9.742386849999999,
+            "lon": -36.663029050000006
+        }
+    },
+    {
+        "endereco": "RUA ENGENHEIRO CAMILO COLLIER - LADO PAR, PRIMAVERA, ARAPIRACA",
+        "cep": "57304240"
+    },
+    {
+        "endereco": "PRAÇA MANOEL ANDRÉ, CENTRO, ARAPIRACA",
+        "cep": "57300005",
+        "coordenadas": {
+            "lat": -9.7508156,
+            "lon": -36.65994794981512
+        }
+    },
+    {
+        "endereco": "RUA MÉDICO DANIEL HOULY DE ALMEIDA, MASSARANDUBA, ARAPIRACA",
+        "cep": "57309-758",
+        "coordenadas": {
+            "lat": -9.713397376576507,
+            "lon": -36.66908843831414
+        }
+    },
+    {
+        "endereco": "RUA SÃO JOSÉ, ALTO DO CRUZEIRO, ARAPIRACA",
+        "cep": "57312465",
+        "coordenadas": {
+            "lat": -9.749513260902443,
+            "lon": -36.65555557651994
+        }
+    },
+    {
+        "endereco": "RUA EXPEDICIONÁRIOS BRASILEIROS, CENTRO, ARAPIRACA",
+        "cep": "57.300-590",
+        "coordenadas": {
+            "lat": -9.746530044370724,
+            "lon": -36.66553197507389
+        }
+    },
+    {
+        "endereco": "AVENIDA VIRGÍLIO VIEIRA DA ROCHA, SÃO LUIZ, ARAPIRACA",
+        "cep": "57301391",
+        "coordenadas": {
+            "lat": -9.770308211526924,
+            "lon": -36.64797794265141
+        }
+    },
+    {
+        "endereco": "RUA ANTÔNIO FELICIANO, CANAFÍSTULA, ARAPIRACA",
+        "cep": "57302200",
+        "coordenadas": {
+            "lat": -9.763610111281597,
+            "lon": -36.62821127958484
+        }
+    },
+    {
+        "endereco": "RUA ZILDA CAVALCANTE, VERDES CAMPOS, ARAPIRACA",
+        "cep": "57303106"
+    },
+    {
+        "endereco": "RUA VEREADOR BENÍCIO ALVES DE OLIVEIRA, CACIMBAS, ARAPIRACA",
+        "cep": "57304510",
+        "coordenadas": {
+            "lat": -9.758949338724879,
+            "lon": -36.665414266894636
+        }
+    },
+    {
+        "endereco": "RUA MANOEL MARTINS LEMOS, PRIMAVERA, ARAPIRACA",
+        "cep": "57304150",
+        "coordenadas": {
+            "lat": -9.767227687765763,
+            "lon": -36.66047206573166
+        }
+    },
+    {
+        "endereco": "RUA JOSÉ HORÁCIO DA SILVA, NOVA ESPERANÇA, ARAPIRACA",
+        "cep": "57316424"
+    },
+    {
+        "endereco": "RUA JOSÉ AUGUSTO PEREIRA, SANTA ESMERALDA, ARAPIRACA",
+        "cep": "57312110",
+        "coordenadas": {
+            "lat": -9.739587747773363,
+            "lon": -36.64791283874669
+        }
+    },
+    {
+        "endereco": "RUA SETE DE SETEMBRO, CENTRO, ARAPIRACA",
+        "cep": "57300480",
+        "coordenadas": {
+            "lat": -9.746864675919507,
+            "lon": -36.66151133724879
+        }
+    },
+    {
+        "endereco": "RUA DUARTE COELHO, PRIMAVERA, ARAPIRACA",
+        "cep": "57304010",
+        "coordenadas": {
+            "lat": -9.770377103849436,
+            "lon": -36.66471390360086
+        }
+    },
+    {
+        "endereco": "RUA JOSÉ NETO TOTÓ, SANTA ESMERALDA, ARAPIRACA",
+        "cep": "57312030",
+        "coordenadas": {
+            "lat": -9.742494031388896,
+            "lon": -36.653643970597095
+        }
+    },
+    {
+        "endereco": "RUA CARMELITA NUNES DE ALBUQUERQUE, SANTA EDWIGES, ARAPIRACA",
+        "cep": "57310370",
+        "coordenadas": {
+            "lat": -9.737490406562708,
+            "lon": -36.66232944292036
+        }
+    },
+    {
+        "endereco": "RUA FLORACI MARIA DE ALBUQUERQUE, SENADOR NILO COELHO, ARAPIRACA",
+        "cep": "57309452"
+    },
+    {
+        "endereco": "RUA HELENO CASTRO ALVES, PLANALTO, ARAPIRACA",
+        "cep": "57308580",
+        "coordenadas": {
+            "lat": -9.725455931888922,
+            "lon": -36.66093027490193
+        }
+    },
+    {
+        "endereco": "RUA JOSUÉ LINO DA SILVA, BOA VISTA, ARAPIRACA",
+        "cep": "57303304",
+        "coordenadas": {
+            "lat": -9.783363626705851,
+            "lon": -36.634985877105805
+        }
+    },
+    {
+        "endereco": "RUA LUCIANA RODRIGUES DE ARAÚJO, BOA VISTA, ARAPIRACA",
+        "cep": "57303215"
+    },
+    {
+        "endereco": "RUA VICENTE LEITE DA SILVA, CACIMBAS, ARAPIRACA",
+        "cep": "57304530",
+        "coordenadas": {
+            "lat": -9.760067313463436,
+            "lon": -36.666258696547835
+        }
+    },
+    {
+        "endereco": "SITIO BÁLSAMO, BÁLSAMO, ARAPIRACA",
+        "cep": "57318350"
+    },
+    {
+        "endereco": "RUA JOSÉ URSULINO DA ROCHA, OLHO D'ÁGUA DOS CAZUZINHAS, ARAPIRACA",
+        "cep": "57303898"
+    },
+    {
+        "endereco": "RUA MAURICÉSAR FERNANDES DOS SANTOS, CAPIATÃ, ARAPIRACA",
+        "cep": "57310200",
+        "coordenadas": {
+            "lat": -9.74094645,
+            "lon": -36.66408385
+        }
+    },
+    {
+        "endereco": "RUA PEDRO ALEXANDRE, CAVACO, ARAPIRACA",
+        "cep": "57306510",
+        "coordenadas": {
+            "lat": -9.738893653097414,
+            "lon": -36.680791107443056
+        }
+    },
+    {
+        "endereco": "RUA GUILHERME ULISSES FERREIRA DE OLIVEIRA, SENADOR ARNON DE MELO, ARAPIRACA",
+        "cep": "57315754",
+        "coordenadas": {
+            "lat": -9.73337108408593,
+            "lon": -36.64021466514762
+        }
+    },
+    {
+        "endereco": "RUA SANTO AMARO, CAITITUS, ARAPIRACA",
+        "cep": "57311190",
+        "coordenadas": {
+            "lat": -9.742959554880693,
+            "lon": -36.6572108923748
+        }
+    },
+    {
+        "endereco": "RUA PRINCESA IZABEL, BATINGAS, ARAPIRACA",
+        "cep": "57317581"
+    },
+    {
+        "endereco": "RUA DA LIBERDADE, SANTA ESMERALDA, ARAPIRACA",
+        "cep": "57312230",
+        "coordenadas": {
+            "lat": -9.74044497403002,
+            "lon": -36.6460984896686
+        }
+    },
+    {
+        "endereco": "RUA ANTÔNIO JUVINO DA SILVA , CANAÃ, ARAPIRACA",
+        "cep": "57318750"
+    },
+    {
+        "endereco": "RUA LINO BARBOSA, JARDIM ESPERANÇA, ARAPIRACA",
+        "cep": "57307310",
+        "coordenadas": {
+            "lat": -9.728224649574566,
+            "lon": -36.673380242331795
+        }
+    },
+    {
+        "endereco": "RUA MINTERIO DANDÃO, PADRE ANTÔNIO LIMA NETO, ARAPIRACA",
+        "cep": "57304656",
+        "coordenadas": {
+            "lat": -9.761690848983212,
+            "lon": -36.668430384567216
+        }
+    },
+    {
+        "endereco": "RUA ANTÔNIO FELICIANO, CANAFÍSTULA, ARAPIRACA",
+        "cep": "57302200",
+        "coordenadas": {
+            "lat": -9.763610111281597,
+            "lon": -36.62821127958484
+        }
+    },
+    {
+        "endereco": "RUA LEONIDAS ABREU SILVA, MASSARANDUBA, ARAPIRACA",
+        "cep": "57309810"
+    },
+    {
+        "endereco": "RUA FRANCELINO DE BRITO, SENADOR NILO COELHO, ARAPIRACA",
+        "cep": "57309410"
+    },
+    {
+        "endereco": "ZONA RURAL, POÇÃO, ARAPIRACA",
+        "cep": "57319300"
+    },
+    {
+        "endereco": "ZONA RURAL, CASA, BÁLSAMO, ARAPIRACA",
+        "cep": "57318350"
+    },
+    {
+        "endereco": "AVENIDA JOSÉ MARQUES FREIRE, NOVO HORIZONTE, ARAPIRACA",
+        "cep": "57312670"
+    },
+    {
+        "endereco": "RUA ANTÔNIO MIZAEL, BOA VISTA, ARAPIRACA",
+        "cep": "57303310",
+        "coordenadas": {
+            "lat": -9.787571632944502,
+            "lon": -36.634132705157874
+        }
+    },
+    {
+        "endereco": "RUA MARECHAL DEODORO DA FONSECA, BRASÍLIA, ARAPIRACA",
+        "cep": "57313010",
+        "coordenadas": {
+            "lat": -9.757942419181923,
+            "lon": -36.651643766815184
+        }
+    },
+    {
+        "endereco": "RUA LUCIANA RODRIGUES DE ARAÚJO, BOA VISTA, ARAPIRACA",
+        "cep": "57303215"
+    },
+    {
+        "endereco": "RUA ADALGISA FERNANDES CAVALCANTE, SÃO LUIZ II, ARAPIRACA",
+        "cep": "57301734",
+        "coordenadas": {
+            "lat": -9.770334948232252,
+            "lon": -36.65391867841224
+        }
+    },
+    {
+        "endereco": "RUA MARTA JANAÍNA, CAVACO, ARAPIRACA",
+        "cep": "57306790",
+        "coordenadas": {
+            "lat": -9.73467455426422,
+            "lon": -36.67700976802349
+        }
+    },
+    {
+        "endereco": "RUA JOSÉ HONORATO, PRIMAVERA, ARAPIRACA",
+        "cep": "57304390",
+        "coordenadas": {
+            "lat": -9.762336444512979,
+            "lon": -36.65908172653788
+        }
+    },
+    {
+        "endereco": "RUA LINO ROBERTO, CAITITUS, ARAPIRACA",
+        "cep": "57311275",
+        "coordenadas": {
+            "lat": -9.737860253720031,
+            "lon": -36.656103115602924
+        }
+    },
+    {
+        "endereco": "RUA JOSÉ NETO TOTÓ, SANTA ESMERALDA, ARAPIRACA",
+        "cep": "57312030",
+        "coordenadas": {
+            "lat": -9.742494031388896,
+            "lon": -36.653643970597095
+        }
+    },
+    {
+        "endereco": "RUA SANTA TEREZA, BAIXA GRANDE, ARAPIRACA",
+        "cep": "57307155",
+        "coordenadas": {
+            "lat": -9.731454771390133,
+            "lon": -36.67443419569243
+        }
+    },
+    {
+        "endereco": "RUA DOM JONAS BATINGA, OURO PRETO, ARAPIRACA",
+        "cep": "57301130",
+        "coordenadas": {
+            "lat": -9.761539711965275,
+            "lon": -36.65631268938696
+        }
+    },
+    {
+        "endereco": "RUA FRANCISCO CAVALCANTE, PRIMAVERA, ARAPIRACA",
+        "cep": "57304090",
+        "coordenadas": {
+            "lat": -9.766776483637942,
+            "lon": -36.66333222212278
+        }
+    },
+    {
+        "endereco": "AVENIDA VEREADOR JOÃO SATURNINO DE ALMEIDA, BOA VISTA, ARAPIRACA",
+        "cep": "57303265",
+        "coordenadas": {
+            "lat": -9.77783623271406,
+            "lon": -36.64274210813473
+        }
+    },
+    {
+        "endereco": "RUA HELENA FERNANDES DE SOUZA, JARDIM ESPERANÇA, ARAPIRACA",
+        "cep": "57307315"
+    },
+    {
+        "endereco": "RUA JOÃO MIGUEL DOS ANJOS, MASSARANDUBA, ARAPIRACA",
+        "cep": "57309776",
+        "coordenadas": {
+            "lat": -9.716371132858724,
+            "lon": -36.67311735946199
+        }
+    },
+    {
+        "endereco": "RUA MANOEL MESSIAS, PLANALTO, ARAPIRACA",
+        "cep": "57308850",
+        "coordenadas": {
+            "lat": -9.724551304791719,
+            "lon": -36.66121042275638
+        }
+    },
+    {
+        "endereco": "RUA DIONÉZIA MARIA DA SILVA, SENADOR NILO COELHO, ARAPIRACA",
+        "cep": "57309487"
+    },
+    {
+        "endereco": "RUA SARGENTO BENEVIDES MONTES, CACIMBAS, ARAPIRACA",
+        "cep": "57304482",
+        "coordenadas": {
+            "lat": -9.760737120152891,
+            "lon": -36.66085452173413
+        }
+    },
+    {
+        "endereco": "RUA LEITE IRMÃO, BRASÍLIA, ARAPIRACA",
+        "cep": "57313030",
+        "coordenadas": {
+            "lat": -9.752710608923763,
+            "lon": -36.65471013921786
+        }
+    },
+    {
+        "endereco": "AVENIDA ELÍSIO NUNES SILVA, JARDIM ESPERANÇA, ARAPIRACA",
+        "cep": "57307390",
+        "coordenadas": {
+            "lat": -9.728985299748295,
+            "lon": -36.67755133846993
+        }
+    },
+    {
+        "endereco": "RUA DA LIBERDADE, SANTA ESMERALDA, ARAPIRACA",
+        "cep": "57312230",
+        "coordenadas": {
+            "lat": -9.74044497403002,
+            "lon": -36.6460984896686
+        }
+    },
+    {
+        "endereco": "RUA EXPEDICIONÁRIOS BRASILEIROS, CENTRO, ARAPIRACA",
+        "cep": "57300590",
+        "coordenadas": {
+            "lat": -9.746530044370724,
+            "lon": -36.66553197507389
+        }
+    },
+    {
+        "endereco": "RUA ZILDA GUIMARÃES SILVA, CANAFÍSTULA, ARAPIRACA",
+        "cep": "57302702"
+    },
+    {
+        "endereco": "RUA ESTUDANTE LÚCIO FLÁVIO DA SILVA, SANTA EDWIGES, ARAPIRACA",
+        "cep": "57310350"
+    },
+    {
+        "endereco": "RUA AGOSTINHO SEVERINO DOS SANTOS, MANUEL TELES, ARAPIRACA",
+        "cep": "57305242"
+    },
+    {
+        "endereco": "RUA DOM JOÃO VI, CAPIATÃ, ARAPIRACA",
+        "cep": "57310110",
+        "coordenadas": {
+            "lat": -9.74312989880863,
+            "lon": -36.66292345922169
+        }
+    },
+    {
+        "endereco": "RUA CAJUEIRO, PLANALTO, ARAPIRACA",
+        "cep": "57308490",
+        "coordenadas": {
+            "lat": -9.727777503652511,
+            "lon": -36.664018784832784
+        }
+    },
+    {
+        "endereco": "PRAÇA MANOEL ANDRÉ, CENTRO, ARAPIRACA",
+        "cep": "57300005",
+        "coordenadas": {
+            "lat": -9.7508156,
+            "lon": -36.65994794981512
+        }
+    },
+    {
+        "endereco": "RUA BELA VISTA, BRASÍLIA, ARAPIRACA",
+        "cep": "57313180",
+        "coordenadas": {
+            "lat": -9.75291854931378,
+            "lon": -36.64326844876793
+        }
+    },
+    {
+        "endereco": "RUA SEBASTIÃO FLORENTINO DOS SANTOS, GUARIBAS, ARAPIRACA",
+        "cep": "57303716"
+    },
+    {
+        "endereco": "RUA SENADOR RUI PALMEIRA, BRASÍLIA, ARAPIRACA",
+        "cep": "57313070",
+        "coordenadas": {
+            "lat": -9.750620470752285,
+            "lon": -36.649027999929295
+        }
+    },
+    {
+        "endereco": "RUA MARECHAL FLORIANO PEIXOTO, ELDORADO, ARAPIRACA",
+        "cep": "57306185",
+        "coordenadas": {
+            "lat": -9.745451543161426,
+            "lon": -36.667571833774005
+        }
+    },
+    {
+        "endereco": "RUA LÚCIO VITAL, CANAFÍSTULA, ARAPIRACA",
+        "cep": "57302210",
+        "coordenadas": {
+            "lat": -9.76093812223494,
+            "lon": -36.638207546834245
+        }
+    },
+    {
+        "endereco": "RUA ESTUDANTE ANA BEATRIZ, PRIMAVERA, ARAPIRACA",
+        "cep": "57304060",
+        "coordenadas": {
+            "lat": -9.767786718478723,
+            "lon": -36.663109344927086
+        }
+    },
+    {
+        "endereco": "RUA DOM FELÍCIO VASCONCELOS, CAPIATÃ, ARAPIRACA",
+        "cep": "57310111",
+        "coordenadas": {
+            "lat": -9.745373384900237,
+            "lon": -36.664885870718074
+        }
+    },
+    {
+        "endereco": "RUA PEDRO BERNARDINO DA SILVA, ALTO DO CRUZEIRO, ARAPIRACA",
+        "cep": "57312255"
+    },
+    {
+        "endereco": "AVENIDA MIGUEL CORREIA AMORIM, BAIXÃO, ARAPIRACA",
+        "cep": "57305495",
+        "coordenadas": {
+            "lat": -9.74886942023267,
+            "lon": -36.67249037579565
+        }
+    },
+    {
+        "endereco": "RUA DERMERVAL PEREIRA DE OLIVEIRA, ZÉLIA BARBOSA ROCHA, ARAPIRACA",
+        "cep": "57305625"
+    },
+    {
+        "endereco": "RUA MARECHAL HERMES DA FONSECA, ELDORADO, ARAPIRACA",
+        "cep": "57306100",
+        "coordenadas": {
+            "lat": -9.744317041960128,
+            "lon": -36.66959941866193
+        }
+    },
+    {
+        "endereco": "RUA PROFESSORA NIREIDE BRITO SILVA, BRASILIANA, ARAPIRACA",
+        "cep": "57310505",
+        "coordenadas": {
+            "lat": -9.737612,
+            "lon": -36.66425755
+        }
+    },
+    {
+        "endereco": "RUA JOSEFA JOSELITA NUNES PAULINO, MASSARANDUBA, ARAPIRACA",
+        "cep": "57309650",
+        "coordenadas": {
+            "lat": -9.717774187427459,
+            "lon": -36.66408289202574
+        }
+    },
+    {
+        "endereco": "RUA PEDRO ALEXANDRE, SENADOR NILO COELHO, ARAPIRACA",
+        "cep": "57309470"
+    },
+    {
+        "endereco": "RUA PROFESSOR DOMINGOS RODRIGUES, CENTRO, ARAPIRACA",
+        "cep": "57300470",
+        "coordenadas": {
+            "lat": -9.745731185396538,
+            "lon": -36.66078025650255
+        }
+    },
+    {
+        "endereco": "RUA SAPUCAIA, SENADOR NILO COELHO, ARAPIRACA",
+        "cep": "57309500"
+    },
+    {
+        "endereco": "RUA BRASÍLIA, BRASÍLIA, ARAPIRACA",
+        "cep": "57313130",
+        "coordenadas": {
+            "lat": -9.752742339285282,
+            "lon": -36.653062255951
+        }
+    },
+    {
+        "endereco": "RUA MANOEL NUNES FILHO, PLANALTO, ARAPIRACA",
+        "cep": "57308301",
+        "coordenadas": {
+            "lat": -9.723006134064208,
+            "lon": -36.6624554915418
+        }
+    },
+    {
+        "endereco": "RUA JOSEFA BASTOS SILVA, BOA VISTA, ARAPIRACA",
+        "cep": "57303212"
+    },
+    {
+        "endereco": "RUA CELESTINA MARIA DO NASCIMENTO, SANTA EDWIGES, ARAPIRACA",
+        "cep": "57310250",
+        "coordenadas": {
+            "lat": -9.737658301629818,
+            "lon": -36.65971914196582
+        }
+    },
+    {
+        "endereco": "RUA NOEL FREIRE, BAIXA GRANDE, ARAPIRACA",
+        "cep": "57307080",
+        "coordenadas": {
+            "lat": -9.734053124982822,
+            "lon": -36.67243391665378
+        }
+    },
+    {
+        "endereco": "RUA NOSSA SENHORA DA SALETE, ALTO DO CRUZEIRO, ARAPIRACA",
+        "cep": "57312390",
+        "coordenadas": {
+            "lat": -9.747215095141065,
+            "lon": -36.64985233472027
+        }
+    },
+    {
+        "endereco": "AVENIDA ELVIRA BARBOSA LOPES, ITAPOÃ, ARAPIRACA",
+        "cep": "57312210",
+        "coordenadas": {
+            "lat": -9.750243677816234,
+            "lon": -36.63843882524444
+        }
+    },
+    {
+        "endereco": "RUA MARIA DOS SANTOS SILVA, CANAFÍSTULA, ARAPIRACA",
+        "cep": "57302720",
+        "coordenadas": {
+            "lat": -9.7748982,
+            "lon": -36.632007472879984
+        }
+    },
+    {
+        "endereco": "RUA MANOEL MARTINS LEMOS, PRIMAVERA, ARAPIRACA",
+        "cep": "57304150",
+        "coordenadas": {
+            "lat": -9.767227687765763,
+            "lon": -36.66047206573166
+        }
+    },
+    {
+        "endereco": "RUA SÃO JUDAS TADEU, BRASÍLIA, ARAPIRACA",
+        "cep": "57313740",
+        "coordenadas": {
+            "lat": -9.752614000000001,
+            "lon": -36.642517
+        }
+    },
+    {
+        "endereco": "PRINCIPAL, CANGANDU, ARAPIRACA",
+        "cep": "57318100"
+    },
+    {
+        "endereco": "RUA MINTERIO DANDÃO, PADRE ANTÔNIO LIMA NETO, ARAPIRACA",
+        "cep": "57304656",
+        "coordenadas": {
+            "lat": -9.761690848983212,
+            "lon": -36.668430384567216
+        }
+    },
+    {
+        "endereco": "RUA JOSÉ AUGUSTO PEREIRA, SANTA ESMERALDA, ARAPIRACA",
+        "cep": "57312110",
+        "coordenadas": {
+            "lat": -9.739587747773363,
+            "lon": -36.64791283874669
+        }
+    },
+    {
+        "endereco": "RUA BOM CONSELHO, MANUEL TELES, ARAPIRACA",
+        "cep": "57305130"
+    },
+    {
+        "endereco": "ZONA RURAL , SÍTIO POÇÃO, ARAPIRACA",
+        "cep": "57319300"
+    },
+    {
+        "endereco": "RUA ADEMAR MEDEIROS, PLANALTO, ARAPIRACA",
+        "cep": "57308100",
+        "coordenadas": {
+            "lat": -9.727159661821018,
+            "lon": -36.66769032750954
+        }
+    },
+    {
+        "endereco": "RUA CELESTINA MARIA DO NASCIMENTO, SANTA EDWIGES, ARAPIRACA",
+        "cep": "57310250",
+        "coordenadas": {
+            "lat": -9.737658301629818,
+            "lon": -36.65971914196582
+        }
+    },
+    {
+        "endereco": "RUA PROFESSORA CHIQUINHA MACÊDO, CACIMBAS, ARAPIRACA",
+        "cep": "57304564",
+        "coordenadas": {
+            "lat": -9.759973332234074,
+            "lon": -36.66741828450045
+        }
+    },
+    {
+        "endereco": "RUA MARIA VICÊNCIA DE ALBUQUERQUE, CAPIATÃ, ARAPIRACA",
+        "cep": "57310180",
+        "coordenadas": {
+            "lat": -9.74030372050096,
+            "lon": -36.66394618097539
+        }
+    },
+    {
+        "endereco": "RUA NIRALDO VENTURA DE LIMA, ZÉLIA BARBOSA ROCHA, ARAPIRACA",
+        "cep": "57305827",
+        "coordenadas": {
+            "lat": -9.746562973317483,
+            "lon": -36.68141990470896
+        }
+    },
+    {
+        "endereco": "RUA FRANCISCO OTÍLIO DOS SANTOS, BAIXA GRANDE, ARAPIRACA",
+        "cep": "57307060",
+        "coordenadas": {
+            "lat": -9.734782276641162,
+            "lon": -36.673510312999284
+        }
+    },
+    {
+        "endereco": "RUA MARLENE BARBOSA DA SILVA, OLHO D'ÁGUA DOS CAZUZINHAS, ARAPIRACA",
+        "cep": "57303817"
+    },
+    {
+        "endereco": "SÃO JOÃO, BANANEIRAS, ARAPIRACA",
+        "cep": "57318450"
+    },
+    {
+        "endereco": "ANACLETO CARDOSO, CANAÃ, ARAPIRACA",
+        "cep": "57318750",
+        "coordenadas": {
+            "lat": -9.711839372671035,
+            "lon": -36.70927866394278
+        }
+    },
+    {
+        "endereco": "RUA ROSENDO LIMA, PRIMAVERA, ARAPIRACA",
+        "cep": "57304110",
+        "coordenadas": {
+            "lat": -9.766994613578508,
+            "lon": -36.660856058623345
+        }
+    },
+    {
+        "endereco": "RUA PEDRO GOMES DA SILVA, BOM SUCESSO, ARAPIRACA",
+        "cep": "57309072"
+    },
+    {
+        "endereco": "RUA BENILDE LISBOA DE ALMEIDARUA , BRASILIANA, ARAPIRACA",
+        "cep": "57310507"
+    },
+    {
+        "endereco": "RUA PROCÓPIO JOSÉ DA SILVA, BRASÍLIA, ARAPIRACA",
+        "cep": "57313750",
+        "coordenadas": {
+            "lat": -9.751534792227755,
+            "lon": -36.64314879288452
+        }
+    },
+    {
+        "endereco": "PRAÇA LUIZ PEREIRA LIMA, CENTRO, ARAPIRACA",
+        "cep": "57300970"
+    },
+    {
+        "endereco": "RUA PAULO VI, PRIMAVERA, ARAPIRACA",
+        "cep": "57304180",
+        "coordenadas": {
+            "lat": -9.765449538965308,
+            "lon": -36.660088834419895
+        }
+    },
+    {
+        "endereco": "RUA JÚLIO RAFAEL, CANAFÍSTULA, ARAPIRACA",
+        "cep": "57302190",
+        "coordenadas": {
+            "lat": -9.759292359922812,
+            "lon": -36.63046901967014
+        }
+    },
+    {
+        "endereco": "RUA AMÉLIA NUNES CORREIA, PLANALTO, ARAPIRACA",
+        "cep": "57308720",
+        "coordenadas": {
+            "lat": -9.720354018894232,
+            "lon": -36.666444752867115
+        }
+    },
+    {
+        "endereco": "RUA MARLÚCIA ALVES DE OLIVEIRA, SENADOR NILO COELHO, ARAPIRACA",
+        "cep": "57309488"
+    },
+    {
+        "endereco": "RUA RENATO VICTOR DA SILVA, MASSARANDUBA, ARAPIRACA",
+        "cep": "57309782",
+        "coordenadas": {
+            "lat": -9.715262640427971,
+            "lon": -36.673786455030516
+        }
+    },
+    {
+        "endereco": "RUA DELMIRO GOUVEIA, ALTO DO CRUZEIRO, ARAPIRACA",
+        "cep": "57312415",
+        "coordenadas": {
+            "lat": -9.751992755270349,
+            "lon": -36.656695526501274
+        }
+    },
+    {
+        "endereco": "RUA BELO MONTE, JARDIM TROPICAL, ARAPIRACA",
+        "cep": "57316045"
+    },
+    {
+        "endereco": "RUA LUCIANA RODRIGUES DE ARAÚJO, BOA VISTA, ARAPIRACA",
+        "cep": "57303215"
+    },
+    {
+        "endereco": "RUA FAUSTO JOAQUIM LUCIANO, SENADOR TEOTÔNIO VILELA, ARAPIRACA",
+        "cep": "57311550",
+        "coordenadas": {
+            "lat": -9.74563376911378,
+            "lon": -36.660287771018716
+        }
+    },
+    {
+        "endereco": "RODOVIA AL-115 LOT CAMPO BELO, VERDES CAMPOS, ARAPIRACA",
+        "cep": "57303182"
+    },
+    {
+        "endereco": "SITIO CORREDOR , CANAÃ, ARAPIRACA",
+        "cep": "57318750"
+    },
+    {
+        "endereco": "SÍTIO POÇO DE SANTANA , ZONA RURAL , ARAPIRACA",
+        "cep": "57319780"
+    },
+    {
+        "endereco": "RUA BENEDITO JOSÉ DOS SANTOS, SENADOR NILO COELHO, ARAPIRACA",
+        "cep": "57309486"
+    },
+    {
+        "endereco": "RUA LÚCIO VITAL, CANAFÍSTULA, ARAPIRACA",
+        "cep": "57302210",
+        "coordenadas": {
+            "lat": -9.76093812223494,
+            "lon": -36.638207546834245
+        }
+    },
+    {
+        "endereco": "RUA PEDRO BERNARDINO DA SILVA, ALTO DO CRUZEIRO, ARAPIRACA",
+        "cep": "57312255"
+    },
+    {
+        "endereco": "RUA FRANCISCO CAVALCANTE, PRIMAVERA, ARAPIRACA",
+        "cep": "57304090",
+        "coordenadas": {
+            "lat": -9.766776483637942,
+            "lon": -36.66333222212278
+        }
+    },
+    {
+        "endereco": "RUA DOM VITAL, CENTRO, ARAPIRACA",
+        "cep": "57300230",
+        "coordenadas": {
+            "lat": -9.753122487677206,
+            "lon": -36.663785727923035
+        }
+    },
+    {
+        "endereco": "RUA ELÍSIO BARBOSA, NOVA ESPERANÇA, ARAPIRACA",
+        "cep": "57316415"
+    },
+    {
+        "endereco": "RUA MANOEL JOÃO, CANAFÍSTULA, ARAPIRACA",
+        "cep": "57302140",
+        "coordenadas": {
+            "lat": -9.758175740259059,
+            "lon": -36.63538976198762
+        }
+    },
+    {
+        "endereco": "RUA MANOEL FIRMINO DE OLIVEIRA, NOVA ESPERANÇA, ARAPIRACA",
+        "cep": "57316422"
+    },
+    {
+        "endereco": "RUA COSTA RÊGO, ALTO DO CRUZEIRO, ARAPIRACA",
+        "cep": "57312280",
+        "coordenadas": {
+            "lat": -9.749943817953802,
+            "lon": -36.6556623641763
+        }
+    },
+    {
+        "endereco": "AVENIDA MINERVINA FRANCISCA DA CONCEIÇÃO, SANTA ESMERALDA, ARAPIRACA",
+        "cep": "57312215"
+    },
+    {
+        "endereco": "RUA JOSÉ ELIOTÉRIO SOBRINHO, PLANALTO, ARAPIRACA",
+        "cep": "57308440"
+    },
+    {
+        "endereco": "RUA ESTELITA DE MACÊDO, SANTA ESMERALDA, ARAPIRACA",
+        "cep": "57312105",
+        "coordenadas": {
+            "lat": -9.739062176253613,
+            "lon": -36.65169320715439
+        }
+    },
+    {
+        "endereco": "RUA JOSÉ AMARO DA SILVA, SENADOR NILO COELHO, ARAPIRACA",
+        "cep": "57309400"
+    },
+    {
+        "endereco": "RUA MARIA ENGRÁCIA DE FARIAS, ZÉLIA BARBOSA ROCHA, ARAPIRACA",
+        "cep": "57305800"
+    },
+    {
+        "endereco": "RUA JAILDE PEREIRA, CANAFÍSTULA, ARAPIRACA",
+        "cep": "57302774"
+    },
+    {
+        "endereco": "POVOADO POÇÃO, POÇÃO, ARAPIRACA",
+        "cep": "57319300"
+    },
+    {
+        "endereco": "RUA JOSEFA FERREIRA LIMA, VERDES CAMPOS, ARAPIRACA",
+        "cep": "57303138"
+    },
+    {
+        "endereco": "RUA DOM JONAS BATINGA, OURO PRETO, ARAPIRACA",
+        "cep": "57301130",
+        "coordenadas": {
+            "lat": -9.761539711965275,
+            "lon": -36.65631268938696
+        }
+    },
+    {
+        "endereco": "RUA SEVERINO BORGES, MANUEL TELES, ARAPIRACA",
+        "cep": "57305320"
+    },
+    {
+        "endereco": "RUA PRINCESA IZABEL, BATINGAS, ARAPIRACA",
+        "cep": "57317581"
+    },
+    {
+        "endereco": "RUA AFRA CORREIA BARBOSA, SÃO LUIZ, ARAPIRACA",
+        "cep": "57301393",
+        "coordenadas": {
+            "lat": -9.766253235917553,
+            "lon": -36.64372684696095
+        }
+    },
+    {
+        "endereco": "RUA SÃO JOSÉ, ALTO DO CRUZEIRO, ARAPIRACA",
+        "cep": "57312465",
+        "coordenadas": {
+            "lat": -9.749513260902443,
+            "lon": -36.65555557651994
+        }
+    },
+    {
+        "endereco": "RUA GASPAR RIBEIRO WERCELONE, BAIXA GRANDE, ARAPIRACA",
+        "cep": "57307030"
+    },
+    {
+        "endereco": "R. JOSEFA ESTELINA GOMES, BOM SUCESSO, ARAPIRACA",
+        "cep": "57309192"
+    },
+    {
+        "endereco": "RODOVIA AL-110 - LADO PAR, BATINGAS, ARAPIRACA",
+        "cep": "57317-554"
+    },
+    {
+        "endereco": "RUA PADRE MAURÍCIO RODRIGUES, CACIMBAS, ARAPIRACA",
+        "cep": "57304460",
+        "coordenadas": {
+            "lat": -9.759000508009944,
+            "lon": -36.66091227549157
+        }
+    },
+    {
+        "endereco": "RUA JOSÉ NUNES DA SILVA, SENADOR ARNON DE MELO, ARAPIRACA",
+        "cep": "57315784"
+    },
+    {
+        "endereco": "RUA PEDRO ALEXANDRE, CAVACO, ARAPIRACA",
+        "cep": "57306510",
+        "coordenadas": {
+            "lat": -9.738893653097414,
+            "lon": -36.680791107443056
+        }
+    },
+    {
+        "endereco": "RUA ABDIAS FRANCISCO DOS SANTOS, MANUEL TELES, ARAPIRACA",
+        "cep": "57305210"
+    },
+    {
+        "endereco": "RUA CAMPO GRANDE, PLANALTO, ARAPIRACA",
+        "cep": "57308275",
+        "coordenadas": {
+            "lat": -9.719033970056671,
+            "lon": -36.669895666916425
+        }
+    },
+    {
+        "endereco": "RUA ADEMAR MEDEIROS, PLANALTO, ARAPIRACA",
+        "cep": "57308100",
+        "coordenadas": {
+            "lat": -9.727159661821018,
+            "lon": -36.66769032750954
+        }
+    },
+    {
+        "endereco": "RUA RIO DE JANEIRO, CENTRO, ARAPIRACA",
+        "cep": "57300420",
+        "coordenadas": {
+            "lat": -9.748989616102945,
+            "lon": -36.664874172099935
+        }
+    },
+    {
+        "endereco": "RUA FRANCISCO CAVALCANTE, PRIMAVERA, ARAPIRACA",
+        "cep": "57304090",
+        "coordenadas": {
+            "lat": -9.766776483637942,
+            "lon": -36.66333222212278
+        }
+    },
+    {
+        "endereco": "RUA GERALDO ALEXANDRE DOS SANTOS, BRASÍLIA, ARAPIRACA",
+        "cep": "57313320"
+    },
+    {
+        "endereco": "RUA ORQUÍDEA, VERDES CAMPOS, ARAPIRACA",
+        "cep": "57303084"
+    },
+    {
+        "endereco": "POVOADO PAU D'ARCO, ARAPIRACA , ARAPIRACA",
+        "cep": "57319990"
+    },
+    {
+        "endereco": "RUA PRINCIPAL PRÓXIMO A ESCOLA MARIA PASTORA DE MELO , PAU D'ARCO, ARAPIRACA",
+        "cep": "57319100"
+    },
+    {
+        "endereco": "RUA SAMARITANA - LADO PAR, CAITITUS, ARAPIRACA",
+        "cep": "57311185"
+    },
+    {
+        "endereco": "RUA JOANA RODRIQUES DA SILVA, MASSARANDUBA, ARAPIRACA",
+        "cep": "57309780"
+    },
+    {
+        "endereco": "RUA JOSÉ PEDRO DA SILVA, SENADOR NILO COELHO, ARAPIRACA",
+        "cep": "57309478"
+    },
+    {
+        "endereco": "AVENIDA NOVO NORDESTE, RESIDENCIAL PARC VILLE, SÃO LUIZ, ARAPIRACA",
+        "cep": "57301400"
+    },
+    {
+        "endereco": "PRAÇA PEREIRA MAGALHÃES, CACIMBAS, ARAPIRACA",
+        "cep": "57304525",
+        "coordenadas": {
+            "lat": -9.75712565,
+            "lon": -36.66550217784239
+        }
+    },
+    {
+        "endereco": "RUA ELÍSIO CORREIA DE AMORIM, GUARIBAS, ARAPIRACA",
+        "cep": "57.303-718"
+    },
+    {
+        "endereco": "AVENIDA DEPUTADA CECI CUNHA , NOVO HORIZONTE, ARAPIRACA",
+        "cep": "57312675",
+        "coordenadas": {
+            "lat": -9.745695981728066,
+            "lon": -36.64356117381903
+        }
+    },
+    {
+        "endereco": "RUA ADEMAR MEDEIROS, PLANALTO, ARAPIRACA",
+        "cep": "57308100",
+        "coordenadas": {
+            "lat": -9.727159661821018,
+            "lon": -36.66769032750954
+        }
+    },
+    {
+        "endereco": "RUA DA SAUDADE, JARDIM TROPICAL, ARAPIRACA",
+        "cep": "57316030"
+    },
+    {
+        "endereco": "RUA PROFESSORA SHIRLEY CANUTO ALVES, MASSARANDUBA, ARAPIRACA",
+        "cep": "57309788",
+        "coordenadas": {
+            "lat": -9.715720880075546,
+            "lon": -36.67531926110716
+        }
+    },
+    {
+        "endereco": "RUA JOÃO MIGUEL DOS ANJOS, MASSARANDUBA, ARAPIRACA",
+        "cep": "57309776",
+        "coordenadas": {
+            "lat": -9.716371132858724,
+            "lon": -36.67311735946199
+        }
+    },
+    {
+        "endereco": "RUA LUZINETE VALERIANO CAVALCANTE, BOA VISTA, ARAPIRACA",
+        "cep": "57303283",
+        "coordenadas": {
+            "lat": -9.783042305001036,
+            "lon": -36.645527316361125
+        }
+    },
+    {
+        "endereco": "PRAÇA GENOÍNO , PRIMAVERA, ARAPIRACA",
+        "cep": "57304-440"
+    },
+    {
+        "endereco": "RUA MARIA AUGUSTA NUNES PAULINO SILVA, MASSARANDUBA, ARAPIRACA",
+        "cep": "57309660",
+        "coordenadas": {
+            "lat": -9.72026592424809,
+            "lon": -36.664114131718605
+        }
+    },
+    {
+        "endereco": "RUA TEREZINHA VIEIRA DE LIMA E SILVA, SENADOR NILO COELHO, ARAPIRACA",
+        "cep": "57309405"
+    },
+    {
+        "endereco": "PRAÇA MENINO LUNI CARLOS LIMA, JARDIM ESPERANÇA, ARAPIRACA",
+        "cep": "57307565"
+    },
+    {
+        "endereco": "RUA SEBASTIÃO DA SILVA OLIVEIRA, SÃO LUIZ, ARAPIRACA",
+        "cep": "57301426"
+    },
+    {
+        "endereco": "RESIDENCIAL AGRESTE , CENTRO, ARAPIRACA",
+        "cep": "57300970"
+    },
+    {
+        "endereco": "RUA PEDRO LIVINO, JARDIM ESPERANÇA, ARAPIRACA",
+        "cep": "57307520",
+        "coordenadas": {
+            "lat": -9.727212833517072,
+            "lon": -36.675224204853635
+        }
+    },
+    {
+        "endereco": "RUA JOSÉ JADSON DE OLIVEIRA JÚNIOR, SÃO LUIZ, ARAPIRACA",
+        "cep": "57301420"
+    },
+    {
+        "endereco": "RUA TIBÚRCIO VALERIANO, JARDIM ESPERANÇA, ARAPIRACA",
+        "cep": "57307740",
+        "coordenadas": {
+            "lat": -9.727066762633681,
+            "lon": -36.68297483724957
+        }
+    },
+    {
+        "endereco": "RUA FRANCELINO DE BRITO, SENADOR NILO COELHO, ARAPIRACA",
+        "cep": "57309410"
+    },
+    {
+        "endereco": "AVENIDA RAIMUNDO XAVIER DO NASCIMENTO, JARDIM ESPERANÇA, ARAPIRACA",
+        "cep": "57307490"
+    },
+    {
+        "endereco": "RUA MANOEL JOÃO DA SILVA, JARDIM ESPERANÇA, ARAPIRACA",
+        "cep": "57307410",
+        "coordenadas": {
+            "lat": -9.728414565577028,
+            "lon": -36.677787551905624
+        }
+    },
+    {
+        "endereco": "RUA SEVERINA DE ALBUQUERQUE SILVA, JARDIM ESPERANÇA, ARAPIRACA",
+        "cep": "57307333"
+    },
+    {
+        "endereco": "RUA VEREADOR JOSÉ OLIVEIRA E SILVA, PLANALTO, ARAPIRACA",
+        "cep": "57308590"
+    },
+    {
+        "endereco": "RUA JOÃO LUCAS FARIAS PEREIRA, JARDIM ESPERANÇA, ARAPIRACA",
+        "cep": "57307762"
+    },
+    {
+        "endereco": "SITIO BOM NOME, ZONA RURAL, ARAPIRACA",
+        "cep": "57300970"
+    },
+    {
+        "endereco": "RUA MARCOS GONÇALVES DE MELO, BOM SUCESSO, ARAPIRACA",
+        "cep": "57309226"
+    },
+    {
+        "endereco": "LARANJAL, LARANJAL, ARAPIRACA",
+        "cep": "57318700"
+    },
+    {
+        "endereco": "RUA ISNALDO SERAFIM DA SILVA, VERDES CAMPOS, ARAPIRACA",
+        "cep": "57303036"
+    },
+    {
+        "endereco": "RUA BOA VISTA, CENTRO, ARAPIRACA",
+        "cep": "57300030",
+        "coordenadas": {
+            "lat": -9.754997470273532,
+            "lon": -36.65821982846115
+        }
+    },
+    {
+        "endereco": "RUA MARECHAL HERMES DA FONSECA, ELDORADO, ARAPIRACA",
+        "cep": "57306100",
+        "coordenadas": {
+            "lat": -9.744317041960128,
+            "lon": -36.66959941866193
+        }
+    },
+    {
+        "endereco": "RUA ROTEIRO, SANTA ESMERALDA, ARAPIRACA",
+        "cep": "57312040",
+        "coordenadas": {
+            "lat": -9.743854,
+            "lon": -36.6539555
+        }
+    },
+    {
+        "endereco": "RUA PEDRO FERREIRA DE ALBUQUERQUE, JARDIM ESPERANÇA, ARAPIRACA",
+        "cep": "57307720",
+        "coordenadas": {
+            "lat": -9.728546544602965,
+            "lon": -36.67651030881778
+        }
+    },
+    {
+        "endereco": "RUA 24 DE JUNHO, GUARIBAS, ARAPIRACA",
+        "cep": "57303751"
+    },
+    {
+        "endereco": "RUA DOMINGOS CORREIA, CENTRO, ARAPIRACA",
+        "cep": "57300010"
+    },
+    {
+        "endereco": "RUA SÃO PEDRO, SENADOR TEOTÔNIO VILELA, ARAPIRACA",
+        "cep": "57311576",
+        "coordenadas": {
+            "lat": -9.746276833506661,
+            "lon": -36.65861864329653
+        }
+    },
+    {
+        "endereco": "RUA ELVIRA HENRIQUE DA SILVA, PLANALTO, ARAPIRACA",
+        "cep": "57308570",
+        "coordenadas": {
+            "lat": -9.726533813319785,
+            "lon": -36.66022976996028
+        }
+    },
+    {
+        "endereco": "RUA JOÃO LUCAS FARIAS PEREIRA , JARDIM ESPERANÇA, ARAPIRACA",
+        "cep": "57307762"
+    },
+    {
+        "endereco": "RUA JOVELINO LIMA, MASSARANDUBA, ARAPIRACA",
+        "cep": "57309828"
+    },
+    {
+        "endereco": "AVENIDA WOLFANG AMADEUS MOZART, JARDIM ESPERANÇA, ARAPIRACA",
+        "cep": "57307400"
+    },
+    {
+        "endereco": "RUA MARIA JOSÉ GAMA, CAVACO, ARAPIRACA",
+        "cep": "57306810",
+        "coordenadas": {
+            "lat": -9.734788559538508,
+            "lon": -36.67796085657609
+        }
+    },
+    {
+        "endereco": "AVENIDA SÃO JOÃO, 73, CANAFÍSTULA, ARAPIRACA",
+        "cep": "57302625",
+        "coordenadas": {
+            "lat": -9.76249275036261,
+            "lon": -36.62686308044129
+        }
+    },
+    {
+        "endereco": "RUA MARAGOGI, JARDIM TROPICAL, ARAPIRACA",
+        "cep": "57316025"
+    },
+    {
+        "endereco": "RUA JOSÉ FRANCISCO VIANA, JARDIM ESPERANÇA, ARAPIRACA",
+        "cep": "57307540",
+        "coordenadas": {
+            "lat": -9.727513858395055,
+            "lon": -36.671798453635
+        }
+    },
+    {
+        "endereco": "RUA JOSÉ AFONSO MARANHÃO, BRASÍLIA, ARAPIRACA",
+        "cep": "57313290",
+        "coordenadas": {
+            "lat": -9.749714086877276,
+            "lon": -36.64762422127824
+        }
+    },
+    {
+        "endereco": "RUA JOSÉ DUARTE ALVES, BOM SUCESSO, ARAPIRACA",
+        "cep": "57309040"
+    },
+    {
+        "endereco": "RUA SENADOR RUI PALMEIRA, BRASÍLIA, ARAPIRACA",
+        "cep": "57313070",
+        "coordenadas": {
+            "lat": -9.750620470752285,
+            "lon": -36.649027999929295
+        }
+    },
+    {
+        "endereco": "NÃO TEM NOME., BAIXA DA ONÇA, ARAPIRACA",
+        "cep": "57318150"
+    },
+    {
+        "endereco": "RUA ZILDA ARNS NEUMAN, BOM SUCESSO, ARAPIRACA",
+        "cep": "57309071"
+    },
+    {
+        "endereco": "RUA DICIONARISTA AURÉLIO BUARQUE DE HOLANDA, MASSARANDUBA, ARAPIRACA",
+        "cep": "57309750",
+        "coordenadas": {
+            "lat": -9.714751308246266,
+            "lon": -36.669966820645826
+        }
+    },
+    {
+        "endereco": "RUA MANOEL LÚCIO DA SILVA, PRIMAVERA, ARAPIRACA",
+        "cep": "57304350",
+        "coordenadas": {
+            "lat": -9.758210267244609,
+            "lon": -36.661818805188105
+        }
+    },
+    {
+        "endereco": "RUA ESTUDANTE ISAELLE CRISTINE DOS ANJOS SOUZA, BATINGAS, ARAPIRACA",
+        "cep": "57317502"
+    },
+    {
+        "endereco": "RUA ESTUDANTE ANA BEATRIZ, PRIMAVERA, ARAPIRACA",
+        "cep": "57304060",
+        "coordenadas": {
+            "lat": -9.767786718478723,
+            "lon": -36.663109344927086
+        }
+    },
+    {
+        "endereco": "RUA PRINCESA IZABEL, BATINGAS, ARAPIRACA",
+        "cep": "57317581"
+    },
+    {
+        "endereco": "RUA GRACILIANO RAMOS, MANUEL TELES, ARAPIRACA",
+        "cep": "57305010"
+    },
+    {
+        "endereco": "BAIXA DA ONÇA, BAIXA DA ONÇA, ARAPIRACA",
+        "cep": "57318150"
+    },
+    {
+        "endereco": "POVOADO PAU D'ARCO, PAU DARC, ARAPIRACA",
+        "cep": "57319990"
+    },
+    {
+        "endereco": "RUA MARIA DE LOURDES DOS SANTOS, BOM SUCESSO, ARAPIRACA",
+        "cep": "57309075"
+    },
+    {
+        "endereco": ", 187, CENTRO, ARAPIRACA",
+        "cep": "57300500",
+        "coordenadas": {
+            "lat": -9.7521269,
+            "lon": -36.6616988
+        }
+    },
+    {
+        "endereco": "QUADRA 26 LOTE 12, RESIDENCIAL NOSSA SENHORA APARECIDA/ BAIRRO BOM SUCESSO , ARAPIRACA",
+        "cep": "57300970"
+    },
+    {
+        "endereco": "RUA MARCOS GONÇALVES DE MELO, BOM SUCESSO, ARAPIRACA",
+        "cep": "57309226"
+    },
+    {
+        "endereco": "RUA SERTANEJO ALAGOANO, BRASÍLIA, ARAPIRACA",
+        "cep": "57313200"
+    },
+    {
+        "endereco": "RUA MAXWEL ALVES DOS SANTOS, SANTA ESMERALDA, ARAPIRACA",
+        "cep": "57312106",
+        "coordenadas": {
+            "lat": -9.738262647110641,
+            "lon": -36.647969432145516
+        }
+    },
+    {
+        "endereco": "BAIXA DA ONCA , BAIXA DA ONÇA, ARAPIRACA",
+        "cep": "57318150"
+    },
+    {
+        "endereco": "RUA NELSON VICENTE ROSA, MASSARANDUBA, ARAPIRACA",
+        "cep": "57309846"
+    },
+    {
+        "endereco": "RUA PRESIDENTE MÉDICI, ALTO DO CRUZEIRO, ARAPIRACA",
+        "cep": "57312450",
+        "coordenadas": {
+            "lat": -9.75084911962226,
+            "lon": -36.655090816789404
+        }
+    },
+    {
+        "endereco": "RUA MANOEL ÂNGELO SOBRINHO (LOT VALE DA PERUCABA), OLHO D'ÁGUA DOS CAZUZINHAS, ARAPIRACA",
+        "cep": "57303856"
+    },
+    {
+        "endereco": "RUA PROJETADA,ZONA RURAL, PAU D'ARCO, ARAPIRACA",
+        "cep": "57319100"
+    },
+    {
+        "endereco": "RUA NOSSA SENHORA DAS DORES, SENADOR TEOTÔNIO VILELA, ARAPIRACA",
+        "cep": "57311-660",
+        "coordenadas": {
+            "lat": -9.742427823465274,
+            "lon": -36.65819572215151
+        }
+    },
+    {
+        "endereco": "RUA MIGUEL LEITE, BRASÍLIA, ARAPIRACA",
+        "cep": "57.313-110",
+        "coordenadas": {
+            "lat": -9.751157163253044,
+            "lon": -36.649574153796216
+        }
+    },
+    {
+        "endereco": "RODOVIA AL-485, BOA VISTA, ARAPIRACA",
+        "cep": "57303234",
+        "coordenadas": {
+            "lat": -9.768511658403275,
+            "lon": -36.637785071037655
+        }
+    },
+    {
+        "endereco": "RUA SEVERINO BORGES, MANUEL TELES, ARAPIRACA",
+        "cep": "57305320"
+    },
+    {
+        "endereco": "RUA LUCIANA RODRIGUES DE ARAÚJO, BOA VISTA, ARAPIRACA",
+        "cep": "57303215"
+    },
+    {
+        "endereco": "RUA PEDRO VIEIRA SAMPAIO, SÃO LUIZ, ARAPIRACA",
+        "cep": "57301394",
+        "coordenadas": {
+            "lat": -9.77251446251315,
+            "lon": -36.64518979628017
+        }
+    },
+    {
+        "endereco": "RUA MANOEL ROSENDO DE MAGALHÃES, CACIMBAS, ARAPIRACA",
+        "cep": "57.304-480",
+        "coordenadas": {
+            "lat": -9.759254341545482,
+            "lon": -36.66271837795105
+        }
+    },
+    {
+        "endereco": "NÃO TEM NOME, BAIXA DA ONÇA, ARAPIRACA",
+        "cep": "57318150"
+    },
+    {
+        "endereco": "DOM JOÃO VI, CAPIATÃ, ARAPIRACA",
+        "cep": "57310110",
+        "coordenadas": {
+            "lat": -9.74312989880863,
+            "lon": -36.66292345922169
+        }
+    },
+    {
+        "endereco": "RUA PROFESSOR GUEDES DE MIRANDA, PRIMAVERA, ARAPIRACA",
+        "cep": "57304380",
+        "coordenadas": {
+            "lat": -9.760860633947383,
+            "lon": -36.65937624627493
+        }
+    },
+    {
+        "endereco": "RUA ANTÔNIO MIZAEL, BOA VISTA, ARAPIRACA",
+        "cep": "57303310",
+        "coordenadas": {
+            "lat": -9.787571632944502,
+            "lon": -36.634132705157874
+        }
+    },
+    {
+        "endereco": "RUA JOVELINO LIMA, MASSARANDUBA, ARAPIRACA",
+        "cep": "57309828"
+    },
+    {
+        "endereco": "RUA PEDRO FERREIRA DE ALBUQUERQUE, JARDIM ESPERANÇA, ARAPIRACA",
+        "cep": "57307720",
+        "coordenadas": {
+            "lat": -9.728546544602965,
+            "lon": -36.67651030881778
+        }
+    },
+    {
+        "endereco": "RUA ANADIA, PLANALTO, ARAPIRACA",
+        "cep": "57308190",
+        "coordenadas": {
+            "lat": -9.724390306141359,
+            "lon": -36.66416103800118
+        }
+    },
+    {
+        "endereco": "RUA MANOEL MESSIAS, PLANALTO, ARAPIRACA",
+        "cep": "57308850",
+        "coordenadas": {
+            "lat": -9.724551304791719,
+            "lon": -36.66121042275638
+        }
+    },
+    {
+        "endereco": "RUA SÃO DOMINGOS, CAVACO, ARAPIRACA",
+        "cep": "57306470",
+        "coordenadas": {
+            "lat": -9.737278614431226,
+            "lon": -36.6777379414778
+        }
+    },
+    {
+        "endereco": "RUA AFRÍSIO ACÁCIO (LOT N S APARECIDA), MASSARANDUBA, ARAPIRACA",
+        "cep": "57309847"
+    },
+    {
+        "endereco": "RUA GERUZA BARROS CABRAL DA SILVAL, GUARIBAS, ARAPIRACA",
+        "cep": "57303724"
+    },
+    {
+        "endereco": "RUA MANOEL LEAL, CACIMBAS, ARAPIRACA",
+        "cep": "57304562",
+        "coordenadas": {
+            "lat": -9.758791857786441,
+            "lon": -36.66925249104328
+        }
+    },
+    {
+        "endereco": "RUA PEDRO ÁLVARES CABRAL, PRIMAVERA, ARAPIRACA",
+        "cep": "57304070",
+        "coordenadas": {
+            "lat": -9.767651670784863,
+            "lon": -36.66141015320172
+        }
+    },
+    {
+        "endereco": "RUA FRANCISCO PEREIRA DE ALBUQUERQUE, CAITITUS, ARAPIRACA",
+        "cep": "57311280",
+        "coordenadas": {
+            "lat": -9.739107817189655,
+            "lon": -36.65757026050106
+        }
+    },
+    {
+        "endereco": "RUA ZEFERINO PEDRO DA SILVA, BRASILIANA, ARAPIRACA",
+        "cep": "57310485",
+        "coordenadas": {
+            "lat": -9.73559366722463,
+            "lon": -36.663313444606054
+        }
+    },
+    {
+        "endereco": "RUA ANA ROSA DE OLIVEIRA, SÃO LUIZ II, ARAPIRACA",
+        "cep": "57.301-706",
+        "coordenadas": {
+            "lat": -9.770642971358157,
+            "lon": -36.65422853672677
+        }
+    }
+]

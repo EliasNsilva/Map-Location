@@ -1,0 +1,3938 @@
+[
+    {
+        "endereco": "ENGENHEIRO MARIO DE GUSMAO Maceió Ponta Verde CEP: 57035000 AL, Maceió",
+        "nome": "ACQUA PRIME"
+    },
+    {
+        "endereco": "Doutor Antônio Gouveia Maceió Pajuçara CEP: 57030170 AL, Maceió",
+        "nome": "ACQUA SUITES"
+    },
+    {
+        "endereco": "TRINTA E UM DE MARCO LETRA A Arapiraca Primavera CEP: 57304370 AL, Arapiraca",
+        "nome": "AFAGANDO A TERRA"
+    },
+    {
+        "endereco": "Praça dos Cabanos, Maragogi",
+        "nome": "ÁGUAS DE MARAGOGI"
+    },
+    {
+        "endereco": "Professor Teonilo Gama Maceió Trapiche da Barra CEP: 57010384 AL, Maceió",
+        "nome": "ALAGOAS HOSTEL - UNIDADE CRUZ DAS ALMAS"
+    },
+    {
+        "endereco": "PRAÇA MARECHAL DEODORO, 31, Penedo",
+        "nome": "ALBERGUE TURISMO UFAL"
+    },
+    {
+        "endereco": "Olho D Água das Flores, Olho d'Água das Flores",
+        "nome": "ALEIXO SOBRINHO & CIA",
+        "coordenadas": {
+            "lat": -9.53707825,
+            "lon": -37.27907746843938
+        }
+    },
+    {
+        "endereco": "Jangadeiros Alagoanos Maceió Pajuçara CEP: 57030000 AL, Maceió",
+        "nome": "AMENIT HOTEL"
+    },
+    {
+        "endereco": "Epaminondas Gracindo Maceió Pajuçara CEP: 57030103 AL, Maceió",
+        "nome": "ARAM OURO BRANCO HOTEL"
+    },
+    {
+        "endereco": "Av. Cândido Portinari, Maragogi",
+        "nome": "AREAL BARRA GRANDE",
+        "coordenadas": {
+            "lat": -9.00460473879766,
+            "lon": -35.21843833858437
+        }
+    },
+    {
+        "endereco": "SITIO SAPE Maribondo, Maribondo",
+        "nome": "ARENA JB"
+    },
+    {
+        "endereco": "Praça dos Cabanos, Maragogi",
+        "nome": "ARVO BOUTIQUE HOTEL"
+    },
+    {
+        "endereco": "Beira Mar Maceió Riacho Doce CEP: 57039542 AL, Maceió",
+        "nome": "ATLANTICO HOTEL"
+    },
+    {
+        "endereco": "Rodovia AL 10, Norte, Maragogi",
+        "nome": "BARRA DE MARAGOGI",
+        "coordenadas": {
+            "lat": -8.9974082,
+            "lon": -35.207842546428196
+        }
+    },
+    {
+        "endereco": "Rua Tainha, Maragogi",
+        "nome": "BARRA GRANDE"
+    },
+    {
+        "endereco": "Rua Tainha, Maragogi",
+        "nome": "BARRA LOUNGE"
+    },
+    {
+        "endereco": "Barreiras, Coruripe",
+        "nome": "BATEL POUSADA",
+        "coordenadas": {
+            "lat": -10.1578379,
+            "lon": -36.1588905
+        }
+    },
+    {
+        "endereco": "Rua Jubarte, loteamento canto do mar, Maragogi",
+        "nome": "BEACH POINT 01"
+    },
+    {
+        "endereco": "Rua Jubarte, loteamento canto do mar, Maragogi",
+        "nome": "BEACH POINT 02"
+    },
+    {
+        "endereco": "Avenida Jubarte lote 4, quadra 4, canto do mar, Maragogi",
+        "nome": "BEIRA MAR"
+    },
+    {
+        "endereco": "Poxim, Coruripe",
+        "nome": "BEIRA RIO",
+        "coordenadas": {
+            "lat": -10.03188665,
+            "lon": -36.1475247625
+        }
+    },
+    {
+        "endereco": "Lagoa do Pau, Coruripe",
+        "nome": "BELA VISTA",
+        "coordenadas": {
+            "lat": -10.1181682,
+            "lon": -36.1083483
+        }
+    },
+    {
+        "endereco": "KM 30 Campo Alegre, Campo Alegre",
+        "nome": "BELO HORIZONTE BOSQUE FAZENDA",
+        "coordenadas": {
+            "lat": -9.818999999999999,
+            "lon": -36.28425943396226
+        }
+    },
+    {
+        "endereco": "Povoado Barreiras do Boqueirão, Japaratinga",
+        "nome": "BICAS POUSADA"
+    },
+    {
+        "endereco": "Av Senador Rui Palmeira, Maragogi",
+        "nome": "BICHO CARAMELO",
+        "coordenadas": {
+            "lat": -9.018903310413242,
+            "lon": -35.2237911915582
+        }
+    },
+    {
+        "endereco": "Rua Santa Teresinha, Maragogi",
+        "nome": "BRECHA"
+    },
+    {
+        "endereco": "Rua Maria das Graças França, Major Isidoro",
+        "nome": "BRILHO DA LUA"
+    },
+    {
+        "endereco": "PONTAL DO BOQUEIRÃO, Japaratinga",
+        "nome": "BRISA DO MAR"
+    },
+    {
+        "endereco": "Lagoa do Pau, Coruripe",
+        "nome": "BRISA DO MAR",
+        "coordenadas": {
+            "lat": -10.1181682,
+            "lon": -36.1083483
+        }
+    },
+    {
+        "endereco": "RUA MARGARIDA OITICICA LIMA, Nº38, BARRA MAR, Barra de São Miguel",
+        "nome": "BRISAMAR HOTEL POUSADA"
+    },
+    {
+        "endereco": "Rua dos Jangadeiros, Maragogi",
+        "nome": "CABANOS SUÍTES 01"
+    },
+    {
+        "endereco": "Lot. Portal do Maragogi, Maragogi",
+        "nome": "CABANOS SUÍTES 02"
+    },
+    {
+        "endereco": "Iberê Camargo, Maragogi",
+        "nome": "CABANOS SUÍTES 03"
+    },
+    {
+        "endereco": "MOCO II Mar Vermelho, Mar Vermelho",
+        "nome": "CAMINHO DA SERRA"
+    },
+    {
+        "endereco": "Orla Marítima, Feliz Deserto",
+        "nome": "CAMINHOS DO SÃO FRANCISCO"
+    },
+    {
+        "endereco": "Loteamento Praia de Japaratinga s/n Zona Rural, Japaratinga - AL, 57950-000, Japaratinga",
+        "nome": "CAMPING DO BACURAU"
+    },
+    {
+        "endereco": "POVOADO DE CANGANDU Arapiraca, Arapiraca",
+        "nome": "CANGURU PARK BRASIL"
+    },
+    {
+        "endereco": "Av. Jubarte, s/n, Maragogi",
+        "nome": "CANTINHO DA MELÃO"
+    },
+    {
+        "endereco": "Rua Cândido Portinari, Maragogi",
+        "nome": "CANTINHO DA PAULA"
+    },
+    {
+        "endereco": "Pontal, Coruripe",
+        "nome": "CANTO DO MAR",
+        "coordenadas": {
+            "lat": -10.153392,
+            "lon": -36.134767
+        }
+    },
+    {
+        "endereco": "Rua Celta, Maragogi",
+        "nome": "CARIBE BRASILEIRO",
+        "coordenadas": {
+            "lat": -9.0055309,
+            "lon": -35.2166897
+        }
+    },
+    {
+        "endereco": "Rodovia Al 101 Norte, Maragogi",
+        "nome": "CARIBE DO MAR",
+        "coordenadas": {
+            "lat": -9.013401146426975,
+            "lon": -35.22518398887685
+        }
+    },
+    {
+        "endereco": "RUA SÃO JOSÉ, Passo de Camaragibe",
+        "nome": "CASA BOA MILAGRES"
+    },
+    {
+        "endereco": "Sítio Amor, Praia do Patacho, Porto de Pedras",
+        "nome": "CASA BRASILEIRA"
+    },
+    {
+        "endereco": "Iberê Camargo, Maragogi",
+        "nome": "CASA DA CLAUDIA"
+    },
+    {
+        "endereco": "Pontal, Coruripe",
+        "nome": "CASA DA ENSEADA",
+        "coordenadas": {
+            "lat": -10.153392,
+            "lon": -36.134767
+        }
+    },
+    {
+        "endereco": "QUINTINO BOCAIUVA Maceió Ponta da Terra CEP: 57030570 AL, Maceió",
+        "nome": "CASA DE PAINHO HOSTEL E POUSADA"
+    },
+    {
+        "endereco": "SÍtio Xaréu, Maragogi",
+        "nome": "CASA DO TEDD"
+    },
+    {
+        "endereco": "Brigadeiro Eduardo Gomes Maceió Cruz das Almas CEP: 57038230 AL, Maceió",
+        "nome": "AGUA DE COCO HOTEL "
+    },
+    {
+        "endereco": "Rua Francisco de Barros Regis, 155 - Japaratinga, Japaratinga",
+        "nome": "ALBACORA PRAIA HOTEL & RESTAURANTE ONDALUSA",
+        "coordenadas": {
+            "lat": -9.101937418991623,
+            "lon": -35.259885201829036
+        }
+    },
+    {
+        "endereco": "Av. Cândido Portinari, Maragogi",
+        "nome": "Pousada Antonella",
+        "coordenadas": {
+            "lat": -9.00460473879766,
+            "lon": -35.21843833858437
+        }
+    },
+    {
+        "endereco": "Rua Praça Alfredo Volpi, S/N, Maragogi",
+        "nome": "Pousada Canto dos Corais",
+        "coordenadas": {
+            "lat": -9.003658055747662,
+            "lon": -35.21849104260773
+        }
+    },
+    {
+        "endereco": "Av. Caravelas, Marechal Deodoro",
+        "nome": "Brisa e Mar (Francês)",
+        "coordenadas": {
+            "lat": -9.769322979273088,
+            "lon": -35.84561699080949
+        }
+    },
+    {
+        "endereco": "R. Jangadeiros, 418 , Maragogi",
+        "nome": "Pousada Cabanos",
+        "coordenadas": {
+            "lat": -9.007404379997734,
+            "lon": -35.21681986861891
+        }
+    },
+    {
+        "endereco": "Av. Antônio Custódio Pôrto - CNTRO, São Sebastião - AL, 57275-000, São Sebastião",
+        "nome": "Pousada Avenida"
+    },
+    {
+        "endereco": "RUA SÃO JOSÉ, Passo de Camaragibe",
+        "nome": "CASA GRANDE"
+    },
+    {
+        "endereco": "Pontal, Coruripe",
+        "nome": "CASARÃO",
+        "coordenadas": {
+            "lat": -10.153392,
+            "lon": -36.134767
+        }
+    },
+    {
+        "endereco": "Rua de areia s/n - Barreiras do Boqueirão, Japaratinga - AL, 57950-000, Japaratinga",
+        "nome": "CASINHA HOSTEL"
+    },
+    {
+        "endereco": "Poxim, Coruripe",
+        "nome": "CASTELO PRINCIPE DA PAZ",
+        "coordenadas": {
+            "lat": -10.03188665,
+            "lon": -36.1475247625
+        }
+    },
+    {
+        "endereco": "Rua da praia, Maragogi",
+        "nome": "CELLINA'S MAR",
+        "coordenadas": {
+            "lat": -8.983516315436104,
+            "lon": -35.19015111808875
+        }
+    },
+    {
+        "endereco": "RODOVIA ENGENHEIRO JOAQUIM GONÇALVES, Nº115, Penedo",
+        "nome": "CELLYA'S POUSADA",
+        "coordenadas": {
+            "lat": -10.288036220462285,
+            "lon": -36.538670880239614
+        }
+    },
+    {
+        "endereco": "Rua Francisco de Holanda, 102, Maragogi",
+        "nome": "CENTRAL"
+    },
+    {
+        "endereco": "AL 101 NORTE - POVOADO DO BOQUEIRÃO, Japaratinga",
+        "nome": "CHALES DOS ENCANTOS"
+    },
+    {
+        "endereco": "Sítio Ponta de Mangue, Maragogi",
+        "nome": "CHALÉS DOURADO"
+    },
+    {
+        "endereco": "Sítio Riacho Seco, Mar Vermelho",
+        "nome": "CHALÉS MAR VERMELHO"
+    },
+    {
+        "endereco": "KM 37 Pilar, Pilar",
+        "nome": "CHURRASCARIA FAMILIA GAUCHA",
+        "coordenadas": {
+            "lat": -31.437229549999998,
+            "lon": -61.2575320074329
+        }
+    },
+    {
+        "endereco": "Pontal, Coruripe",
+        "nome": "CLUBE AFUSCO",
+        "coordenadas": {
+            "lat": -10.153392,
+            "lon": -36.134767
+        }
+    },
+    {
+        "endereco": "Av. Senador Rui Palmeira, Maragogi",
+        "nome": "COCCO",
+        "coordenadas": {
+            "lat": -9.018903310413242,
+            "lon": -35.2237911915582
+        }
+    },
+    {
+        "endereco": "Pontal, Coruripe",
+        "nome": "COCO PONTAL",
+        "coordenadas": {
+            "lat": -10.153392,
+            "lon": -36.134767
+        }
+    },
+    {
+        "endereco": "Marechal Deodoro, Marechal Deodoro",
+        "nome": "COISA DE MINEIRO",
+        "coordenadas": {
+            "lat": -9.71901755,
+            "lon": -35.8974586758383
+        }
+    },
+    {
+        "endereco": "Desportista Humberto Guimarães Maceió Ponta Verde CEP: 57035030 AL, Maceió",
+        "nome": "COMFORT HOTEL"
+    },
+    {
+        "endereco": "Ouvidor Mendonça Maceió Cruz das Almas CEP: 57038380 AL, Maceió",
+        "nome": "CONDE HOTEL"
+    },
+    {
+        "endereco": "Mata Grande, Mata Grande",
+        "nome": "CONVENIENCIA E HOTEL SERRANO",
+        "coordenadas": {
+            "lat": -9.0328136,
+            "lon": -37.72214489069959
+        }
+    },
+    {
+        "endereco": "Barra de São Miguel, Barra de São Miguel",
+        "nome": "CONVES TURISMO E HOSPEDAGENS",
+        "coordenadas": {
+            "lat": -9.81147095,
+            "lon": -35.95662647429278
+        }
+    },
+    {
+        "endereco": "Desportista Humberto Guimarães Maceió Ponta Verde CEP: 57035030 AL, Maceió",
+        "nome": "COQUEIROS EXPRESS HOTEL"
+    },
+    {
+        "endereco": "Rodovia AL 101 Norte, Km 133, Maragogi",
+        "nome": "COSTEIRA DA BARRA",
+        "coordenadas": {
+            "lat": -9.013401146426975,
+            "lon": -35.22518398887685
+        }
+    },
+    {
+        "endereco": "Ponta de mangue, Maragogi",
+        "nome": "CRÔA MARES HOTEL",
+        "coordenadas": {
+            "lat": -8.960421002096998,
+            "lon": -35.17797305339953
+        }
+    },
+    {
+        "endereco": "Rua da Praia, s/n, Japaratinga - AL, 57950-000, Japaratinga",
+        "nome": "D’KAZA POUSADA"
+    },
+    {
+        "endereco": "DADOS PREFEITURA, Piranhas",
+        "nome": "DADOS PREFEITURA"
+    },
+    {
+        "endereco": "DADOS PREFEITURA, Piranhas",
+        "nome": "DADOS PREFEITURA"
+    },
+    {
+        "endereco": "DADOS PREFEITURA, Piranhas",
+        "nome": "DADOS PREFEITURA"
+    },
+    {
+        "endereco": "DADOS PREFEITURA, Piranhas",
+        "nome": "DADOS PREFEITURA"
+    },
+    {
+        "endereco": "DADOS PREFEITURA, Piranhas",
+        "nome": "DADOS PREFEITURA"
+    },
+    {
+        "endereco": "DADOS PREFEITURA, Piranhas",
+        "nome": "DADOS PREFEITURA"
+    },
+    {
+        "endereco": "DADOS PREFEITURA, Piranhas",
+        "nome": "DADOS PREFEITURA"
+    },
+    {
+        "endereco": "DADOS PREFEITURA, Piranhas",
+        "nome": "DADOS PREFEITURA"
+    },
+    {
+        "endereco": "DADOS PREFEITURA, Piranhas",
+        "nome": "DADOS PREFEITURA"
+    },
+    {
+        "endereco": "DADOS PREFEITURA, Piranhas",
+        "nome": "DADOS PREFEITURA"
+    },
+    {
+        "endereco": "DADOS PREFEITURA, Piranhas",
+        "nome": "DADOS PREFEITURA"
+    },
+    {
+        "endereco": "DADOS PREFEITURA, Piranhas",
+        "nome": "DADOS PREFEITURA"
+    },
+    {
+        "endereco": "DADOS PREFEITURA, Piranhas",
+        "nome": "DADOS PREFEITURA"
+    },
+    {
+        "endereco": "DADOS PREFEITURA, Piranhas",
+        "nome": "DADOS PREFEITURA"
+    },
+    {
+        "endereco": "DADOS PREFEITURA, Piranhas",
+        "nome": "DADOS PREFEITURA"
+    },
+    {
+        "endereco": "DADOS PREFEITURA, Piranhas",
+        "nome": "DADOS PREFEITURA"
+    },
+    {
+        "endereco": "DADOS PREFEITURA, Piranhas",
+        "nome": "DADOS PREFEITURA"
+    },
+    {
+        "endereco": "DADOS PREFEITURA, Piranhas",
+        "nome": "DADOS PREFEITURA"
+    },
+    {
+        "endereco": "DADOS PREFEITURA, Piranhas",
+        "nome": "DADOS PREFEITURA"
+    },
+    {
+        "endereco": "DADOS PREFEITURA, Piranhas",
+        "nome": "DADOS PREFEITURA"
+    },
+    {
+        "endereco": "DADOS PREFEITURA, Piranhas",
+        "nome": "DADOS PREFEITURA"
+    },
+    {
+        "endereco": "DADOS PREFEITURA, Piranhas",
+        "nome": "DADOS PREFEITURA"
+    },
+    {
+        "endereco": "DADOS PREFEITURA, Piranhas",
+        "nome": "DADOS PREFEITURA"
+    },
+    {
+        "endereco": "DADOS PREFEITURA, Piranhas",
+        "nome": "DADOS PREFEITURA"
+    },
+    {
+        "endereco": "DADOS PREFEITURA, Piranhas",
+        "nome": "DADOS PREFEITURA"
+    },
+    {
+        "endereco": "DADOS PREFEITURA, Piranhas",
+        "nome": "DADOS PREFEITURA"
+    },
+    {
+        "endereco": "DADOS PREFEITURA, Piranhas",
+        "nome": "DADOS PREFEITURA"
+    },
+    {
+        "endereco": "DADOS PREFEITURA, Piranhas",
+        "nome": "DADOS PREFEITURA"
+    },
+    {
+        "endereco": "DADOS PREFEITURA, Piranhas",
+        "nome": "DADOS PREFEITURA"
+    },
+    {
+        "endereco": "DADOS PREFEITURA, Piranhas",
+        "nome": "DADOS PREFEITURA"
+    },
+    {
+        "endereco": "DADOS PREFEITURA, Piranhas",
+        "nome": "DADOS PREFEITURA"
+    },
+    {
+        "endereco": "DADOS PREFEITURA, Piranhas",
+        "nome": "DADOS PREFEITURA"
+    },
+    {
+        "endereco": "DADOS PREFEITURA, Piranhas",
+        "nome": "DADOS PREFEITURA"
+    },
+    {
+        "endereco": "DADOS PREFEITURA, Piranhas",
+        "nome": "DADOS PREFEITURA"
+    },
+    {
+        "endereco": "DADOS PREFEITURA, Piranhas",
+        "nome": "DADOS PREFEITURA"
+    },
+    {
+        "endereco": "DADOS PREFEITURA, Piranhas",
+        "nome": "DADOS PREFEITURA"
+    },
+    {
+        "endereco": "DADOS PREFEITURA, Piranhas",
+        "nome": "DADOS PREFEITURA"
+    },
+    {
+        "endereco": "DADOS PREFEITURA, Piranhas",
+        "nome": "DADOS PREFEITURA"
+    },
+    {
+        "endereco": "DADOS PREFEITURA, Piranhas",
+        "nome": "DADOS PREFEITURA"
+    },
+    {
+        "endereco": "DADOS PREFEITURA, Piranhas",
+        "nome": "DADOS PREFEITURA"
+    },
+    {
+        "endereco": "DADOS PREFEITURA, Piranhas",
+        "nome": "DADOS PREFEITURA"
+    },
+    {
+        "endereco": "DADOS PREFEITURA, Piranhas",
+        "nome": "DADOS PREFEITURA"
+    },
+    {
+        "endereco": "DADOS PREFEITURA, Piranhas",
+        "nome": "DADOS PREFEITURA"
+    },
+    {
+        "endereco": "Rodovia AL 101 Norte km 138, Maragogi",
+        "nome": "Pousada Acendedor de Estrelas",
+        "coordenadas": {
+            "lat": -9.013401146426975,
+            "lon": -35.22518398887685
+        }
+    },
+    {
+        "endereco": "DADOS PREFEITURA, Piranhas",
+        "nome": "DADOS PREFEITURA"
+    },
+    {
+        "endereco": "DADOS PREFEITURA, Piranhas",
+        "nome": "DADOS PREFEITURA"
+    },
+    {
+        "endereco": "DADOS PREFEITURA, Piranhas",
+        "nome": "DADOS PREFEITURA"
+    },
+    {
+        "endereco": "DADOS PREFEITURA, Piranhas",
+        "nome": "DADOS PREFEITURA"
+    },
+    {
+        "endereco": "DADOS PREFEITURA, Piranhas",
+        "nome": "DADOS PREFEITURA"
+    },
+    {
+        "endereco": "DADOS PREFEITURA, Piranhas",
+        "nome": "DADOS PREFEITURA"
+    },
+    {
+        "endereco": "DADOS PREFEITURA, Piranhas",
+        "nome": "DADOS PREFEITURA"
+    },
+    {
+        "endereco": "DADOS PREFEITURA, Piranhas",
+        "nome": "DADOS PREFEITURA"
+    },
+    {
+        "endereco": "DADOS PREFEITURA, Piranhas",
+        "nome": "DADOS PREFEITURA"
+    },
+    {
+        "endereco": "DADOS PREFEITURA, Piranhas",
+        "nome": "DADOS PREFEITURA"
+    },
+    {
+        "endereco": "DADOS PREFEITURA, Piranhas",
+        "nome": "DADOS PREFEITURA"
+    },
+    {
+        "endereco": "DADOS PREFEITURA, Piranhas",
+        "nome": "DADOS PREFEITURA"
+    },
+    {
+        "endereco": "DADOS PREFEITURA, Piranhas",
+        "nome": "DADOS PREFEITURA"
+    },
+    {
+        "endereco": "DADOS PREFEITURA, Piranhas",
+        "nome": "DADOS PREFEITURA"
+    },
+    {
+        "endereco": "DADOS PREFEITURA, São Miguel dos Milagres",
+        "nome": "DADOS PREFEITURA"
+    },
+    {
+        "endereco": "DADOS PREFEITURA, São Miguel dos Milagres",
+        "nome": "DADOS PREFEITURA"
+    },
+    {
+        "endereco": "DADOS PREFEITURA, São Miguel dos Milagres",
+        "nome": "DADOS PREFEITURA"
+    },
+    {
+        "endereco": "DADOS PREFEITURA, São Miguel dos Milagres",
+        "nome": "DADOS PREFEITURA"
+    },
+    {
+        "endereco": "DADOS PREFEITURA, São Miguel dos Milagres",
+        "nome": "DADOS PREFEITURA"
+    },
+    {
+        "endereco": "DADOS PREFEITURA, São Miguel dos Milagres",
+        "nome": "DADOS PREFEITURA"
+    },
+    {
+        "endereco": "DADOS PREFEITURA, São Miguel dos Milagres",
+        "nome": "DADOS PREFEITURA"
+    },
+    {
+        "endereco": "DADOS PREFEITURA, São Miguel dos Milagres",
+        "nome": "DADOS PREFEITURA"
+    },
+    {
+        "endereco": "DADOS PREFEITURA, São Miguel dos Milagres",
+        "nome": "DADOS PREFEITURA"
+    },
+    {
+        "endereco": "DADOS PREFEITURA, São Miguel dos Milagres",
+        "nome": "DADOS PREFEITURA"
+    },
+    {
+        "endereco": "DADOS PREFEITURA, São Miguel dos Milagres",
+        "nome": "DADOS PREFEITURA"
+    },
+    {
+        "endereco": "DADOS PREFEITURA, São Miguel dos Milagres",
+        "nome": "DADOS PREFEITURA"
+    },
+    {
+        "endereco": "DADOS PREFEITURA, São Miguel dos Milagres",
+        "nome": "DADOS PREFEITURA"
+    },
+    {
+        "endereco": "DADOS PREFEITURA, São Miguel dos Milagres",
+        "nome": "DADOS PREFEITURA"
+    },
+    {
+        "endereco": "DADOS PREFEITURA, São Miguel dos Milagres",
+        "nome": "DADOS PREFEITURA"
+    },
+    {
+        "endereco": "DADOS PREFEITURA, São Miguel dos Milagres",
+        "nome": "DADOS PREFEITURA"
+    },
+    {
+        "endereco": "DADOS PREFEITURA, São Miguel dos Milagres",
+        "nome": "DADOS PREFEITURA"
+    },
+    {
+        "endereco": "DADOS PREFEITURA, São Miguel dos Milagres",
+        "nome": "DADOS PREFEITURA"
+    },
+    {
+        "endereco": "DADOS PREFEITURA, São Miguel dos Milagres",
+        "nome": "DADOS PREFEITURA"
+    },
+    {
+        "endereco": "DADOS PREFEITURA, São Miguel dos Milagres",
+        "nome": "DADOS PREFEITURA"
+    },
+    {
+        "endereco": "DADOS PREFEITURA, São Miguel dos Milagres",
+        "nome": "DADOS PREFEITURA"
+    },
+    {
+        "endereco": "DADOS PREFEITURA, São Miguel dos Milagres",
+        "nome": "DADOS PREFEITURA"
+    },
+    {
+        "endereco": "DADOS PREFEITURA, São Miguel dos Milagres",
+        "nome": "DADOS PREFEITURA"
+    },
+    {
+        "endereco": "DADOS PREFEITURA, São Miguel dos Milagres",
+        "nome": "DADOS PREFEITURA"
+    },
+    {
+        "endereco": "DADOS PREFEITURA, São Miguel dos Milagres",
+        "nome": "DADOS PREFEITURA"
+    },
+    {
+        "endereco": "DADOS PREFEITURA, São Miguel dos Milagres",
+        "nome": "DADOS PREFEITURA"
+    },
+    {
+        "endereco": "DADOS PREFEITURA, São Miguel dos Milagres",
+        "nome": "DADOS PREFEITURA"
+    },
+    {
+        "endereco": "DADOS PREFEITURA, São Miguel dos Milagres",
+        "nome": "DADOS PREFEITURA"
+    },
+    {
+        "endereco": "DADOS PREFEITURA, São Miguel dos Milagres",
+        "nome": "DADOS PREFEITURA"
+    },
+    {
+        "endereco": "DADOS PREFEITURA, São Miguel dos Milagres",
+        "nome": "DADOS PREFEITURA"
+    },
+    {
+        "endereco": "DADOS PREFEITURA, São Miguel dos Milagres",
+        "nome": "DADOS PREFEITURA"
+    },
+    {
+        "endereco": "DADOS PREFEITURA, São Miguel dos Milagres",
+        "nome": "DADOS PREFEITURA"
+    },
+    {
+        "endereco": "DADOS PREFEITURA, São Miguel dos Milagres",
+        "nome": "DADOS PREFEITURA"
+    },
+    {
+        "endereco": "DADOS PREFEITURA, São Miguel dos Milagres",
+        "nome": "DADOS PREFEITURA"
+    },
+    {
+        "endereco": "DADOS PREFEITURA, São Miguel dos Milagres",
+        "nome": "DADOS PREFEITURA"
+    },
+    {
+        "endereco": "DADOS PREFEITURA, São Miguel dos Milagres",
+        "nome": "DADOS PREFEITURA"
+    },
+    {
+        "endereco": "DADOS PREFEITURA, São Miguel dos Milagres",
+        "nome": "DADOS PREFEITURA"
+    },
+    {
+        "endereco": "DADOS PREFEITURA, São Miguel dos Milagres",
+        "nome": "DADOS PREFEITURA"
+    },
+    {
+        "endereco": "DADOS PREFEITURA, São Miguel dos Milagres",
+        "nome": "DADOS PREFEITURA"
+    },
+    {
+        "endereco": "DADOS PREFEITURA, São Miguel dos Milagres",
+        "nome": "DADOS PREFEITURA"
+    },
+    {
+        "endereco": "DADOS PREFEITURA, São Miguel dos Milagres",
+        "nome": "DADOS PREFEITURA"
+    },
+    {
+        "endereco": "DADOS PREFEITURA, São Miguel dos Milagres",
+        "nome": "DADOS PREFEITURA"
+    },
+    {
+        "endereco": "DADOS PREFEITURA, São Miguel dos Milagres",
+        "nome": "DADOS PREFEITURA"
+    },
+    {
+        "endereco": "DADOS PREFEITURA, São Miguel dos Milagres",
+        "nome": "DADOS PREFEITURA"
+    },
+    {
+        "endereco": "DADOS PREFEITURA, São Miguel dos Milagres",
+        "nome": "DADOS PREFEITURA"
+    },
+    {
+        "endereco": "DADOS PREFEITURA, São Miguel dos Milagres",
+        "nome": "DADOS PREFEITURA"
+    },
+    {
+        "endereco": "DADOS PREFEITURA, São Miguel dos Milagres",
+        "nome": "DADOS PREFEITURA"
+    },
+    {
+        "endereco": "DADOS PREFEITURA, São Miguel dos Milagres",
+        "nome": "DADOS PREFEITURA"
+    },
+    {
+        "endereco": "DADOS PREFEITURA, São Miguel dos Milagres",
+        "nome": "DADOS PREFEITURA"
+    },
+    {
+        "endereco": "DADOS PREFEITURA, São Miguel dos Milagres",
+        "nome": "DADOS PREFEITURA"
+    },
+    {
+        "endereco": "DADOS PREFEITURA, São Miguel dos Milagres",
+        "nome": "DADOS PREFEITURA"
+    },
+    {
+        "endereco": "DADOS PREFEITURA, São Miguel dos Milagres",
+        "nome": "DADOS PREFEITURA"
+    },
+    {
+        "endereco": "DADOS PREFEITURA, São Miguel dos Milagres",
+        "nome": "DADOS PREFEITURA"
+    },
+    {
+        "endereco": "DADOS PREFEITURA, São Miguel dos Milagres",
+        "nome": "DADOS PREFEITURA"
+    },
+    {
+        "endereco": "DADOS PREFEITURA, São Miguel dos Milagres",
+        "nome": "DADOS PREFEITURA"
+    },
+    {
+        "endereco": "DADOS PREFEITURA, São Miguel dos Milagres",
+        "nome": "DADOS PREFEITURA"
+    },
+    {
+        "endereco": "DADOS PREFEITURA, São Miguel dos Milagres",
+        "nome": "DADOS PREFEITURA"
+    },
+    {
+        "endereco": "DADOS PREFEITURA, São Miguel dos Milagres",
+        "nome": "DADOS PREFEITURA"
+    },
+    {
+        "endereco": "DADOS PREFEITURA, São Miguel dos Milagres",
+        "nome": "DADOS PREFEITURA"
+    },
+    {
+        "endereco": "DADOS PREFEITURA, São Miguel dos Milagres",
+        "nome": "DADOS PREFEITURA"
+    },
+    {
+        "endereco": "DADOS PREFEITURA, São Miguel dos Milagres",
+        "nome": "DADOS PREFEITURA"
+    },
+    {
+        "endereco": "DADOS PREFEITURA, São Miguel dos Milagres",
+        "nome": "DADOS PREFEITURA"
+    },
+    {
+        "endereco": "DADOS PREFEITURA, São Miguel dos Milagres",
+        "nome": "DADOS PREFEITURA"
+    },
+    {
+        "endereco": "DADOS PREFEITURA, São Miguel dos Milagres",
+        "nome": "DADOS PREFEITURA"
+    },
+    {
+        "endereco": "DADOS PREFEITURA, São Miguel dos Milagres",
+        "nome": "DADOS PREFEITURA"
+    },
+    {
+        "endereco": "DADOS PREFEITURA, São Miguel dos Milagres",
+        "nome": "DADOS PREFEITURA"
+    },
+    {
+        "endereco": "DADOS PREFEITURA, São Miguel dos Milagres",
+        "nome": "DADOS PREFEITURA"
+    },
+    {
+        "endereco": "DADOS PREFEITURA, São Miguel dos Milagres",
+        "nome": "DADOS PREFEITURA"
+    },
+    {
+        "endereco": "DADOS PREFEITURA, São Miguel dos Milagres",
+        "nome": "DADOS PREFEITURA"
+    },
+    {
+        "endereco": "DADOS PREFEITURA, São Miguel dos Milagres",
+        "nome": "DADOS PREFEITURA"
+    },
+    {
+        "endereco": "DADOS PREFEITURA, São Miguel dos Milagres",
+        "nome": "DADOS PREFEITURA"
+    },
+    {
+        "endereco": "DADOS PREFEITURA, São Miguel dos Milagres",
+        "nome": "DADOS PREFEITURA"
+    },
+    {
+        "endereco": "DADOS PREFEITURA, São Miguel dos Milagres",
+        "nome": "DADOS PREFEITURA"
+    },
+    {
+        "endereco": "DADOS PREFEITURA, São Miguel dos Milagres",
+        "nome": "DADOS PREFEITURA"
+    },
+    {
+        "endereco": "DADOS PREFEITURA, São Miguel dos Milagres",
+        "nome": "DADOS PREFEITURA"
+    },
+    {
+        "endereco": "DADOS PREFEITURA, São Miguel dos Milagres",
+        "nome": "DADOS PREFEITURA"
+    },
+    {
+        "endereco": "DADOS PREFEITURA, São Miguel dos Milagres",
+        "nome": "DADOS PREFEITURA"
+    },
+    {
+        "endereco": "DADOS PREFEITURA, São Miguel dos Milagres",
+        "nome": "DADOS PREFEITURA"
+    },
+    {
+        "endereco": "DADOS PREFEITURA, São Miguel dos Milagres",
+        "nome": "DADOS PREFEITURA"
+    },
+    {
+        "endereco": "DADOS PREFEITURA, São Miguel dos Milagres",
+        "nome": "DADOS PREFEITURA"
+    },
+    {
+        "endereco": "DADOS PREFEITURA, São Miguel dos Milagres",
+        "nome": "DADOS PREFEITURA"
+    },
+    {
+        "endereco": "DADOS PREFEITURA, São Miguel dos Milagres",
+        "nome": "DADOS PREFEITURA"
+    },
+    {
+        "endereco": "DADOS PREFEITURA, São Miguel dos Milagres",
+        "nome": "DADOS PREFEITURA"
+    },
+    {
+        "endereco": "DADOS PREFEITURA, São Miguel dos Milagres",
+        "nome": "DADOS PREFEITURA"
+    },
+    {
+        "endereco": "DADOS PREFEITURA, São Miguel dos Milagres",
+        "nome": "DADOS PREFEITURA"
+    },
+    {
+        "endereco": "DADOS PREFEITURA, São Miguel dos Milagres",
+        "nome": "DADOS PREFEITURA"
+    },
+    {
+        "endereco": "DADOS PREFEITURA, São Miguel dos Milagres",
+        "nome": "DADOS PREFEITURA"
+    },
+    {
+        "endereco": "DADOS PREFEITURA, São Miguel dos Milagres",
+        "nome": "DADOS PREFEITURA"
+    },
+    {
+        "endereco": "DADOS PREFEITURA, São Miguel dos Milagres",
+        "nome": "DADOS PREFEITURA"
+    },
+    {
+        "endereco": "DADOS PREFEITURA, São Miguel dos Milagres",
+        "nome": "DADOS PREFEITURA"
+    },
+    {
+        "endereco": "DADOS PREFEITURA, São Miguel dos Milagres",
+        "nome": "DADOS PREFEITURA"
+    },
+    {
+        "endereco": "DADOS PREFEITURA, São Miguel dos Milagres",
+        "nome": "DADOS PREFEITURA"
+    },
+    {
+        "endereco": "DADOS PREFEITURA, São Miguel dos Milagres",
+        "nome": "DADOS PREFEITURA"
+    },
+    {
+        "endereco": "DADOS PREFEITURA, São Miguel dos Milagres",
+        "nome": "DADOS PREFEITURA"
+    },
+    {
+        "endereco": "DADOS PREFEITURA, São Miguel dos Milagres",
+        "nome": "DADOS PREFEITURA"
+    },
+    {
+        "endereco": "DADOS PREFEITURA, São Miguel dos Milagres",
+        "nome": "DADOS PREFEITURA"
+    },
+    {
+        "endereco": "DADOS PREFEITURA, São Miguel dos Milagres",
+        "nome": "DADOS PREFEITURA"
+    },
+    {
+        "endereco": "DADOS PREFEITURA, São Miguel dos Milagres",
+        "nome": "DADOS PREFEITURA"
+    },
+    {
+        "endereco": "DADOS PREFEITURA, São Miguel dos Milagres",
+        "nome": "DADOS PREFEITURA"
+    },
+    {
+        "endereco": "DADOS PREFEITURA, São Miguel dos Milagres",
+        "nome": "DADOS PREFEITURA"
+    },
+    {
+        "endereco": "DADOS PREFEITURA, São Miguel dos Milagres",
+        "nome": "DADOS PREFEITURA"
+    },
+    {
+        "endereco": "DADOS PREFEITURA, São Miguel dos Milagres",
+        "nome": "DADOS PREFEITURA"
+    },
+    {
+        "endereco": "Rua Jose Maria Duarte, Maragogi",
+        "nome": "DELLAS"
+    },
+    {
+        "endereco": "Delmiro Gouveia, Delmiro Gouveia",
+        "nome": "DELMIRENSE HOTEIS LOCAÇÕES E VENDAS DE VEICULOS EIRELI (POUSADADOPOSTOALDO)",
+        "coordenadas": {
+            "lat": -9.39951355,
+            "lon": -38.04321719151318
+        }
+    },
+    {
+        "endereco": "R. Boa Vista, 454 - Centro, Porto Calvo",
+        "nome": "DETH"
+    },
+    {
+        "endereco": "Rua Santa Teresinha, 18, Maragogi",
+        "nome": "DOLPHIN BEACH BAR & POUSADA"
+    },
+    {
+        "endereco": "São Pedro Maceió Garça Torta CEP: 57039020 AL, Maceió",
+        "nome": "DUNA PARAÍSO"
+    },
+    {
+        "endereco": "BARRA DE JEQUIA Jequiá da Praia, Jequiá da Praia",
+        "nome": "DUNAS DE MARAPE"
+    },
+    {
+        "endereco": "NIQUIM QUADRA B4 LOTE 06 Barra de São Miguel, Barra de São Miguel",
+        "nome": "ECOPARK CHACARA NIQUIM"
+    },
+    {
+        "endereco": "Marechal Deodoro, Marechal Deodoro",
+        "nome": "ECOS DO MAR",
+        "coordenadas": {
+            "lat": -9.71901755,
+            "lon": -35.8974586758383
+        }
+    },
+    {
+        "endereco": "Rua Santa Teresinha, 18, Maragogi",
+        "nome": "ENCANTOS DE MARAGOGI"
+    },
+    {
+        "endereco": "R. da Igreja, 79, Paripueira",
+        "nome": "ENCONTROS DAS ÁGUAS",
+        "coordenadas": {
+            "lat": -9.4655885,
+            "lon": -35.5448712
+        }
+    },
+    {
+        "endereco": "Av. Senador Rui Palmeira, Maragogi",
+        "nome": "ENERO",
+        "coordenadas": {
+            "lat": -9.0191421,
+            "lon": -35.2238779
+        }
+    },
+    {
+        "endereco": "SAO JOSE ANDAR PRIMEIRO ANDAR Maceió Fernão Velho CEP: 57070120 AL, Maceió",
+        "nome": "ESPACO MINHA CASA MINHA VIDA"
+    },
+    {
+        "endereco": "SENADOR ARNON DE MELO Maribondo, Maribondo",
+        "nome": "ESSENCIAL HOSTEL",
+        "coordenadas": {
+            "lat": -9.547179,
+            "lon": -36.2529045
+        }
+    },
+    {
+        "endereco": "ANDAR 1 Porto Calvo, Porto Calvo",
+        "nome": "ESTALAGEM CALABAR"
+    },
+    {
+        "endereco": "Rua José Machado Carvalho Raposo, Maragogi",
+        "nome": "ESTRELA DO MAR"
+    },
+    {
+        "endereco": "João Davino APT 904 Maceió Jatiúca CEP: 57035554 AL, Maceió",
+        "nome": "EXPRESSO R1"
+    },
+    {
+        "endereco": "União dos Palmares, União dos Palmares",
+        "nome": "FAZENDA ANHUMAS",
+        "coordenadas": {
+            "lat": -9.1302099,
+            "lon": -35.96540138035762
+        }
+    },
+    {
+        "endereco": "SITIO IMPUEIRA, Quebrangulo",
+        "nome": "FAZENDA LAGOA DOS BOIS"
+    },
+    {
+        "endereco": "Miai de cima, Coruripe",
+        "nome": "FAZENDA MARESIA",
+        "coordenadas": {
+            "lat": -10.19590392021718,
+            "lon": -36.19470062374065
+        }
+    },
+    {
+        "endereco": "Mar Vermelho, Mar Vermelho",
+        "nome": "FAZENDA VALE VERDE",
+        "coordenadas": {
+            "lat": -9.4665,
+            "lon": -36.402277777777776
+        }
+    },
+    {
+        "endereco": "Olho D Água das Flores, Olho d'Água das Flores",
+        "nome": "FLAT DONA JANDIRA",
+        "coordenadas": {
+            "lat": -9.53707825,
+            "lon": -37.27907746843938
+        }
+    },
+    {
+        "endereco": "ENGENHEIRO GERALDO MAGELA DE C BELTRAO Pontal de Coruripe, Coruripe",
+        "nome": "FLATS BAHIA"
+    },
+    {
+        "endereco": "Vereador Pedro Moura Maceió Jatiúca CEP: 57036360 AL, Maceió",
+        "nome": "FLIX HOTEL"
+    },
+    {
+        "endereco": "Japaratinga - AL, 57950-000, Japaratinga",
+        "nome": "FLOR DE LOTUS HOTEL",
+        "coordenadas": {
+            "lat": -9.0955,
+            "lon": -35.29478571428571
+        }
+    },
+    {
+        "endereco": "Sítio Ponta de Mangue, Maragogi",
+        "nome": "FONTE DOS CORAIS"
+    },
+    {
+        "endereco": "CASA Marechal Deodoro, Marechal Deodoro",
+        "nome": "FRAN6 RECEPTIVO",
+        "coordenadas": {
+            "lat": -23.29365195,
+            "lon": -50.07588655
+        }
+    },
+    {
+        "endereco": "Marechal Deodoro, Marechal Deodoro",
+        "nome": "FRANCES PRAIA POUSADA",
+        "coordenadas": {
+            "lat": -9.71901755,
+            "lon": -35.8974586758383
+        }
+    },
+    {
+        "endereco": "Rua Coronel Rômulo de Morais, Maragogi",
+        "nome": "Pousada Gamela"
+    },
+    {
+        "endereco": "Rua Estudante, Arapiraca",
+        "nome": "Hotel Falcão",
+        "coordenadas": {
+            "lat": -9.758237,
+            "lon": -36.6551472
+        }
+    },
+    {
+        "endereco": "Rod. AL 220 km 06, Arapiraca",
+        "nome": "Hotel Estilo",
+        "coordenadas": {
+            "lat": -9.8815921,
+            "lon": -36.320237
+        }
+    },
+    {
+        "endereco": "Rua sem nome, Maragogi",
+        "nome": "GIRASOL"
+    },
+    {
+        "endereco": "BR 104, KM 35, União dos Palmares",
+        "nome": "GLOBO",
+        "coordenadas": {
+            "lat": -9.0940732,
+            "lon": -36.0529232
+        }
+    },
+    {
+        "endereco": "LOTE ILOA SALA 02 Barra de São Miguel, Barra de São Miguel",
+        "nome": "GO FAMILY FERIAS INTELIGENTES (ILOA)"
+    },
+    {
+        "endereco": "R. Antônio Matias, 186 - Centro, Palmeira dos Índios - AL, 57600-350, Palmeira dos Índios",
+        "nome": "GRAND VILLE 1"
+    },
+    {
+        "endereco": "R. Deputado Jota Duarte - 85 Juca Sampanho ao lado do posto ALE, Palmeira dos Índios",
+        "nome": "GRAND VILLE 2"
+    },
+    {
+        "endereco": "Barra de São Miguel, Barra de São Miguel",
+        "nome": "GRANDVILLE BARRA HOTEL",
+        "coordenadas": {
+            "lat": -9.81147095,
+            "lon": -35.95662647429278
+        }
+    },
+    {
+        "endereco": "Eraldo Duarte Constant QUADRA: J LOTE: 13 Maceió Guaxuma CEP: 57038740 AL, Maceió",
+        "nome": "GURGURI PRAIA HOTEL"
+    },
+    {
+        "endereco": "Sitio Ponta de Mangue, Maragogi",
+        "nome": "HOLANDES"
+    },
+    {
+        "endereco": "Gaspar Ferrari Maceió Ponta Verde CEP: 57035100 AL, Maceió",
+        "nome": "HOLIDAY INN EXPRESS MACEIO - PONTA VERDE"
+    },
+    {
+        "endereco": "Rodovia AL 10, Norte, Maragogi",
+        "nome": "HORIZONTE",
+        "coordenadas": {
+            "lat": -8.9974082,
+            "lon": -35.207842546428196
+        }
+    },
+    {
+        "endereco": "Pontal, Coruripe",
+        "nome": "HORIZONTE MAR",
+        "coordenadas": {
+            "lat": -10.153392,
+            "lon": -36.134767
+        }
+    },
+    {
+        "endereco": "Costa Norte II BLOCO C3 APT 01 Maceió São Jorge CEP: 57044031 AL, Maceió",
+        "nome": "HOSPEDAGEM FERREIRA"
+    },
+    {
+        "endereco": "Povoado Barra de Jequiá, Jequiá da Praia-AL., Jequiá da Praia",
+        "nome": "HOSTEL DAS MARIA'S"
+    },
+    {
+        "endereco": "Hamilton de Barros Soutinho Maceió Jatiúca CEP: 57035690 AL, Maceió",
+        "nome": "HOSTEL E POUSADA AGUAS MARINHAS"
+    },
+    {
+        "endereco": "AL-101 Paripueira, Paripueira",
+        "nome": "HOSTEL POUSADA FLOR DE PARIS",
+        "coordenadas": {
+            "lat": -9.4527196,
+            "lon": -35.5353978
+        }
+    },
+    {
+        "endereco": "RUA PALMEIRA ALTA, Nº 17, Penedo",
+        "nome": "HOTEL & CHURRASCARIA O LAÇADOR",
+        "coordenadas": {
+            "lat": -10.285832019899864,
+            "lon": -36.556470152560074
+        }
+    },
+    {
+        "endereco": "SENADOR ARNON DE MELO Maribondo, Maribondo",
+        "nome": "HOTEL ACONCHEGO",
+        "coordenadas": {
+            "lat": -9.547179,
+            "lon": -36.2529045
+        }
+    },
+    {
+        "endereco": "DOUTOR ANTONIO GOUVEIA LOJA 05 Maceió Pajuçara CEP: 57030170 AL, Maceió",
+        "nome": "HOTEL ACQUA INN"
+    },
+    {
+        "endereco": "LOTE 10 AO 16 Delmiro Gouveia, Delmiro Gouveia",
+        "nome": "HOTEL ALINE",
+        "coordenadas": {
+            "lat": -9.39951355,
+            "lon": -38.04321719151318
+        }
+    },
+    {
+        "endereco": "Av. Senador Rui Palmeira, 59, Maragogi",
+        "nome": "HOTEL AREIAS BELAS",
+        "coordenadas": {
+            "lat": -9.0191421,
+            "lon": -35.2238779
+        }
+    },
+    {
+        "endereco": "Delmiro Gouveia, Delmiro Gouveia",
+        "nome": "HOTEL AUTO POSTO NOSSA SENHORA DO ROSÁRIO",
+        "coordenadas": {
+            "lat": -9.39951355,
+            "lon": -38.04321719151318
+        }
+    },
+    {
+        "endereco": "Rua Projetada, s/n, \n RUA VOVÓ LENIRA, Japaratinga",
+        "nome": "HOTEL BANGALOS DO PONTAL"
+    },
+    {
+        "endereco": "Loteamento Bela Vista, Bairro Bela Vista 3, São Miguel dos Campos",
+        "nome": "HOTEL BELA VISTA - OBS: DUARTE HOTAL"
+    },
+    {
+        "endereco": "AL-220 Arapiraca Planalto CEP: 57308000 AL, Arapiraca",
+        "nome": "HOTEL BLUE"
+    },
+    {
+        "endereco": "Doutor Antônio Gouveia Maceió Pajuçara CEP: 57030170 AL, Maceió",
+        "nome": "HOTEL BRISA SUITES"
+    },
+    {
+        "endereco": "Álvaro Otacílio Maceió Jatiúca CEP: 57036850 AL, Maceió",
+        "nome": "HOTEL BRISA TOWER"
+    },
+    {
+        "endereco": "Santana do Ipanema, Santana do Ipanema",
+        "nome": "HOTEL CANGAÇO",
+        "coordenadas": {
+            "lat": -9.34556835,
+            "lon": -37.192242621874996
+        }
+    },
+    {
+        "endereco": "Mata Grande, Mata Grande",
+        "nome": "HOTEL CASARAO",
+        "coordenadas": {
+            "lat": -9.0328136,
+            "lon": -37.72214489069959
+        }
+    },
+    {
+        "endereco": "Coronel Alcides de Barros Ferreira Maceió Jatiúca CEP: 57036480 AL, Maceió",
+        "nome": "HOTEL CIRIBAI"
+    },
+    {
+        "endereco": "Desportista Humberto Guimarães Maceió Ponta Verde CEP: 57035030 AL, Maceió",
+        "nome": "HOTEL COSTAMAR"
+    },
+    {
+        "endereco": "Gunther Frans Oliveira ROD AL 101 NORTE Maceió Ipioca CEP: 57039700 AL, Maceió",
+        "nome": "HOTEL D'ANATUREZA"
+    },
+    {
+        "endereco": "Delmiro Gouveia, Delmiro Gouveia",
+        "nome": "HOTEL DE PAULINHO",
+        "coordenadas": {
+            "lat": -9.39951355,
+            "lon": -38.04321719151318
+        }
+    },
+    {
+        "endereco": "Doutor Júlio Marques Luz Maceió Jatiúca CEP: 57035700 AL, Maceió",
+        "nome": "HOTEL DES BASQUES"
+    },
+    {
+        "endereco": "Av. Otacílio Cavalcante, Pilar",
+        "nome": "HOTEL E RESTAURANTE BAU",
+        "coordenadas": {
+            "lat": -9.59395141479477,
+            "lon": -35.95388829901817
+        }
+    },
+    {
+        "endereco": "Av. Pref. Moacir Cavalcante, 126. Centro., São Miguel dos Campos",
+        "nome": "HOTEL E RESTAURANTE DO BAU"
+    },
+    {
+        "endereco": "RODOVIA AL 110, 195, Penedo",
+        "nome": "HOTEL ENCANTOS DE PENEDO",
+        "coordenadas": {
+            "lat": -10.209070384603253,
+            "lon": -36.56670976409728
+        }
+    },
+    {
+        "endereco": "Doutor Antônio Gouveia Maceió Pajuçara CEP: 57030170 AL, Maceió",
+        "nome": "HOTEL ENSEADA"
+    },
+    {
+        "endereco": "João Davino Maceió Mangabeiras CEP: 57037590 AL, Maceió",
+        "nome": "HOTEL ESCUNA PRAIA"
+    },
+    {
+        "endereco": "LETRA B Delmiro Gouveia, Delmiro Gouveia",
+        "nome": "HOTEL EXECUTIVE"
+    },
+    {
+        "endereco": "Delmiro Gouveia, Delmiro Gouveia",
+        "nome": "HOTEL FAZENDA BARAUNAS",
+        "coordenadas": {
+            "lat": -9.39951355,
+            "lon": -38.04321719151318
+        }
+    },
+    {
+        "endereco": "AL 435 Passo de Camaragibe, Passo de Camaragibe",
+        "nome": "HOTEL FAZENDA CAMBARÁ",
+        "coordenadas": {
+            "lat": -9.1922812,
+            "lon": -35.5386263
+        }
+    },
+    {
+        "endereco": "Viçosa, Viçosa",
+        "nome": "HOTEL FAZENDA MARAMBAIA",
+        "coordenadas": {
+            "lat": -9.33587455,
+            "lon": -36.22467140037585
+        }
+    },
+    {
+        "endereco": "Coruripe, Coruripe",
+        "nome": "HOTEL LITORAL SUL",
+        "coordenadas": {
+            "lat": -10.1153954,
+            "lon": -36.259004162500005
+        }
+    },
+    {
+        "endereco": "DO LIVRAMENTO Maceió, Maceió",
+        "nome": "HOTEL LIVRAMENTO",
+        "coordenadas": {
+            "lat": -9.6645541,
+            "lon": -35.7414882
+        }
+    },
+    {
+        "endereco": "Marechal Deodoro, Marechal Deodoro",
+        "nome": "HOTEL LUA CHEIA",
+        "coordenadas": {
+            "lat": -9.71901755,
+            "lon": -35.8974586758383
+        }
+    },
+    {
+        "endereco": "Doutor Antônio Gouveia A Maceió Pajuçara CEP: 57030170 AL, Maceió",
+        "nome": "HOTEL MERCURE MACEIÓ PAJUÇARA"
+    },
+    {
+        "endereco": "Doutor Antônio Gouveia Maceió Pajuçara CEP: 57030170 AL, Maceió",
+        "nome": "HOTEL MERIDIANO"
+    },
+    {
+        "endereco": "Comendador Gustavo Paiva Maceió Cruz das Almas CEP: 57038000 AL, Maceió",
+        "nome": "HOTEL PALMANOVA"
+    },
+    {
+        "endereco": "DESMEMBRAMENTO DA FAZ ROSA DO SOL Barra de São Miguel, Barra de São Miguel",
+        "nome": "GUNGAPORANGA HOTEL"
+    },
+    {
+        "endereco": "Doutor Antônio Gouveia SALA 406 Maceió Pajuçara CEP: 57030170 AL, Maceió",
+        "nome": "HAPPY HOTEL PAJUCARA"
+    },
+    {
+        "endereco": "Doutor Antônio Gouveia Maceió Pajuçara CEP: 57030170 AL, Maceió",
+        "nome": "HOTEL BRISA PRAIA"
+    },
+    {
+        "endereco": "Sitio Bitingui N°300, Japaratinga",
+        "nome": "Bitingui Praia Hotel"
+    },
+    {
+        "endereco": "Empresário Carlos da Silva Nogueira Maceió Jatiúca CEP: 57036540 AL, Maceió",
+        "nome": "Jatiúca Hotel & Resort"
+    },
+    {
+        "endereco": "Rua Quinze de Novembro, Arapiraca",
+        "nome": "Hotel Confiança",
+        "coordenadas": {
+            "lat": -9.7545541,
+            "lon": -36.6559054
+        }
+    },
+    {
+        "endereco": "Av. Governador Antonio Simeão Lamenha Filho, Arapiraca",
+        "nome": "Hotel Di Van"
+    },
+    {
+        "endereco": "Largo Dom Ferdes Gomes, Arapiraca",
+        "nome": "Hotel Melo"
+    },
+    {
+        "endereco": "Rua Domingos Correia, Arapiraca",
+        "nome": "Hotel Pequeno Príncipe"
+    },
+    {
+        "endereco": "Rua Trinta de Outubro, Arapiraca",
+        "nome": "Hotel Nacional",
+        "coordenadas": {
+            "lat": -9.7496774,
+            "lon": -36.6628981
+        }
+    },
+    {
+        "endereco": "Rua Marechal Deodoro da Fonseca, Arapiraca",
+        "nome": "Hotel Pereira",
+        "coordenadas": {
+            "lat": -9.7568956,
+            "lon": -36.6534859
+        }
+    },
+    {
+        "endereco": "Av. Arlindo Lins de Melo, Maragogi",
+        "nome": "Pousada Grandmar",
+        "coordenadas": {
+            "lat": -9.0197574,
+            "lon": -35.2241637
+        }
+    },
+    {
+        "endereco": "Álvaro Otacílio Maceió Ponta Verde CEP: 57035180 AL, Maceió",
+        "nome": "HOTEL PONTA VERDE"
+    },
+    {
+        "endereco": "Marechal Deodoro, Marechal Deodoro",
+        "nome": "HOTEL PONTA VERDE PRAIA DO FRANCÊS",
+        "coordenadas": {
+            "lat": -9.71901755,
+            "lon": -35.8974586758383
+        }
+    },
+    {
+        "endereco": "Prefeito Abdon Arroxelas Maceió Ponta Verde CEP: 57035380 AL, Maceió",
+        "nome": "HOTEL PORTO DA PRAIA"
+    },
+    {
+        "endereco": "Hélio Pradines Maceió Ponta Verde CEP: 57035220 AL, Maceió",
+        "nome": "HOTEL PORTO GRANDE"
+    },
+    {
+        "endereco": "Doutor Júlio Marques Luz Maceió Jatiúca CEP: 57035700 AL, Maceió",
+        "nome": "HOTEL PORTO JATIÚCA"
+    },
+    {
+        "endereco": "Doutor Antônio Cansanção Maceió Ponta Verde CEP: 57035190 AL, Maceió",
+        "nome": "HOTEL PORTO MACEIÓ"
+    },
+    {
+        "endereco": "Araújo Bivar Maceió Pajuçara CEP: 57030035 AL, Maceió",
+        "nome": "HOTEL POUSADA DA SEREIA"
+    },
+    {
+        "endereco": "Desportista Humberto Guimarães Maceió Ponta Verde CEP: 57035030 AL, Maceió",
+        "nome": "HOTEL POUSADA GOGO DA EMA"
+    },
+    {
+        "endereco": "Marechal Deodoro, Marechal Deodoro",
+        "nome": "HOTEL POUSADA MAHON-MAR",
+        "coordenadas": {
+            "lat": -9.71901755,
+            "lon": -35.8974586758383
+        }
+    },
+    {
+        "endereco": "Doutor Antônio Gouveia Maceió Pajuçara CEP: 57030170 AL, Maceió",
+        "nome": "HOTEL PRAIA BONITA"
+    },
+    {
+        "endereco": "João Davino Maceió Jatiúca CEP: 57035554 AL, Maceió",
+        "nome": "HOTEL PRAIA BONITA III"
+    },
+    {
+        "endereco": "Doutor Antônio Gouveia Maceió Pajuçara CEP: 57030170 AL, Maceió",
+        "nome": "HOTEL PRAIA BONITA JATIÚCA"
+    },
+    {
+        "endereco": "Santana do Ipanema, Santana do Ipanema",
+        "nome": "HOTEL PRIVILLEGE",
+        "coordenadas": {
+            "lat": -9.34556835,
+            "lon": -37.192242621874996
+        }
+    },
+    {
+        "endereco": "Quintino Bocaiúva Maceió Ponta da Terra CEP: 57030570 AL, Maceió",
+        "nome": "HOTEL REFUGIO MACEIÓ"
+    },
+    {
+        "endereco": "LOTM RECANTO CAETES Barra de São Miguel, Barra de São Miguel",
+        "nome": "HOTEL RIO MAR"
+    },
+    {
+        "endereco": "Carlos Tenório Maceió Ponta Verde CEP: 57035010 AL, Maceió",
+        "nome": "HOTEL RITZ PLAZA MAR"
+    },
+    {
+        "endereco": "RODOVIA ENGENHEIRO JOAQUIM GONÇALVES, Nº 700, Penedo",
+        "nome": "HOTEL ROCHEDO",
+        "coordenadas": {
+            "lat": -10.288036220462285,
+            "lon": -36.538670880239614
+        }
+    },
+    {
+        "endereco": "B União dos Palmares, União dos Palmares",
+        "nome": "HOTEL SANTA MARIA MADALENA",
+        "coordenadas": {
+            "lat": -9.1302099,
+            "lon": -35.96540138035762
+        }
+    },
+    {
+        "endereco": "AV. FLORIANO PEIXOTO, 237, Penedo",
+        "nome": "HOTEL SÃO FRANCISCO",
+        "coordenadas": {
+            "lat": -10.2901766,
+            "lon": -36.5856869
+        }
+    },
+    {
+        "endereco": "Doutor Antônio Gouveia Maceió Pajuçara CEP: 57030170 AL, Maceió",
+        "nome": "HOTEL SETE COQUEIROS"
+    },
+    {
+        "endereco": "Engenheiro Mário de Gusmão SALA 01 Maceió Ponta Verde CEP: 57035000 AL, Maceió",
+        "nome": "HOTEL SOFTINN MACEIÓ PONTA VERDE"
+    },
+    {
+        "endereco": "KM 2 Major Isidoro, Major Isidoro",
+        "nome": "HOTEL TERRA DO LEITE",
+        "coordenadas": {
+            "lat": -9.5336332,
+            "lon": -36.9902993
+        }
+    },
+    {
+        "endereco": "TERREOCASA Olho D Água do Casado, Olho d'Água do Casado",
+        "nome": "HOTEL VIRGULINO"
+    },
+    {
+        "endereco": "Rua da Praia, s/n\n Barreiras do Boqueirão, Japaratinga",
+        "nome": "HUMAITÁ POUSADA"
+    },
+    {
+        "endereco": "Rodovia Al 101 Norte, Maragogi",
+        "nome": "IBIZA",
+        "coordenadas": {
+            "lat": -9.013401146426975,
+            "lon": -35.22518398887685
+        }
+    },
+    {
+        "endereco": "Doutor Antônio Gouveia Maceió Pajuçara CEP: 57030170 AL, Maceió",
+        "nome": "IBR HOTELARIA"
+    },
+    {
+        "endereco": "POVOADO DO BOQUEIRÃO, 6000, Japaratinga",
+        "nome": "IGARAKUÊ HOTEL POUSADA"
+    },
+    {
+        "endereco": "Doutor Noel Nutels Maceió Ponta Verde CEP: 57035450 AL, Maceió",
+        "nome": "INTERCITY MACEIÓ"
+    },
+    {
+        "endereco": "Marechal Deodoro, Marechal Deodoro",
+        "nome": "JUBARTE TURISMO",
+        "coordenadas": {
+            "lat": -9.71901755,
+            "lon": -35.8974586758383
+        }
+    },
+    {
+        "endereco": "Ferroviário Manoel Gonçalves Filho EDIF LEIRIA APT 101 Maceió Jatiúca CEP: 57035852 AL, Maceió",
+        "nome": "JV MONTEIRO"
+    },
+    {
+        "endereco": "Rua Dourado, 50, Maragogi",
+        "nome": "KALANI",
+        "coordenadas": {
+            "lat": -8.98366559142603,
+            "lon": -35.19193799771526
+        }
+    },
+    {
+        "endereco": "São José da Laje, São José da Laje",
+        "nome": "KARYSE MOVEIS E ELETRO",
+        "coordenadas": {
+            "lat": -8.992,
+            "lon": -36.033249999999995
+        }
+    },
+    {
+        "endereco": "Marechal Mascarenhas de Moraes Maceió Cruz das Almas CEP: 57038125 AL, Maceió",
+        "nome": "KSA PIRES HOSPEDAGENS & SHOPS KSA PIRES ON LINE"
+    },
+    {
+        "endereco": "Rua da praia, Maragogi",
+        "nome": "KUAVA",
+        "coordenadas": {
+            "lat": -8.983516315436104,
+            "lon": -35.19015111808875
+        }
+    },
+    {
+        "endereco": "Rua Antônio Zé Ferino, Maragogi",
+        "nome": "LA BELLE"
+    },
+    {
+        "endereco": "Marechal Deodoro, Marechal Deodoro",
+        "nome": "LA DOLCE VITA FLAT & POUSADA",
+        "coordenadas": {
+            "lat": -9.71901755,
+            "lon": -35.8974586758383
+        }
+    },
+    {
+        "endereco": "Rua da praia, Maragogi",
+        "nome": "LÁ EM CASA",
+        "coordenadas": {
+            "lat": -8.983516315436104,
+            "lon": -35.19015111808875
+        }
+    },
+    {
+        "endereco": "Lagoa do Pau, Coruripe",
+        "nome": "LAGOA MAR",
+        "coordenadas": {
+            "lat": -10.1181682,
+            "lon": -36.1083483
+        }
+    },
+    {
+        "endereco": "Doutor José Sampaio Luz Maceió Ponta Verde CEP: 57035260 AL, Maceió",
+        "nome": "LAGOA MAR INN"
+    },
+    {
+        "endereco": "Av. Caravelas, Marechal Deodoro",
+        "nome": "LE BARON",
+        "coordenadas": {
+            "lat": -9.7693644,
+            "lon": -35.8455107
+        }
+    },
+    {
+        "endereco": "QUADRAQ LOTE 16 Marechal Deodoro, Marechal Deodoro",
+        "nome": "LE SOLEIL - POUSADA E RESTAURANTE"
+    },
+    {
+        "endereco": "DOUTOR LUIZ DE MASCARENHAS APT ED TERRAZOS AP 1601 Maceió Farol CEP: 57055030 AL, Maceió",
+        "nome": "LOCATEMPORADA"
+    },
+    {
+        "endereco": "Coruripe, Coruripe",
+        "nome": "LUATOUR",
+        "coordenadas": {
+            "lat": -10.1153954,
+            "lon": -36.259004162500005
+        }
+    },
+    {
+        "endereco": "Luis Olanda C., Maragogi",
+        "nome": "LUMAR"
+    },
+    {
+        "endereco": "BARREIRAS, Japaratinga",
+        "nome": "LUZ DO SOL"
+    },
+    {
+        "endereco": "Av. Ferdo Paes de Oliveira, Maragogi",
+        "nome": "LYRIUS DO MAR"
+    },
+    {
+        "endereco": "RUA ESCRITOR JORGE LIMA, 57, Barra de São Miguel",
+        "nome": "KENOA Exclusive Beach Spa & Resort",
+        "coordenadas": {
+            "lat": -9.8164566,
+            "lon": -35.8747404
+        }
+    },
+    {
+        "endereco": "Jangadeiros Alagoanos Maceió Pajuçara CEP: 57030000 AL, Maceió",
+        "nome": "Laguna Praia Hotel"
+    },
+    {
+        "endereco": "Rua dos Jangadeiros, Maragogi",
+        "nome": "Pousada Kanoas Maragogi"
+    },
+    {
+        "endereco": "Hotel Praia Dourada, Maragogi",
+        "nome": "Hotel Praia Dourada Marogofi Park",
+        "coordenadas": {
+            "lat": -8.992711700000001,
+            "lon": -35.20360751003646
+        }
+    },
+    {
+        "endereco": "Rodovia AL 101, Norte, Maragogi",
+        "nome": "Pousada La Rivieira",
+        "coordenadas": {
+            "lat": -8.9974082,
+            "lon": -35.207842546428196
+        }
+    },
+    {
+        "endereco": "AL 101, NORTE KM 128 Nº 33C, Japaratinga - AL, 57950-000, Japaratinga",
+        "nome": "Japaratinga Lounge Resort"
+    },
+    {
+        "endereco": "Rua Expedicionários Brasileiros, Arapiraca",
+        "nome": "Ibis Arapiraca",
+        "coordenadas": {
+            "lat": -9.7458062,
+            "lon": -36.6661287
+        }
+    },
+    {
+        "endereco": "Rod. AL 220, Arapiraca",
+        "nome": "Hotel Sol Nascente",
+        "coordenadas": {
+            "lat": -9.8815921,
+            "lon": -36.320237
+        }
+    },
+    {
+        "endereco": "Rua Governador Silvestre Péricles, Arapiraca",
+        "nome": "Hotel Senna",
+        "coordenadas": {
+            "lat": -9.757203,
+            "lon": -36.6458792
+        }
+    },
+    {
+        "endereco": "GUNTHER FRANS OLIVEIRA BLOCO ADMINISTRATIVO Maceió Ipioca CEP: 57039700 AL, Maceió",
+        "nome": "Ipioca Beach Residence & Resort"
+    },
+    {
+        "endereco": "R. Cel. Lucena Maranhão, 159-06 - Centro, Santana do Ipanema - AL, 57500-000, Santana do Ipanema",
+        "nome": "Hotel Ribeira do Ipanema"
+    },
+    {
+        "endereco": "Av. Carlos do Vale Ferro, São Sebastião",
+        "nome": "HOTEL SÃO SEBASTIÃO"
+    },
+    {
+        "endereco": "AL-220, Arapiraca",
+        "nome": "INSINUANTE HOTEL E SERVICOS LTDA",
+        "coordenadas": {
+            "lat": -9.754538741360431,
+            "lon": -36.625346113663
+        }
+    },
+    {
+        "endereco": "Maceió, Maceió",
+        "nome": "MACEIÓ ATLANTIC SUITES",
+        "coordenadas": {
+            "lat": -9.542104949999999,
+            "lon": -35.707621906803695
+        }
+    },
+    {
+        "endereco": "Álvaro Otacílio SALA 1 Maceió Ponta Verde CEP: 57035180 AL, Maceió",
+        "nome": "MACEIÓ MAR HOTEL"
+    },
+    {
+        "endereco": "Barão de Alagoas Maceió Centro CEP: 57020210 AL, Maceió",
+        "nome": "MACEIO PALACE HOTEL"
+    },
+    {
+        "endereco": "R. Ten. Ubiratã Sampaio, 35, Paripueira",
+        "nome": "MÃE DAS ÁGUAS"
+    },
+    {
+        "endereco": "Av. Brejio Madre de Deus, Maragogi",
+        "nome": "MAHANA"
+    },
+    {
+        "endereco": "Pontal, Coruripe",
+        "nome": "MALUHIA KAI",
+        "coordenadas": {
+            "lat": -10.153392,
+            "lon": -36.134767
+        }
+    },
+    {
+        "endereco": "Praça Batista Acioly 26, 1° andar, Maragogi",
+        "nome": "MANDALA HOSTEL"
+    },
+    {
+        "endereco": "Rua alto da Boa Vista, Maragogi",
+        "nome": "MAR AZUL",
+        "coordenadas": {
+            "lat": -9.008613458642003,
+            "lon": -35.22178464820417
+        }
+    },
+    {
+        "endereco": "Rua Largo do Carvão, S/N, Maragogi",
+        "nome": "MAR BELLO FLATS"
+    },
+    {
+        "endereco": "Rua Floriano Queiroz Coutinho, Maragogi",
+        "nome": "MAR DA BARRA",
+        "coordenadas": {
+            "lat": -8.987083492743368,
+            "lon": -35.200630329005776
+        }
+    },
+    {
+        "endereco": "Adelino da Rocha Calado s/n, Japaratinga - AL, 57950-000, Japaratinga",
+        "nome": "MAR E ORLA HOSTEL"
+    },
+    {
+        "endereco": "Loteamento Santa Luzia, Maragogi",
+        "nome": "MAR TURQUEZA"
+    },
+    {
+        "endereco": "Av. Senador Rui Palmeira, Maragogi",
+        "nome": "MARAGA BEACH",
+        "coordenadas": {
+            "lat": -9.018903310413242,
+            "lon": -35.2237911915582
+        }
+    },
+    {
+        "endereco": "Emílio Santa Rosa, Maragogi",
+        "nome": "MARAGO BEACH SUITES",
+        "coordenadas": {
+            "lat": -9.01782272510917,
+            "lon": -35.22381138515948
+        }
+    },
+    {
+        "endereco": "Av. Senador Rui Palmeira, nº 975, Maragogi",
+        "nome": "MARAGOGI BEACH FLATS",
+        "coordenadas": {
+            "lat": -9.018903310413242,
+            "lon": -35.2237911915582
+        }
+    },
+    {
+        "endereco": "Av. Hélio Holanda Costa, nº 01, Maragogi",
+        "nome": "MARAGOGI HOSTEL",
+        "coordenadas": {
+            "lat": -9.010027024024543,
+            "lon": -35.22131363288383
+        }
+    },
+    {
+        "endereco": "Rodovia AL 101, Norte, Maragogi",
+        "nome": "MARAGOGI SUITES",
+        "coordenadas": {
+            "lat": -8.9974082,
+            "lon": -35.207842546428196
+        }
+    },
+    {
+        "endereco": "AL-101, 902, Paripueira",
+        "nome": "MARIA BONITA",
+        "coordenadas": {
+            "lat": -9.452271427457143,
+            "lon": -35.53476006695273
+        }
+    },
+    {
+        "endereco": "José Luiz Calazans ANEXO TORRE SUL Maceió Jatiúca CEP: 57035850 AL, Maceió",
+        "nome": "MARINAS MACEIÓ HOTEL"
+    },
+    {
+        "endereco": "Rodovia AL 101, Norte, Maragogi",
+        "nome": "MARSSUTH",
+        "coordenadas": {
+            "lat": -8.9974082,
+            "lon": -35.207842546428196
+        }
+    },
+    {
+        "endereco": "Empresário Carlos da Silva Nogueira Maceió Jatiúca CEP: 57036540 AL, Maceió",
+        "nome": "MATSUBARA HOTEL"
+    },
+    {
+        "endereco": "João Davino Maceió Mangabeiras CEP: 57037590 AL, Maceió",
+        "nome": "MCZ HOTEL"
+    },
+    {
+        "endereco": "Senador Ezechias Jerônimo da Rocha Maceió Cruz das Almas CEP: 57038010 AL, Maceió",
+        "nome": "MEU HOSTEL"
+    },
+    {
+        "endereco": "RUA SÃO JOSÉ, Passo de Camaragibe",
+        "nome": "MILAGRES DO CAMARAGIBE"
+    },
+    {
+        "endereco": "União dos Palmares, União dos Palmares",
+        "nome": "MIRANTE DAS AGUAS",
+        "coordenadas": {
+            "lat": -9.1302099,
+            "lon": -35.96540138035762
+        }
+    },
+    {
+        "endereco": "RUBENS WANDERLEY SARMENTO Porto de Pedras, Porto de Pedras",
+        "nome": "NA FLORESTA GLAMPING"
+    },
+    {
+        "endereco": "Av. Senador Rui Palmeira - 665, Maragogi",
+        "nome": "NACIONAL ORLA",
+        "coordenadas": {
+            "lat": -9.018903310413242,
+            "lon": -35.2237911915582
+        }
+    },
+    {
+        "endereco": "RUA JOSÉ FRANCISCO DA SILVA, 84, Barra de São Miguel",
+        "nome": "NATUS HOSTEL",
+        "coordenadas": {
+            "lat": -9.840494509816462,
+            "lon": -35.89836007494016
+        }
+    },
+    {
+        "endereco": "BARREIRAS, Coruripe",
+        "nome": "NEWTON DE COCO",
+        "coordenadas": {
+            "lat": -10.1578379,
+            "lon": -36.1588905
+        }
+    },
+    {
+        "endereco": "Álvaro Otacílio Maceió Jatiúca CEP: 57036850 AL, Maceió",
+        "nome": "NOGUEIRA E GATTO HOTELARIA (CAIS DA PRAIA)"
+    },
+    {
+        "endereco": "Deputado Humberto Mendes SALA 05 Maceió Jaraguá CEP: 57022060 AL, Maceió",
+        "nome": "NORTHVILLE"
+    },
+    {
+        "endereco": "Governador Lamenha Filho Maceió Feitosa CEP: 57043000 AL, Maceió",
+        "nome": "NOVA SPEED CENTRO AUTOMOTIVO (POUSADA MARÉ MANSA)"
+    },
+    {
+        "endereco": "RUA ROSENDO MACIEL 61, Murici",
+        "nome": "NOVO HOTEL",
+        "coordenadas": {
+            "lat": -9.30936631993138,
+            "lon": -35.94556111876037
+        }
+    },
+    {
+        "endereco": "R. Maria das Merces, Japaratinga - AL, 57950-000, Japaratinga",
+        "nome": "O MARINHEIRO ESTALAGEM CASA DOS SONHOS",
+        "coordenadas": {
+            "lat": -9.08895626911366,
+            "lon": -35.25828123624029
+        }
+    },
+    {
+        "endereco": "Doutor Antônio Gouveia Maceió Pajuçara CEP: 57030170 AL, Maceió",
+        "nome": "PAJUÇARA HOTEL EXPRESS"
+    },
+    {
+        "endereco": "Doutor Antônio Gouveia Maceió Pajuçara CEP: 57030170 AL, Maceió",
+        "nome": "PAJUÇARA PRAIA HOTEL"
+    },
+    {
+        "endereco": "AL-105, Porto Calvo - AL,, Porto Calvo",
+        "nome": "PALACE",
+        "coordenadas": {
+            "lat": -9.030517397292876,
+            "lon": -35.41720180394623
+        }
+    },
+    {
+        "endereco": "Av. Dr. Antonio Gomes de Barros, 60, União dos Palmares",
+        "nome": "PALMARES",
+        "coordenadas": {
+            "lat": -9.161668560248371,
+            "lon": -36.028825483980846
+        }
+    },
+    {
+        "endereco": "Rua da Praia, Maragogi",
+        "nome": "PARADA OBRIGATÓRIA",
+        "coordenadas": {
+            "lat": -8.983516315436104,
+            "lon": -35.19015111808875
+        }
+    },
+    {
+        "endereco": "Pontal, Coruripe",
+        "nome": "PARADISE",
+        "coordenadas": {
+            "lat": -10.153392,
+            "lon": -36.134767
+        }
+    },
+    {
+        "endereco": "Marechal Deodoro, Marechal Deodoro",
+        "nome": "PARADISO TROPICAL",
+        "coordenadas": {
+            "lat": -9.71901755,
+            "lon": -35.8974586758383
+        }
+    },
+    {
+        "endereco": "AL-101, 1111 - Boqueirão, Japaratinga - AL, 57950-000, Japaratinga",
+        "nome": "PARADOR ALGAROBA",
+        "coordenadas": {
+            "lat": -9.120078847730966,
+            "lon": -35.27168120420179
+        }
+    },
+    {
+        "endereco": "LOT AMAROPOLIS LOTES 18/19 Paripueira, Paripueira",
+        "nome": "PARAISO DAS PALMEIRAS"
+    },
+    {
+        "endereco": "Av. Guiomar Britto, 110, Olho d'Água do Casado",
+        "nome": "PARAÍSO DOS CÂNIONS"
+    },
+    {
+        "endereco": "Rua da Praia, Maragogi",
+        "nome": "PARAISO MARAGOGI",
+        "coordenadas": {
+            "lat": -8.983516315436104,
+            "lon": -35.19015111808875
+        }
+    },
+    {
+        "endereco": "Rua curimã, Marechal Deodoro",
+        "nome": "PARIS"
+    },
+    {
+        "endereco": "AL 101 Norte, KM 3, SN, Passo de Camaragibe",
+        "nome": "PARU BOUTIQUE HOTEL"
+    },
+    {
+        "endereco": "Rua da Praia, Maragogi",
+        "nome": "PÉ NA AREIA",
+        "coordenadas": {
+            "lat": -8.983516315436104,
+            "lon": -35.19015111808875
+        }
+    },
+    {
+        "endereco": "Rua Projetada S/N Quadra M Lote 21 Pontal do - Boqueirão, Japaratinga - AL, 57950-000, Japaratinga",
+        "nome": "PE NA AREIA BOUTIQUE HOTEL"
+    },
+    {
+        "endereco": "SITIO PEDRA TALHADA, Quebrangulo",
+        "nome": "PEDRA TALHADA"
+    },
+    {
+        "endereco": "PARAISO QUADRAB LT 06 Barra de Santo Antônio, Barra de Santo Antônio",
+        "nome": "Paraíso Barra Hotel"
+    },
+    {
+        "endereco": "Rua João Correia de Almeida, Maragogi",
+        "nome": "Pousada Maritimar"
+    },
+    {
+        "endereco": "Rodovia AL 101, 687, Maragogi",
+        "nome": "Pousada O Caribe de Maragogi",
+        "coordenadas": {
+            "lat": -8.963578720290792,
+            "lon": -35.180923331598805
+        }
+    },
+    {
+        "endereco": "Padre José W., Maragogi",
+        "nome": "Suítes Mar de Maragogi"
+    },
+    {
+        "endereco": "Rod. Al 101 N, Maragogi",
+        "nome": "Maragogi Praia Flats"
+    },
+    {
+        "endereco": "Rua da Praia, Maragogi",
+        "nome": "Pousada Meraki",
+        "coordenadas": {
+            "lat": -8.983516315436104,
+            "lon": -35.19015111808875
+        }
+    },
+    {
+        "endereco": "Rua do sol, Maragogi",
+        "nome": "Pousada Morada do Sol"
+    },
+    {
+        "endereco": "PRAIA DE PATACHO Porto de Pedras, Porto de Pedras",
+        "nome": "PEDRAS DO PATACHO HOTEL BOUTIQUE EXPERIENCE"
+    },
+    {
+        "endereco": "AL 101 Norte, Maragogi",
+        "nome": "PEROBAVILLA HOTEL",
+        "coordenadas": {
+            "lat": -8.9974082,
+            "lon": -35.207842546428196
+        }
+    },
+    {
+        "endereco": "Pindorama, Coruripe",
+        "nome": "PINDORAMA",
+        "coordenadas": {
+            "lat": -10.1249963,
+            "lon": -36.1760623
+        }
+    },
+    {
+        "endereco": "BR 104, KM 32, União dos Palmares",
+        "nome": "PITA",
+        "coordenadas": {
+            "lat": -9.142174901032329,
+            "lon": -36.01639000204193
+        }
+    },
+    {
+        "endereco": "Miai de cima, Coruripe",
+        "nome": "PONTA DA ASA",
+        "coordenadas": {
+            "lat": -10.19590392021718,
+            "lon": -36.19470062374065
+        }
+    },
+    {
+        "endereco": "DOUTOR JOSÉ SAMPAIO LUZ Maceió Ponta Verde CEP: 57035260 AL, Maceió",
+        "nome": "PONTA DO MAR POUSADA"
+    },
+    {
+        "endereco": "Pontal, Coruripe",
+        "nome": "PONTAL DOS SONHOS",
+        "coordenadas": {
+            "lat": -10.153392,
+            "lon": -36.134767
+        }
+    },
+    {
+        "endereco": "Rua Da Pista, 253, São Bento, Maragogi",
+        "nome": "POUSADA MANO FILHO"
+    },
+    {
+        "endereco": "PREFEITO ABDON ARROXELAS Maceió Ponta Verde CEP: 57035380 AL, Maceió",
+        "nome": "POUSADA A CABANA"
+    },
+    {
+        "endereco": "Passo de Camaragibe, Passo de Camaragibe",
+        "nome": "POUSADA ACONCHEGO DA BARRA",
+        "coordenadas": {
+            "lat": -9.24659615,
+            "lon": -35.50319240550648
+        }
+    },
+    {
+        "endereco": "FAZ SANTO IZIDRO, Chã Preta",
+        "nome": "POUSADA ACONCHEGO SANTO IZIDRO"
+    },
+    {
+        "endereco": "Rua Santa Cruz do Capibaribe, Maragogi",
+        "nome": "POUSADA ÁGUA DE FUEGO"
+    },
+    {
+        "endereco": "Almirante Álvaro Calheiros Maceió Jatiúca CEP: 57035558 AL, Maceió",
+        "nome": "POUSADA ÁGUA VIVA"
+    },
+    {
+        "endereco": "Porto de Pedras, Porto de Pedras",
+        "nome": "POUSADA AGUAS BELAS",
+        "coordenadas": {
+            "lat": -9.149068100000001,
+            "lon": -35.38485154
+        }
+    },
+    {
+        "endereco": "ARAUJO BIVAR LOTE HELIO RAMALHO Maceió Pajuçara CEP: 57030030 AL, Maceió",
+        "nome": "POUSADA ALAGOANA"
+    },
+    {
+        "endereco": "Rua João Vicente Damasceno, S/N, Porto de Pedras",
+        "nome": "POUSADA ALDEIA PATACHO"
+    },
+    {
+        "endereco": "ZONA RURAL (BR 104), Murici",
+        "nome": "POUSADA ALECRIM"
+    },
+    {
+        "endereco": "R. Projetada III, 41 - Morro do Cruzeiro., Maragogi",
+        "nome": "POUSADA ALTO DO CRUZEIRO"
+    },
+    {
+        "endereco": "Desembargador Almeida Guimarães Maceió Pajuçara CEP: 57030160 AL, Maceió",
+        "nome": "POUSADA AQUARELA DO BRASIL"
+    },
+    {
+        "endereco": "Pontal, Coruripe",
+        "nome": "POUSADA ARAPIRACA",
+        "coordenadas": {
+            "lat": -10.153392,
+            "lon": -36.134767
+        }
+    },
+    {
+        "endereco": "CASA 06 LOT TABUBA Barra de Santo Antônio, Barra de Santo Antônio",
+        "nome": "POUSADA ARCO IRIS"
+    },
+    {
+        "endereco": "Mar Vermelho, Mar Vermelho",
+        "nome": "POUSADA AROMAS DA SERRA",
+        "coordenadas": {
+            "lat": -9.4665,
+            "lon": -36.402277777777776
+        }
+    },
+    {
+        "endereco": "PILAR Maceió Cruz das Almas CEP: 57038430 AL, Maceió",
+        "nome": "POUSADA ARTE PRAIA"
+    },
+    {
+        "endereco": "Santana do Ipanema, Santana do Ipanema",
+        "nome": "POUSADA ASA BRANCA",
+        "coordenadas": {
+            "lat": -9.34556835,
+            "lon": -37.192242621874996
+        }
+    },
+    {
+        "endereco": "Delmiro Gouveia, Delmiro Gouveia",
+        "nome": "POUSADA ATALAIA",
+        "coordenadas": {
+            "lat": -9.39951355,
+            "lon": -38.04321719151318
+        }
+    },
+    {
+        "endereco": "LOCALIZADA NO BAIRRO JOSÉ PAULINO AS MARGENS DA BR 316, EM FRENTE AO TREVO DE CAPELA, Atalaia",
+        "nome": "POUSADA ATALAIA"
+    },
+    {
+        "endereco": "CORONEL MEIRA Maceió Levada CEP: 57017110 AL, Maceió",
+        "nome": "POUSADA ATRAENTE"
+    },
+    {
+        "endereco": "Pão de Açúcar, Pão de Açúcar",
+        "nome": "POUSADA AVENIDA",
+        "coordenadas": {
+            "lat": -9.642414500000001,
+            "lon": -37.56175002172789
+        }
+    },
+    {
+        "endereco": "R.Francisco de Barros Regis,36, Japaratinga",
+        "nome": "POUSADA BADEJO",
+        "coordenadas": {
+            "lat": -9.101937418991623,
+            "lon": -35.259885201829036
+        }
+    },
+    {
+        "endereco": "Fazenda Baixa Funda, Viçosa",
+        "nome": "POUSADA BAIXA FUNDA"
+    },
+    {
+        "endereco": "RUA MONSENHOR HIDELBRANCO GUIMARÃES Nº39,, Barra de São Miguel",
+        "nome": "POUSADA BARRA BONITA"
+    },
+    {
+        "endereco": "RUA CONEGO CARVALHO, Nº4, RECANTO DOS CAETÉS, Barra de São Miguel",
+        "nome": "POUSADA BARRA SOL"
+    },
+    {
+        "endereco": "Rodovia AL 101, Norte, Maragogi",
+        "nome": "POUSADA BARRA VELHA"
+    },
+    {
+        "endereco": "Rua da Mangueira, Porto Real do Colégio",
+        "nome": "POUSADA BEIRA RIO"
+    },
+    {
+        "endereco": "Marechal Deodoro, Marechal Deodoro",
+        "nome": "POUSADA BICA DA PEDRA"
+    },
+    {
+        "endereco": "LOT 10 E 11 QUADRA-2 Marechal Deodoro, Marechal Deodoro",
+        "nome": "POUSADA BLUE VIKING"
+    },
+    {
+        "endereco": "BR 104, Murici",
+        "nome": "POUSADA BOA SORTE"
+    },
+    {
+        "endereco": "Rua Alto da Boa Vista Conjunto Adélia Lira, Maragogi",
+        "nome": "POUSADA BOA VISTA"
+    },
+    {
+        "endereco": "ZONA RUAL Porto de Pedras, Porto de Pedras",
+        "nome": "POUSADA BORAPIRÁ"
+    },
+    {
+        "endereco": "Marechal Mascarenhas de Moraes Maceió Cruz das Almas CEP: 57038120 AL, Maceió",
+        "nome": "POUSADA BOSSA NOVA"
+    },
+    {
+        "endereco": "HELIO JATOBA II QUADRAX3 São Miguel dos Campos, São Miguel dos Campos",
+        "nome": "POUSADA BR 101"
+    },
+    {
+        "endereco": "Avenida Senador Arnon de Melo, Maribondo",
+        "nome": "POUSADA BRASIL"
+    },
+    {
+        "endereco": "RUA SIQUEIRA CAMPOS, Penedo",
+        "nome": "POUSADA BRAZ FAMILIAR"
+    },
+    {
+        "endereco": "RUA MANOEL R GOUVEIA SAQUEREMA- BARRA DE SÃO MIGUEL, Barra de São Miguel",
+        "nome": "POUSADA BRILHO DO SOL"
+    },
+    {
+        "endereco": "R. Maria das Merces, 227, Japaratinga - AL, 57950-000, Japaratinga",
+        "nome": "POUSADA BRISA DO MAR"
+    },
+    {
+        "endereco": "LOT 05 Marechal Deodoro, Marechal Deodoro",
+        "nome": "POUSADA BRUNMAR"
+    },
+    {
+        "endereco": "JOAO SORIANO BOMFIM LOTE 8 São Miguel dos Campos, São Miguel dos Campos",
+        "nome": "POUSADA CAMPO VERDE"
+    },
+    {
+        "endereco": "Rodovia Portal dos Cânions, Olho d'Água do Casado",
+        "nome": "POUSADA CANIONS DOURADOS"
+    },
+    {
+        "endereco": "AV LEONITA CAVALCANTE, 26, Barra de São Miguel",
+        "nome": "POUSADA CANTINHO DA BARRA"
+    },
+    {
+        "endereco": "Ferroviário Manoel Gonçalves Filho Maceió Jatiúca CEP: 57035852 AL, Maceió",
+        "nome": "POUSADA CAPITAL DAS AGUAS"
+    },
+    {
+        "endereco": "Almirante Mascarenhas Maceió Pajuçara CEP: 57030010 AL, Maceió",
+        "nome": "POUSADA CARAVELAS DI SAN ROCCO"
+    },
+    {
+        "endereco": "Porto de Pedras, Porto de Pedras",
+        "nome": "POUSADA CASOTAS"
+    },
+    {
+        "endereco": "AV. FLORIANO PEIXOTO, 64, Penedo",
+        "nome": "POUSADA CENTRAL"
+    },
+    {
+        "endereco": "Rodovia AL 101, Norte, Maragogi",
+        "nome": "Pousada Polymar"
+    },
+    {
+        "endereco": "Porto de Pedras, Porto de Pedras",
+        "nome": "Pousada Rota Ecológica"
+    },
+    {
+        "endereco": "Rodovia AL 101, Norte, km 124, Maragogi",
+        "nome": "Pousada Camurim Grande"
+    },
+    {
+        "endereco": "Rua da Praia, S/N, Porto de Pedras",
+        "nome": "Arataba Hotel Boutique & Bistrô"
+    },
+    {
+        "endereco": "Marechal Deodoro, Marechal Deodoro",
+        "nome": "POUSADA CHARME FRANCES"
+    },
+    {
+        "endereco": "Pão de Açúcar, Pão de Açúcar",
+        "nome": "POUSADA CIDARLAN"
+    },
+    {
+        "endereco": "Doutor Durval de Góes Monteiro C Maceió Tabuleiro do Martins CEP: 57061000 AL, Maceió",
+        "nome": "POUSADA CLASSIC"
+    },
+    {
+        "endereco": "Av. Candido Portinari, Maragogi - Lot. Portal do Maragogi, Maragogi",
+        "nome": "POUSADA COCO VERDE"
+    },
+    {
+        "endereco": "PRAÇA 12 DE ABRIL, Penedo",
+        "nome": "POUSADA COLONIAL"
+    },
+    {
+        "endereco": "Alfrêdo Voupe, Maragogi",
+        "nome": "POUSADA CONCHA DOURADA"
+    },
+    {
+        "endereco": "Padre Luiz Américo Galvão Maceió Cruz das Almas CEP: 57038140 AL, Maceió",
+        "nome": "POUSADA CONCHAS DO MAR"
+    },
+    {
+        "endereco": "R. Sebastiao Lins de Melo, 101 - Centro, Japaratinga – AL, 57950-000, Japaratinga",
+        "nome": "POUSADA COQUEIRO VERDE"
+    },
+    {
+        "endereco": "Centro, Coruripe",
+        "nome": "POUSADA CORURIPE"
+    },
+    {
+        "endereco": "R. Graciete P Cavalcante, 98, Maragogi",
+        "nome": "POUSADA COSTA DOS CORAIS"
+    },
+    {
+        "endereco": "Av. Otacílio Cavalcante, Pilar",
+        "nome": "POUSADA DA LUCIANE"
+    },
+    {
+        "endereco": "Alfrêdo Voupe, Maragogi",
+        "nome": "POUSADA DA ORLA"
+    },
+    {
+        "endereco": "Delmiro Gouveia, Delmiro Gouveia",
+        "nome": "POUSADA DA PEDRA"
+    },
+    {
+        "endereco": "Av. Senador Rui Palmeira, Maragogi",
+        "nome": "POUSADA DA PRAIA"
+    },
+    {
+        "endereco": "Av. Senador Rui Palmeira, 363, Maragogi",
+        "nome": "POUSADA DAS GALÉS"
+    },
+    {
+        "endereco": "Av. Senador Rui Palmeira - 665, Maragogi",
+        "nome": "POUSADA DELÍCIAS DO MAR"
+    },
+    {
+        "endereco": "RUA JOSÉ MARIA 6 D, SÍTIO JOÃO ROSA, Passo de Camaragibe",
+        "nome": "POUSADA DIVINO MILAGRE"
+    },
+    {
+        "endereco": "SITIO BIQUINHA, S/N, Japaratinga",
+        "nome": "POUSADA DO ALTO"
+    },
+    {
+        "endereco": "RUA SETE DE SETEMBRO, Penedo",
+        "nome": "POUSADA DO CONVENTO"
+    },
+    {
+        "endereco": "Barra de São Miguel, Barra de São Miguel",
+        "nome": "POUSADA DO GUNGA"
+    },
+    {
+        "endereco": "RUA TARCISIO PALMEIRA, Nº 21 A, Barra de São Miguel",
+        "nome": "POUSADA DO SOSSEGO"
+    },
+    {
+        "endereco": "R. Projetada Vinte, s/n - Centro, Paripueira",
+        "nome": "POUSADA DOS CAJUEIROS"
+    },
+    {
+        "endereco": "Av. Senador Rui Palmeira, s/n, Maragogi",
+        "nome": "POUSADA DOS JANGADEIROS"
+    },
+    {
+        "endereco": "Rua Projetada, 03 - Centro, Japaratinga",
+        "nome": "POUSADA DOS MARES"
+    },
+    {
+        "endereco": "Rua 2 de Janeiro, S/N, Porto de Pedras",
+        "nome": "POUSADA DOS VENTOS"
+    },
+    {
+        "endereco": "RUA CECILIANO COELHO, 12, Japaratinga",
+        "nome": "POUSADA DOZE CABANAS"
+    },
+    {
+        "endereco": "BR-316 Sentido MCZ, Pilar",
+        "nome": "POUSADA E CHURRASCARIA PILARENSE MANGUABA"
+    },
+    {
+        "endereco": "Av. Armando Soares Torres, São Miguel dos Campos",
+        "nome": "POUSADA E ESPAÇO SANTO ANTÔNIO"
+    },
+    {
+        "endereco": "Santana do Ipanema, Santana do Ipanema",
+        "nome": "POUSADA E RESTAURANTE AQUARELAS"
+    },
+    {
+        "endereco": "Av. Pref. Moacir Cavalcante, 126. Centro., São Miguel dos Campos",
+        "nome": "POUSADA E RESTAURANTE CASA DA CERVEJA"
+    },
+    {
+        "endereco": "ANDAR Porto Real do Colégio, Porto Real do Colégio",
+        "nome": "POUSADA E RESTAURANTE DO GIL"
+    },
+    {
+        "endereco": "Barra de Santo Antônio, Barra de Santo Antônio",
+        "nome": "POUSADA E RESTAURANTE ILHA MAR"
+    },
+    {
+        "endereco": "LOTE 01 QUADRA A Barra de Santo Antônio, Barra de Santo Antônio",
+        "nome": "POUSADA E RESTAURANTE TABUBA"
+    },
+    {
+        "endereco": "Av. Senador Rui Palmeira, 359, Maragogi",
+        "nome": "POUSADA ECOHAR YOGA"
+    },
+    {
+        "endereco": "Desembargador Valente de Lima Maceió Jatiúca CEP: 57035556 AL, Maceió",
+        "nome": "POUSADA ECOMACEIÓ"
+    },
+    {
+        "endereco": "LOT PRAIA DO FRANCESQUADRAB LT 16 QD C LT 8 Marechal Deodoro, Marechal Deodoro",
+        "nome": "POUSADA ENCANTOS DA NATUREZA"
+    },
+    {
+        "endereco": "DAMASO DO MONTE Penedo, Penedo",
+        "nome": "POUSADA ENCANTOS DE PENEDO"
+    },
+    {
+        "endereco": "Rodovia AL 101, Norte, S/N, Maragogi",
+        "nome": "POUSADA ENCONTRO DAS ÁGUAS"
+    },
+    {
+        "endereco": "Barreiras do boqueirão -, Japaratinga",
+        "nome": "POUSADA ESTALAGEM ANAUÁ"
+    },
+    {
+        "endereco": "Estrada Japaratinga a Porto de Pedras, km 2-Povoado Bitingui/57.950-000, Japaratinga",
+        "nome": "POUSADA ESTALAGEM CAIUIA"
+    },
+    {
+        "endereco": "Empresário Carlos da Silva Nogueira Maceió Jatiúca CEP: 57036540 AL, Maceió",
+        "nome": "POUSADA ESTALAGEM FLAT"
+    },
+    {
+        "endereco": "RESIDENCIAL PARK SAUACUHY QUADRA S Maceió Ipioca CEP: 57039740 AL, Maceió",
+        "nome": "POUSADA ESTRELA MARINHA MACEIO"
+    },
+    {
+        "endereco": "Rua da Piedade, S/N, Porto de Pedras",
+        "nome": "POUSADA FAROL DO PATACHO"
+    },
+    {
+        "endereco": "Epaminondas Gracindo Maceió Pajuçara CEP: 57030101 AL, Maceió",
+        "nome": "POUSADA FELICIA MACEIO"
+    },
+    {
+        "endereco": "R. Francisco de Barros Regis - CENTRO, Japaratinga - AL, 57950-000, Japaratinga",
+        "nome": "POUSADA FLOR DE JAPARATINGA"
+    },
+    {
+        "endereco": "AV. 02 DE DEZEMBRO,1092, Olho d'Água das Flores",
+        "nome": "POUSADA FLOR DO SERTÃO"
+    },
+    {
+        "endereco": "PRAÇA DA INDEPENDÊNCIA, Olho d'Água das Flores",
+        "nome": "POUSADA FLORES"
+    },
+    {
+        "endereco": "Mar Vermelho, Mar Vermelho",
+        "nome": "POUSADA FRANCA"
+    },
+    {
+        "endereco": "Av. Senador Rui Palmeira, 757, Maragogi",
+        "nome": "POUSADA GALEMARES"
+    },
+    {
+        "endereco": "Marechal Deodoro, Marechal Deodoro",
+        "nome": "POUSADA GALOREZZI"
+    },
+    {
+        "endereco": "Rua Dr Oscar Gordilho, 15, Centro, São José da Laje-AL. CEP: 57860-000 ., São José da Laje",
+        "nome": "POUSADA GENTE NOSSA"
+    },
+    {
+        "endereco": "GENERAL LUIZ DE FRANCA ALBUQUERQUE Maceió Riacho Doce CEP: 57039230 AL, Maceió",
+        "nome": "POUSADA HA MAR"
+    },
+    {
+        "endereco": "SITIO GAMELEIRA Porto de Pedras, Porto de Pedras",
+        "nome": "POUSADA IANDE PATACHO"
+    },
+    {
+        "endereco": "AV. COMENDADOR PEIXOTO, 43, Penedo",
+        "nome": "POUSADA IMPERIAL"
+    },
+    {
+        "endereco": "Marechal Deodoro, Marechal Deodoro",
+        "nome": "Pousada Aconchego"
+    },
+    {
+        "endereco": "Porto de Pedras, Porto de Pedras",
+        "nome": "Pousada Cantinho Marapé"
+    },
+    {
+        "endereco": "Av. Beira Mar, 53, Piaçabuçu - AL, 57210-990, Piaçabuçu",
+        "nome": "Pousada Chez Julie"
+    },
+    {
+        "endereco": "R. Artur de Farias Lôbo, 83 - Centro, Piaçabuçu - AL, 57210-000, Piaçabuçu",
+        "nome": "Pousada Santiago"
+    },
+    {
+        "endereco": "Vieira de Brito Palmeira dos Índios Vila Maria CEP: 57607570 AL, Palmeira dos Índios",
+        "nome": "POUSADA IMPERIAL DAS PALMEIRAS"
+    },
+    {
+        "endereco": "SÍTIO ESTÂNCIA, S/N, Passo de Camaragibe",
+        "nome": "POUSADA INFINITO MAR"
+    },
+    {
+        "endereco": "Deputado Zé Pedro da Arável Maceió Ipioca CEP: 57039755 AL, Maceió",
+        "nome": "POUSADA IPIOCA BEACH VILLAGE"
+    },
+    {
+        "endereco": "QUADRA A Marechal Deodoro, Marechal Deodoro",
+        "nome": "POUSADA JESMAR"
+    },
+    {
+        "endereco": "QUADRA: H LOTE: 46 E 47 Barra de Santo Antônio, Barra de Santo Antônio",
+        "nome": "POUSADA JIRITUBA"
+    },
+    {
+        "endereco": "Povoado Pontal do Boqueirão, S/N, Japaratinga",
+        "nome": "POUSADA KALUANÂ"
+    },
+    {
+        "endereco": "Marechal Deodoro, Marechal Deodoro",
+        "nome": "POUSADA KANAMARY"
+    },
+    {
+        "endereco": "Reta do Salgado, Loteamento Praia de Japaratinga, Japaratinga",
+        "nome": "POUSADA KANTO DO KARIOKA"
+    },
+    {
+        "endereco": "Sítio Ferreiros, Mar Vermelho",
+        "nome": "POUSADA LADEIRAS DA SERRA"
+    },
+    {
+        "endereco": "RUA PROJETADA - BITINGUI, Japaratinga",
+        "nome": "POUSADA LUA CHEIA"
+    },
+    {
+        "endereco": "Centro, Coruripe",
+        "nome": "POUSADA LUAR"
+    },
+    {
+        "endereco": "Durval Guimarães Maceió Ponta Verde CEP: 57035060 AL, Maceió",
+        "nome": "POUSADA MACAYO"
+    },
+    {
+        "endereco": "São Jorge Maceió Benedito Bentes CEP: 57084814 AL, Maceió",
+        "nome": "POUSADA MACEIO"
+    },
+    {
+        "endereco": "Doutor José Sampaio Luz CASA Maceió Ponta Verde CEP: 57035260 AL, Maceió",
+        "nome": "POUSADA MACEIO PRAIA"
+    },
+    {
+        "endereco": "Almirante Mascarenhas Maceió Pajuçara CEP: 57030010 AL, Maceió",
+        "nome": "POUSADA MACEIO PRAIAS"
+    },
+    {
+        "endereco": "Av.Napoleão Rodrigues da Silva 37 Centro, Japaratinga",
+        "nome": "POUSADA MAMA PEREIRA"
+    },
+    {
+        "endereco": "Doutor Waldemiro Alencar Junior Maceió Jatiúca CEP: 57035860 AL, Maceió",
+        "nome": "POUSADA MAMALOO"
+    },
+    {
+        "endereco": "Quintino Bocaiúva Maceió Ponta da Terra CEP: 57030570 AL, Maceió",
+        "nome": "POUSADA MANDACARU"
+    },
+    {
+        "endereco": "Professor Victal Barbosa B Maceió Ponta Verde CEP: 57035400 AL, Maceió",
+        "nome": "POUSADA MAR DE MACEIÓ"
+    },
+    {
+        "endereco": "Almirante Mascarenhas Maceió Ponta da Terra CEP: 57030572 AL, Maceió",
+        "nome": "POUSADA MAR VERDE"
+    },
+    {
+        "endereco": "Rua escritor G. Ramos, Maragogi",
+        "nome": "POUSADA MARAGOLFINHO"
+    },
+    {
+        "endereco": "Av. Senador Rui Palmeira, 13 - Orla, Maragogi",
+        "nome": "POUSADA MARAHUB"
+    },
+    {
+        "endereco": "Passo de Camaragibe, Passo de Camaragibe",
+        "nome": "POUSADA MARCENEIRO"
+    },
+    {
+        "endereco": "Rua Ferdes Lima, 279, Porto de Pedras",
+        "nome": "POUSADA MARÉ SUÍTES PATACHO"
+    },
+    {
+        "endereco": "Maria Antonieta Teixeira Leite Maceió Cruz das Almas CEP: 57038015 AL, Maceió",
+        "nome": "POUSADA MARIA FARINHA"
+    },
+    {
+        "endereco": "Av. Senador Rui Palmeira, 885, Maragogi",
+        "nome": "POUSADA MARILUZ"
+    },
+    {
+        "endereco": "Rodovia AL-101, s/n, Maragogi",
+        "nome": "POUSADA MARISOL"
+    },
+    {
+        "endereco": "Coruripe, Coruripe",
+        "nome": "POUSADA MIRANTE DO PONTAL"
+    },
+    {
+        "endereco": "R. Francisco de Barros Regis, 33 - Centro, Japaratinga - AL, 57950-000, Japaratinga",
+        "nome": "POUSADA MON-CHERI BEACH"
+    },
+    {
+        "endereco": "Rua José Wenetes, 189 - Centro, Maragogi",
+        "nome": "POUSADA NACIONAL"
+    },
+    {
+        "endereco": "Porto de Pedras, Porto de Pedras",
+        "nome": "POUSADA NIOA"
+    },
+    {
+        "endereco": "Ferroviário Manoel Gonçalves Filho Maceió Jatiúca CEP: 57035852 AL, Maceió",
+        "nome": "POUSADA NOSSA CASA"
+    },
+    {
+        "endereco": "CONJUNTO MARIA DASDORES DE VASCONCELOS, Chã Preta",
+        "nome": "POUSADA NOSSA SENHORA DAS DORES"
+    },
+    {
+        "endereco": "SÍTIO ESTÂNCIA, Passo de Camaragibe",
+        "nome": "POUSADA O CASARÃO"
+    },
+    {
+        "endereco": "Travessa Lourenço Wanderley, 57, Maragogi",
+        "nome": "POUSADA O TEMPO E O VENTO"
+    },
+    {
+        "endereco": "Rua Gov. Afrânio Lages, 74, Maragogi",
+        "nome": "POUSADA OÁSIS"
+    },
+    {
+        "endereco": "Loteamento Pontal do Boqueirão japaratinga Al Beira mar, Japaratinga, CEP 57950-000, Brasil, Japaratinga",
+        "nome": "POUSADA OCA YBAPYTANGA"
+    },
+    {
+        "endereco": "Av. Sen. Rui Palmeira, 956., Maragogi",
+        "nome": "POUSADA ODOIÁ"
+    },
+    {
+        "endereco": "Av. Senador Rui Palmeira, 94, Maragogi",
+        "nome": "POUSADA OLHO D´AGUA"
+    },
+    {
+        "endereco": "Av. Senador Rui Palmeira, 07, Maragogi",
+        "nome": "POUSADA ORLA DOS CORAIS"
+    },
+    {
+        "endereco": "QUADRA: A Marechal Deodoro, Marechal Deodoro",
+        "nome": "POUSADA PANORAMA"
+    },
+    {
+        "endereco": "Rua Da Barreira, São Miguel dos Campos",
+        "nome": "POUSADA PARAÍSO"
+    },
+    {
+        "endereco": "QUADRAJ LOTE 50 52 Barra de Santo Antônio, Barra de Santo Antônio",
+        "nome": "POUSADA PARAISO DA BARRA"
+    },
+    {
+        "endereco": "Rod. Al 101-Norte-Km 121-Sítio Nossa Senhora de Fatima, Japaratinga",
+        "nome": "POUSADA PARAÍSO DOS COQUEIRAIS"
+    },
+    {
+        "endereco": "Cônego Antônio Firmino de Vasconcelos LOTE STELLA MARIS QUADRA5 Maceió Jatiúca CEP: 57036470 AL, Maceió",
+        "nome": "POUSADA PEROLA DOURADA"
+    },
+    {
+        "endereco": "Ponta de Mangue, Maragogi",
+        "nome": "POUSADA PONTA DE MANGUE"
+    },
+    {
+        "endereco": "Coruripe, Coruripe",
+        "nome": "POUSADA PONTAL PÔR DO SOL"
+    },
+    {
+        "endereco": "Pão de Açúcar, Pão de Açúcar",
+        "nome": "POUSADA PORTA DO SOL"
+    },
+    {
+        "endereco": "Rodovia AL 101, Norte, Maragogi",
+        "nome": "POUSADA PORTAL DO MARAGOGI"
+    },
+    {
+        "endereco": "AL 101 SUL KM 60 Jequiá da Praia, Jequiá da Praia",
+        "nome": "POUSADA PORTAL DOS COQUEIRAIS"
+    },
+    {
+        "endereco": "Rua Coronel Avelino Cunha, 39, Porto de Pedras",
+        "nome": "POUSADA PORTO DOS CORAIS"
+    },
+    {
+        "endereco": "Alfrêdo Volpi, Maragogi",
+        "nome": "POUSADA PORTO DOS CORAIS"
+    },
+    {
+        "endereco": "Rua José Vitoriano Da Silva, s/n, Japaratinga",
+        "nome": "POUSADA PRAIA DOS ENCANTOS"
+    },
+    {
+        "endereco": "EPAMINONDAS GRACINDO Maceió Pajuçara CEP: 57030103 AL, Maceió",
+        "nome": "POUSADA PRAIERA"
+    },
+    {
+        "endereco": "Belo Monte, Belo Monte",
+        "nome": "POUSADA PRAZERES DO VELHO CHICO"
+    },
+    {
+        "endereco": "R. da Restinga, 20, Piaçabuçu - AL, 57210-000, Piaçabuçu",
+        "nome": "Pousada Parque dos Coqueiros"
+    },
+    {
+        "endereco": "R. do Comércio, 27, Piaçabuçu - AL, 57210-990, Piaçabuçu",
+        "nome": "Pousada Praiana"
+    },
+    {
+        "endereco": "R. Francisco Temóteo, 1030, Teotônio Vilela - AL, 57265-000, Teotônio Vilela",
+        "nome": "Pousada O Sertanejo"
+    },
+    {
+        "endereco": "José Luiz Calazans Maceió Jatiúca CEP: 57035850 AL, Maceió",
+        "nome": "POUSADA PURA VIDA"
+    },
+    {
+        "endereco": "Avenida Antônio Procópio, Junqueiro",
+        "nome": "POUSADA QUERO MAIS"
+    },
+    {
+        "endereco": "R. Francisco de Barros Regis, 20, Japaratinga - AL, 57950-000, Japaratinga",
+        "nome": "POUSADA QUERUBIM"
+    },
+    {
+        "endereco": "Rodovia AL 101, 2426, Praia de Antunes, Maragogi",
+        "nome": "POUSADA RANGAI"
+    },
+    {
+        "endereco": "Rodovia AL 101, 687, Maragogi",
+        "nome": "POUSADA RECANTO FILHO DA TERRA"
+    },
+    {
+        "endereco": "Rua Vandrilho Mendes, S/N, Porto de Pedras",
+        "nome": "POUSADA RESERVA TATUAMUNHA"
+    },
+    {
+        "endereco": "Porto de Pedras, Porto de Pedras",
+        "nome": "POUSADA RIACHO DE PEDRAS"
+    },
+    {
+        "endereco": "Marechal Deodoro, Marechal Deodoro",
+        "nome": "POUSADA RICARDINO DO FRANCES"
+    },
+    {
+        "endereco": "Doutor Eurico Ayres A Maceió Tabuleiro do Martins CEP: 57061050 AL, Maceió",
+        "nome": "POUSADA RODRIGUES"
+    },
+    {
+        "endereco": "Quintino Bocaiúva Maceió Ponta da Terra CEP: 57030570 AL, Maceió",
+        "nome": "POUSADA SABRINNA"
+    },
+    {
+        "endereco": "LOTE GLEBAS B E C Porto de Pedras, Porto de Pedras",
+        "nome": "POUSADA SAMBA PA TI"
+    },
+    {
+        "endereco": "DAS MANGUEIRAS Jequiá da Praia, Jequiá da Praia",
+        "nome": "POUSADA SAMBURA"
+    },
+    {
+        "endereco": "AL-101, 121, Japaratinga - AL, 57950-000, Japaratinga",
+        "nome": "POUSADA SAN GIOVANNI"
+    },
+    {
+        "endereco": "RUA ANTÔNIO UBALDO DOS SANJOS, Nº 85, Teotônio Vilela",
+        "nome": "POUSADA SANTANA"
+    },
+    {
+        "endereco": "Dona Morena Maceió Feitosa CEP: 57043260 AL, Maceió",
+        "nome": "POUSADA SANTO ANTONIO"
+    },
+    {
+        "endereco": "Rodovia Portal dos Cânions, Olho d'Água do Casado",
+        "nome": "POUSADA SANTO RIO"
+    },
+    {
+        "endereco": "Rua Bernardo Lopes, São Miguel dos Campos",
+        "nome": "POUSADA SÃO FRANCISCO"
+    },
+    {
+        "endereco": "Teotônio Vilela, Teotônio Vilela",
+        "nome": "POUSADA SÃO GERALDO"
+    },
+    {
+        "endereco": "Centro, Coruripe",
+        "nome": "POUSADA SÃO JOÃO"
+    },
+    {
+        "endereco": "Rua Pref. Moacir Cavalcante,371. Lot. José Alves., São Miguel dos Campos",
+        "nome": "POUSADA SÃO MIGUEL"
+    },
+    {
+        "endereco": "Rua Padre Manoel Vieira de Melo, Junqueiro",
+        "nome": "POUSADA SÃO MIGUEL"
+    },
+    {
+        "endereco": "QUADRA B LOTE 10 E 11 Marechal Deodoro, Marechal Deodoro",
+        "nome": "POUSADA SEMPRE GRACIOSA"
+    },
+    {
+        "endereco": "RUA FRANCISCO DÂMACENO SAMPAIO, 372QD L, Barra de São Miguel",
+        "nome": "POUSADA SETE MARES"
+    },
+    {
+        "endereco": "Coruripe, Coruripe",
+        "nome": "POUSADA SHANGRI-LA"
+    },
+    {
+        "endereco": "Engenheiro Mário de Gusmão Maceió Ponta Verde CEP: 57035000 AL, Maceió",
+        "nome": "POUSADA SOL DE VERÃO"
+    },
+    {
+        "endereco": "Av. Sen. Rui Palmeira, 423, Maragogi",
+        "nome": "POUSADA SOL E LUA"
+    },
+    {
+        "endereco": "Av. Senador Rui Palmeira, 781, Maragogi",
+        "nome": "POUSADA SOLAR DA PRAIA"
+    },
+    {
+        "endereco": "Rua Francisco Barros Regis, Centro, Japaratinga",
+        "nome": "POUSADA SOLMAR"
+    },
+    {
+        "endereco": "LOTEAMENTO BARRAMAR, Barra de São Miguel",
+        "nome": "POUSADA SUA CASA"
+    },
+    {
+        "endereco": "Rua Caribé, 68, Maragogi",
+        "nome": "POUSADA TAIEIRAS"
+    },
+    {
+        "endereco": "Av. Senador Rui Palmeira, 1021, Maragogi",
+        "nome": "POUSADA TARTARUGA"
+    },
+    {
+        "endereco": "LOTE 12 QUADRAC Tatuamunha, Porto de Pedras",
+        "nome": "POUSADA TATUA"
+    },
+    {
+        "endereco": "Lafayete Pacheco Maceió Ponta da Terra CEP: 57030646 AL, Maceió",
+        "nome": "POUSADA TERRA GARRIDA"
+    },
+    {
+        "endereco": "Rua Frederico Maia, nº 79, Viçosa-AL, Viçosa",
+        "nome": "POUSADA THAUNE"
+    },
+    {
+        "endereco": "DO OITIZEIRO QUADRA059 LOTE 199 Jequiá da Praia, Jequiá da Praia",
+        "nome": "POUSADA TIETA DO AGRESTE"
+    },
+    {
+        "endereco": "Ibateguara, Ibateguara",
+        "nome": "POUSADA TOP LINE"
+    },
+    {
+        "endereco": "BR-101, Junqueiro",
+        "nome": "POUSADA TRÊS IRMÃOS"
+    },
+    {
+        "endereco": "Marechal Deodoro, Marechal Deodoro",
+        "nome": "POUSADA TRILHA DO MAR"
+    },
+    {
+        "endereco": "AIAS JOSE GRIGORIO NOVAES Olho D Água do Casado, Olho d'Água do Casado",
+        "nome": "POUSADA TRILHA DOS CANIONS"
+    },
+    {
+        "endereco": "Viçosa, Viçosa",
+        "nome": "POUSADA VALE DO PARAIBA"
+    },
+    {
+        "endereco": "Rod. Engenheiro Joaquim Gonçalves, Penedo",
+        "nome": "POUSADA VALLE DO SÃO FRANCISCO"
+    },
+    {
+        "endereco": "Av. Senador Rui Palmeira, 231, Maragogi",
+        "nome": "POUSADA VELA MAR"
+    },
+    {
+        "endereco": "Barra de Santo Antônio, Barra de Santo Antônio",
+        "nome": "POUSADA VENTOS DA BARRA"
+    },
+    {
+        "endereco": "ACESSO PRINCIPAL A PRAIA DA LAGE Porto de Pedras, Porto de Pedras",
+        "nome": "POUSADA VENTOS E VELAS"
+    },
+    {
+        "endereco": "Delmiro Gouveia, Delmiro Gouveia",
+        "nome": "POUSADA VERDE"
+    },
+    {
+        "endereco": "Av. Ferdo Paes nº 26 - Conjunto Residencial Adélia Lira, Maragogi",
+        "nome": "POUSADA VERDES MARES"
+    },
+    {
+        "endereco": "QUADRA P Marechal Deodoro, Marechal Deodoro",
+        "nome": "POUSADA VERDES MARES"
+    },
+    {
+        "endereco": "Povoado Bitingui s/n,, Japaratinga",
+        "nome": "POUSADA VILA COBÉ"
+    },
+    {
+        "endereco": "Porto de Pedras, Porto de Pedras",
+        "nome": "POUSADA VILA DO PATACHO"
+    },
+    {
+        "endereco": "LOTE 02 QUADRAA Paripueira, Paripueira",
+        "nome": "POUSADA VILA DOS CORAIS"
+    },
+    {
+        "endereco": "Rua Governador Afrânio Lages, 62, Maragogi",
+        "nome": "POUSADA VILA MOANA"
+    },
+    {
+        "endereco": "Jangadeiros Alagoanos Maceió Pajuçara CEP: 57030000 AL, Maceió",
+        "nome": "POUSADA VILA PAJUCARA"
+    },
+    {
+        "endereco": "Av. Napoleão Rodrigues da Silva, 150, Japaratinga",
+        "nome": "Pousada Venezia Tropicale"
+    },
+    {
+        "endereco": "Rua Manoel Santos Rangel, 02, Maragogi",
+        "nome": "Pousada Shalom Beach"
+    },
+    {
+        "endereco": "CASA Porto de Pedras, Porto de Pedras",
+        "nome": "Pousada Sunshine Patacho"
+    },
+    {
+        "endereco": "ALAMEDA DA PRAIA LOTE 232 E 233 QUADRA E Porto de Pedras, Porto de Pedras",
+        "nome": "Pousada Tropical (Patacho)"
+    },
+    {
+        "endereco": "RUA POVOADO BARREIRA DO BOQUEIRÃO, 17, Japaratinga",
+        "nome": "Vila de Taipa Exclusive Hotel"
+    },
+    {
+        "endereco": "R. da Pousada, n° 26, Piaçabuçu - AL, 57210-000, Piaçabuçu",
+        "nome": "Viana Praia Hotel"
+    },
+    {
+        "endereco": "D CAMINHO DAS AGUAS I Barra de São Miguel, Barra de São Miguel",
+        "nome": "POUSADA VILLA JÓIA"
+    },
+    {
+        "endereco": "Porto de Pedras, Porto de Pedras",
+        "nome": "POUSADA VILLA MORENA"
+    },
+    {
+        "endereco": "Porto de Pedras, Porto de Pedras",
+        "nome": "POUSADA VILLA TATUAMUNHA"
+    },
+    {
+        "endereco": "Rodovia Al 101, Norte, Maragogi",
+        "nome": "POUSADA VILLAGE MIRAMAR"
+    },
+    {
+        "endereco": "Porto de Pedras, Porto de Pedras",
+        "nome": "POUSADA VILLAGES"
+    },
+    {
+        "endereco": "Porto de Pedras, Porto de Pedras",
+        "nome": "POUSADA XUÊ"
+    },
+    {
+        "endereco": "AV. SENADOR RE CAHEIROS, S/N, Japaratinga",
+        "nome": "POUSADA YAPARA-TYBA"
+    },
+    {
+        "endereco": "PRAÇA JÁCOME CALHEIROS, Penedo",
+        "nome": "POUSADA YSPETO'S GOLD"
+    },
+    {
+        "endereco": "DR MARIO NUNES VIEIRA Maceió, Maceió",
+        "nome": "POUZADA NILZA MAR"
+    },
+    {
+        "endereco": "Poxim, Coruripe",
+        "nome": "POXIM 300 ANOS"
+    },
+    {
+        "endereco": "João Canuto da Silva Maceió Cruz das Almas CEP: 57038300 AL, Maceió",
+        "nome": "PR3 - POUSADA VARANDA MAR"
+    },
+    {
+        "endereco": "Rodovia AL 101, Norte, Maragogi",
+        "nome": "PRAIA BELA"
+    },
+    {
+        "endereco": "Sítio Xaréu, Maragogi",
+        "nome": "PRAIA DO XARÉU"
+    },
+    {
+        "endereco": "Rua João Corrêia de Almeida, Maragogi",
+        "nome": "PRAIA HOSTEL"
+    },
+    {
+        "endereco": "Rodovia AL-101 Norte, 124, Maragogi",
+        "nome": "PRAIAGOGI BOUTIQUE"
+    },
+    {
+        "endereco": "Sítio Barra Velha, s/n, Maragogi",
+        "nome": "PRIVÊ CABANAS DA PRAIA"
+    },
+    {
+        "endereco": "Rodovia AL 101 Norte, km 128, Maragogi",
+        "nome": "PRIVÊ VILLAGE GALÉS"
+    },
+    {
+        "endereco": "Rua da Pista, Maragogi",
+        "nome": "PRÓ-DIVE"
+    },
+    {
+        "endereco": "RUA DO MARCENEIRO, Passo de Camaragibe",
+        "nome": "QUADRADO DE CHARME"
+    },
+    {
+        "endereco": "KM: 35 FAZENDA FRIOS União dos Palmares, União dos Palmares",
+        "nome": "QUILOMBO PARK HOTEL"
+    },
+    {
+        "endereco": "Porto de Pedras, Porto de Pedras",
+        "nome": "QUINTA DO PATACHO"
+    },
+    {
+        "endereco": "MARECHAL MASCARENHAS DE MORAES LETRA B Maceió Cruz das Almas CEP: 57038120 AL, Maceió",
+        "nome": "R-1 INVESTIMENTOS"
+    },
+    {
+        "endereco": "Trav. Aias Gregorio, Olho d'Água do Casado",
+        "nome": "RAFAEL SABINO"
+    },
+    {
+        "endereco": "BARREIRAS, Coruripe",
+        "nome": "RAIOS DO SOL"
+    },
+    {
+        "endereco": "AL 101 Norte, Maragogi",
+        "nome": "RAMALHO"
+    },
+    {
+        "endereco": "RUA FRANCISCO B DA SILVA - LOT BARRAMAR - BARRA DE SÃO MIGUEL, Barra de São Miguel",
+        "nome": "RANCHO DA DORIS"
+    },
+    {
+        "endereco": "QUADRAI LOTE 04 Porto de Pedras, Porto de Pedras",
+        "nome": "RANCHO PARAISO POUSADA"
+    },
+    {
+        "endereco": "R. Francisco de Barros Regis, Japaratinga - AL, 57950-000, Japaratinga",
+        "nome": "RECANTO DA FLOR"
+    },
+    {
+        "endereco": "Loteamento Karina - R. Projetada K Dez, 9, Paripueira",
+        "nome": "RECANTO DAS FOLHAS"
+    },
+    {
+        "endereco": "Rua Praça Alfredo Volpi, s/n, Maragogi",
+        "nome": "RECANTO DOS CORAIS"
+    },
+    {
+        "endereco": "Av senador Re Calheiros km 5.4 Pov, Japaratinga - AL, 57950-000, Japaratinga",
+        "nome": "RECANTO UBUNTU"
+    },
+    {
+        "endereco": "Rua Jose Carvalho Raposo, Maragogi",
+        "nome": "REDE SUITES"
+    },
+    {
+        "endereco": "Porto de Pedras, Porto de Pedras",
+        "nome": "RESERVA DO PATACHO"
+    },
+    {
+        "endereco": "Rodovia Al 101 Norte, Maragogi",
+        "nome": "RESIDENCIAL ÂNCORA DE ANTUNES"
+    },
+    {
+        "endereco": "Av. José Soriano Bonfim, 116. Lot. Palmeira, São Miguel dos Campos - AL 57240-000, São Miguel dos Campos",
+        "nome": "RESTAURANTE E HOTEL VIA MARTES"
+    },
+    {
+        "endereco": "PRACA PEDRO FERDO BRANDAO DE ALCANTARA Maravilha, Maravilha",
+        "nome": "RESTAURANTE E POUSADA BASTISTA NETO"
+    },
+    {
+        "endereco": "Atalaia, Atalaia",
+        "nome": "RESTAURANTE E POUSADA BOM SABOR"
+    },
+    {
+        "endereco": "Porto de Pedras, Porto de Pedras",
+        "nome": "RESTAURANTE E POUSADA CAMINHO DO MAR"
+    },
+    {
+        "endereco": "Ibateguara, Ibateguara",
+        "nome": "RESTAURANTE E POUSADA PLANALTO SERRANO"
+    },
+    {
+        "endereco": "DURAO Mar Vermelho, Mar Vermelho",
+        "nome": "RESTAURANTE E POUSADA SERRAS ALAGOANAS"
+    },
+    {
+        "endereco": "Viçosa, Viçosa",
+        "nome": "RESTAURANTE POUSADA E LANCHONETE BOM JESUS"
+    },
+    {
+        "endereco": "Marechal Mascarenhas de Moraes A Maceió Cruz das Almas CEP: 57038120 AL, Maceió",
+        "nome": "REYMAR EXPRESS"
+    },
+    {
+        "endereco": "Rua Sirigado, Maragogi",
+        "nome": "RIIA"
+    },
+    {
+        "endereco": "Lagoa do Pau, Coruripe",
+        "nome": "RIO MAR"
+    },
+    {
+        "endereco": "Rua Manoel Santos Rangel, Maragogi",
+        "nome": "RIQUETA MAR"
+    },
+    {
+        "endereco": "Engenheiro Mário de Gusmão Maceió Ponta Verde CEP: 57035000 AL, Maceió",
+        "nome": "RITZ CORALLI HOTEL"
+    },
+    {
+        "endereco": "Engenheiro Mário de Gusmão Maceió Ponta Verde CEP: 57035000 AL, Maceió",
+        "nome": "RITZ PRAIA HOTEL MACEIÓ"
+    },
+    {
+        "endereco": "Brigadeiro Eduardo Gomes Maceió Cruz das Almas CEP: 57038230 AL, Maceió",
+        "nome": "RITZ SUITES HOME SERVICE"
+    },
+    {
+        "endereco": "Lagoa do Pau, Coruripe",
+        "nome": "RIVIERA"
+    },
+    {
+        "endereco": "Olho D Água das Flores, Olho d'Água das Flores",
+        "nome": "RONNIMAR FLAT GALLERY"
+    },
+    {
+        "endereco": "Lagoa do Pau, Coruripe",
+        "nome": "ROSA DOS VENTOS"
+    },
+    {
+        "endereco": "RUA JOSE VIEIRA DE CARVALHO 163, Maravilha",
+        "nome": "SAGRADA FAMILIA"
+    },
+    {
+        "endereco": "R. Alto da forca, Porto Calvo",
+        "nome": "SAILES"
+    },
+    {
+        "endereco": "Engenheiro Mário de Gusmão Maceió Ponta Verde CEP: 57035000 AL, Maceió",
+        "nome": "SAINT PATRICK PRAIA HOTEL"
+    },
+    {
+        "endereco": "QUINTINO BOCAIUVA Maceió Pajuçara CEP: 57030005 AL, Maceió",
+        "nome": "Quaraçá Pousada"
+    },
+    {
+        "endereco": "Barra de São Miguel, Barra de São Miguel",
+        "nome": "Pousada Ohana"
+    },
+    {
+        "endereco": "Murici, Murici",
+        "nome": "Prime Pousada e Conveniência"
+    },
+    {
+        "endereco": "Av. carlos do Vale Ferro, 131, São Sebastião",
+        "nome": "RANCHO ALEGRE"
+    },
+    {
+        "endereco": "Boca da Mata, Boca da Mata",
+        "nome": "Restaurante e Pousada Raio do Sol"
+    },
+    {
+        "endereco": "Doutor Noel Nutels SALA 01 Maceió Ponta Verde CEP: 57035450 AL, Maceió",
+        "nome": "SAN MARINO SUITE HOTEL"
+    },
+    {
+        "endereco": "Rod. Al 101 N, Maragogi",
+        "nome": "SANTIAGO"
+    },
+    {
+        "endereco": "Rua Juvenal Mendonça, 930, União dos Palmares",
+        "nome": "SANTO EDUARDO"
+    },
+    {
+        "endereco": "Pindorama, Coruripe",
+        "nome": "SÃO FRANCISCO"
+    },
+    {
+        "endereco": "Miai de cima, Coruripe",
+        "nome": "SÃO LUIZ"
+    },
+    {
+        "endereco": "PROFESSOR SANDOVAL ARROXELAS ANDAR 302 A Maceió Ponta Verde CEP: 57035230 AL, Maceió",
+        "nome": "SAVASTANO VOSS E-COMMERCE"
+    },
+    {
+        "endereco": "Rua Emanoel Medeiros Costa, Maragogi",
+        "nome": "SERAFIM"
+    },
+    {
+        "endereco": "Rodovia Al 101 Norte, Maragogi",
+        "nome": "SEREIAS DE MARAGOGI"
+    },
+    {
+        "endereco": "Rua Pref. Luiz Gozanda Alapenha Amaral, Major Isidoro",
+        "nome": "SERTANEJA"
+    },
+    {
+        "endereco": "Empresário Carlos da Silva Nogueira BALNEARIO Maceió Jatiúca CEP: 57036540 AL, Maceió",
+        "nome": "SESC - GUAXUMA"
+    },
+    {
+        "endereco": "Praça Guedes de Miranda, Maragogi",
+        "nome": "SETE MARES"
+    },
+    {
+        "endereco": "Viçosa, Viçosa",
+        "nome": "SHALAKO SELF-SERVICE E LANCHONETE"
+    },
+    {
+        "endereco": "Rua Melquides Lindoso, Maragogi",
+        "nome": "SIMÃO"
+    },
+    {
+        "endereco": "RUA BARÃO DO RIO BRANCO, 120, Penedo",
+        "nome": "SOBRADO DO CONDE"
+    },
+    {
+        "endereco": "Lagoa do Pau, Coruripe",
+        "nome": "SOL E LAZER"
+    },
+    {
+        "endereco": "Rua do Sol, 233, Maragogi",
+        "nome": "SOL E MAR"
+    },
+    {
+        "endereco": "Rua Embaixador Sérgio Vieira de Melo, 47, Maragogi",
+        "nome": "SOL HOSTEL & POUSADA MARAGOGI"
+    },
+    {
+        "endereco": "AL-101, S/N - Bitingui, Japaratinga - AL, 57950-000, Japaratinga",
+        "nome": "SOLLARIS ECOPOUSADA"
+    },
+    {
+        "endereco": "Doutor Antônio Gouveia Maceió Pajuçara CEP: 57030170 AL, Maceió",
+        "nome": "SOTEL HOTELARIA - BEST WESTERN"
+    },
+    {
+        "endereco": "Engenheiro Mário de Gusmão LOJA 06 Maceió Ponta Verde CEP: 57035000 AL, Maceió",
+        "nome": "SOUZA JUNIOR TEMPORADA"
+    },
+    {
+        "endereco": "Cândido Portinari, Maragogi",
+        "nome": "TALHA MAR"
+    },
+    {
+        "endereco": "Engenheiro Mário de Gusmão Maceió Ponta Verde CEP: 57035000 AL, Maceió",
+        "nome": "TAMBAQUI PRAIA HOTEL"
+    },
+    {
+        "endereco": "AL 101, S/N PRAIA DO MARCENEIRO, Passo de Camaragibe",
+        "nome": "TAPIRI"
+    },
+    {
+        "endereco": "Rua Sirigado, Maragogi",
+        "nome": "TAPITANGA"
+    },
+    {
+        "endereco": "SENADOR ARNON DE MELO Pariconha, Pariconha",
+        "nome": "TAUA"
+    },
+    {
+        "endereco": "PRAIA, S/N, BARRA DE CAMARAGIBE, Passo de Camaragibe",
+        "nome": "TIRIRI GUEST HOUSE"
+    },
+    {
+        "endereco": "CONJUNTO VALE DO SÃO FRANCISCO, 10, Penedo",
+        "nome": "TOCA DO VALE"
+    },
+    {
+        "endereco": "ENGENHEIRO MARIO DE GUSMAO QUADRA34 LOTE 283 Maceió Ponta Verde CEP: 57035000 AL, Maceió",
+        "nome": "TPH EMPREENDIMENTOS (HOTEL TAMBAQUI)"
+    },
+    {
+        "endereco": "Junqueiro, Junqueiro",
+        "nome": "TRANSPORTES SAO MIGUEL"
+    },
+    {
+        "endereco": "Av. Senador Rui Palmeira, 821, Maragogi",
+        "nome": "TROPICALISTA HOSTEL"
+    },
+    {
+        "endereco": "José Freire Moura Maceió Ponta Verde CEP: 57035110 AL, Maceió",
+        "nome": "TRÓPICO PRAIA HOTEL"
+    },
+    {
+        "endereco": "SANTA MARIA (PARTES 1 E 2) DISTRITO 03 SETOR 01 QUADRA50 LOTE 5331 Passo de Camaragibe, Passo de Camaragibe",
+        "nome": "TUJU BOUTIQUE HOTEL"
+    },
+    {
+        "endereco": "Santa Tereza Verzeri, Maragogi",
+        "nome": "UBARANA"
+    },
+    {
+        "endereco": "São Pedro Maceió Garça Torta CEP: 57039020 AL, Maceió",
+        "nome": "UCHÔA CONSTRUÇÕES"
+    },
+    {
+        "endereco": "Lagoa do Pau, Coruripe",
+        "nome": "UMUARAMA"
+    },
+    {
+        "endereco": "Walfrido Rocha Maceió Jatiúca CEP: 57036800 AL, Maceió",
+        "nome": "VACANZE"
+    },
+    {
+        "endereco": "Av. Dr Antonio Gomes de Barros, 136, União dos Palmares",
+        "nome": "VARANDAS"
+    },
+    {
+        "endereco": "João Davino Maceió Mangabeiras CEP: 57037590 AL, Maceió",
+        "nome": "VELEIRO PRAIA HOTEL"
+    },
+    {
+        "endereco": "AL 435, LOTEAMENTO SÃO JOSÉ , 01, Passo de Camaragibe",
+        "nome": "VERÇOSA"
+    },
+    {
+        "endereco": "Sítio Xaréu, Maragogi",
+        "nome": "VILA BEIRA MAR"
+    },
+    {
+        "endereco": "Lagoa do Pau, Coruripe",
+        "nome": "VILA DA LAGOA"
+    },
+    {
+        "endereco": "AL 101, S/N PRAIA DO MARCENEIRO, Passo de Camaragibe",
+        "nome": "VILA MANU"
+    },
+    {
+        "endereco": "Rua Camarão, Marechal Deodoro",
+        "nome": "VILA NALU"
+    },
+    {
+        "endereco": "R. Carlos Borner, 243 - Centro, Paripueira",
+        "nome": "VILA OSTELLO"
+    },
+    {
+        "endereco": "Rua Maria Uchôa de Melo, Maragogi",
+        "nome": "VILA PLANTAI"
+    },
+    {
+        "endereco": "Pontal, Coruripe",
+        "nome": "VILA PONTAL"
+    },
+    {
+        "endereco": "Avenida 11 de setembro, Maragogi",
+        "nome": "VILA RIOS MARAGOGI"
+    },
+    {
+        "endereco": "Rua da Pista, Maragogi",
+        "nome": "VILA SAGUI"
+    },
+    {
+        "endereco": "LOTE 2 Porto de Pedras, Porto de Pedras",
+        "nome": "VILA SOL CHALES"
+    },
+    {
+        "endereco": "ESTRADA CADOZ, ÁREAS 08 E 09, Coqueiro Seco",
+        "nome": "VILAGOA POUSADA"
+    },
+    {
+        "endereco": "TV DOS ARRECIFES, Marechal Deodoro",
+        "nome": "VILAS DO FRANCÊS"
+    },
+    {
+        "endereco": "Engenheiro Mário de Gusmão Maceió Ponta Verde CEP: 57035000 AL, Maceió",
+        "nome": "Palms Ponta Verde By Tropicalis"
+    },
+    {
+        "endereco": "RUA 9 DE JUNHO Porto de Pedras, Porto de Pedras",
+        "nome": "Aldeia Beijupirá Pousada "
+    },
+    {
+        "endereco": "Rua Tarsila do Amaral, S/N, Maragogi",
+        "nome": "Pousada Sol da Manhã"
+    },
+    {
+        "endereco": "Gunther Frans Oliveira Maceió Ipioca CEP: 57039700 AL, Maceió",
+        "nome": "Salinas Maceió All Inclusive Resort"
+    },
+    {
+        "endereco": "Rodovia AL 101, Norte, Km 124, Maragogi",
+        "nome": "Salinas Maragogi All Inclusive Resort"
+    },
+    {
+        "endereco": "Jangadeiros Alagoanos Maceió Pajuçara CEP: 57030000 AL, Maceió",
+        "nome": "Slim Pajuçara by Tropicalis"
+    },
+    {
+        "endereco": "JANGADEIROS ALAGOANOS Maceió Pajuçara CEP: 57030000 AL, Maceió",
+        "nome": "Verano Pajuçara by Tropicalis"
+    },
+    {
+        "endereco": "RIACHO DAS VARAS Barra de Santo Antônio, Barra de Santo Antônio",
+        "nome": "Vila Galé Alagoas Resort All Inclusive"
+    },
+    {
+        "endereco": "José Pinto de Barros Palmeira dos Índios Centro CEP: 57600310 AL, Palmeira dos Índios",
+        "nome": "VERDE HOTEL"
+    },
+    {
+        "endereco": "Pontal, Coruripe",
+        "nome": "VILLA BELLO PONTAL"
+    },
+    {
+        "endereco": "Alfrêdo Volpi, Maragogi",
+        "nome": "VILLA COSTEIRA"
+    },
+    {
+        "endereco": "AL 101 Norte, Sauaçuhy, Paripueira, Paripueira",
+        "nome": "VILLA DAS PALMEIRAS"
+    },
+    {
+        "endereco": "QUADRAA LOTE 08 Passo de Camaragibe, Passo de Camaragibe",
+        "nome": "VILLA MARCENEIRO BEACH"
+    },
+    {
+        "endereco": "Rua Projetada do Loteamento Pontal do Boqueirao, R. Vovó Creusa - Pontal do Boqueirao, Japaratinga - AL, 57950-970, Japaratinga",
+        "nome": "VILLA MINDUBA"
+    },
+    {
+        "endereco": "Barra de São Miguel, Barra de São Miguel",
+        "nome": "VILLAGE BARRA HOTEL"
+    },
+    {
+        "endereco": "Estr. Projetada Trinta e Quatro, 66-102, Paripueira",
+        "nome": "VILLAGE PARAÍSO INN"
+    },
+    {
+        "endereco": "CASA CASA Olho D Água do Casado, Olho d'Água do Casado",
+        "nome": "VIRGULINO HOTEL"
+    },
+    {
+        "endereco": "Rua. Gov. Afrânio Lages, Maragogi",
+        "nome": "VIVA MARAGOGI"
+    },
+    {
+        "endereco": "Rua da Pista, Maragogi",
+        "nome": "VO DONI"
+    },
+    {
+        "endereco": "Avenida Arlindo Cidrim, 415, Maragogi",
+        "nome": "VOVÓ ZILDA"
+    },
+    {
+        "endereco": "Deputado Luiz Gonzaga Coutinho Maceió Jatiúca CEP: 57036110 AL, Maceió",
+        "nome": "WANDERLUST HOSTEL"
+    },
+    {
+        "endereco": "Rodovia Al 101 Norte., Maragogi",
+        "nome": "CAMPING DA ZEZA"
+    },
+    {
+        "endereco": "LOTE I Paripueira, Paripueira",
+        "nome": "Resort Fazenda Fiore"
+    },
+    {
+        "endereco": "São Pedro Maceió Garça Torta CEP: 57039020 AL, Maceió",
+        "nome": "Flor de Lis Exclusive Hotel"
+    },
+    {
+        "endereco": "Ponta de mangue, Maragogi",
+        "nome": "Grand Oca Maragogi Beach & Leisure Resort"
+    },
+    {
+        "endereco": "Barra de São Miguel, Barra de São Miguel",
+        "nome": "Lua Pousada"
+    },
+    {
+        "endereco": "Praça Batista Acioly 26, 1° andar, Maragogi",
+        "nome": "Maragogi Brisa Exclusive Hotel"
+    },
+    {
+        "endereco": "Marechal Deodoro, Marechal Deodoro",
+        "nome": "Pousada Capitães de Areia"
+    },
+    {
+        "endereco": "Rua José carvalho Raposo, Maragogi",
+        "nome": "Pousada Tropical (Maragogi)"
+    },
+    {
+        "endereco": "Gunther Frans Oliveira SALA W-10 Maceió Pescaria CEP: 57039600 AL, Maceió",
+        "nome": "Pratagy Beach All Inclusive Resort"
+    },
+    {
+        "endereco": "Av. Brigadeiro Eduardo Gomes de Brito, Maceió",
+        "nome": "Ritz Lagoa da Anta"
+    },
+    {
+        "endereco": "QUADRAD LOTE 48 E 49 Porto de Pedras, Porto de Pedras",
+        "nome": "Villa Canziani e Donato"
+    },
+    {
+        "endereco": "Doutor Antônio Gouveia Maceió Pajuçara CEP: 57030170 AL, Maceió",
+        "nome": "Vistamar Hotel"
+    },
+    {
+        "endereco": "QUADRA L-6 Barra de São Miguel, Barra de São Miguel",
+        "nome": "Vivá Barra Hotel Pousada"
+    },
+    {
+        "endereco": "Rua Hilda de Melo Acioli, Maceió",
+        "nome": "Wave Suítes Hotel & Lounge bar"
+    },
+    {
+        "endereco": "LAURINHO Porto de Pedras, Porto de Pedras",
+        "nome": "Zai Patacho"
+    },
+    {
+        "endereco": "Artur Charles Dorvillé CONJ CASTELO BRANCO QUADRAC LOTE 118 Maceió Jatiúca CEP: 57036070 AL, Maceió",
+        "nome": "Zuza Slim Suites"
+    },
+    {
+        "endereco": "Doutor Antônio Gouveia Maceió Pajuçara CEP: 57030170 AL, Maceió",
+        "nome": "Ibis Maceió Pajuçara"
+    },
+    {
+        "endereco": " ",
+        "nome": "Ibis Budget Maceió"
+    },
+    {
+        "endereco": "Roberto Mascarenhas de Brito Maceió Jatiúca CEP: 57035851 AL, Maceió",
+        "nome": "Jatiúca Suites Resort by Slaviero Hotéis "
+    },
+    {
+        "endereco": " ",
+        "nome": "Saint Patrick Grand Hotel"
+    },
+    {
+        "endereco": "Praça Marques da Silva, Arapiraca",
+        "nome": "San Sebastian Hotel"
+    },
+    {
+        "endereco": "Rua Marechal Deodoro, Arapiraca",
+        "nome": "Hotel Santa Isabel"
+    },
+    {
+        "endereco": "Rua Expedicionário Brasileiro, Arapiraca",
+        "nome": "Hotel Pousada São Gerônimo"
+    },
+    {
+        "endereco": "Praça Gov. Afranio Salgado Lages, Arapiraca",
+        "nome": "Edson Pousada"
+    },
+    {
+        "endereco": "Rua Marechal Deodoro, Arapiraca",
+        "nome": "Varanda Hotel"
+    },
+    {
+        "endereco": "Rua Domingos Correia, Arapiraca",
+        "nome": "Hotel Pousada Talismã"
+    },
+    {
+        "endereco": "AL 110, Arapiraca",
+        "nome": "Restaurante e Pousada Boa Viagem"
+    },
+    {
+        "endereco": " ",
+        "nome": "Maceió Mar All Inclusive"
+    },
+    {
+        "endereco": "Rodovia Al 101 Norte, Maragogi",
+        "nome": "Costa Dourada Village"
+    },
+    {
+        "endereco": "DADOS PREFEITURA, São Miguel dos Milagres",
+        "nome": "DADOS PREFEITURA"
+    },
+    {
+        "endereco": "DADOS PREFEITURA, São Miguel dos Milagres",
+        "nome": "DADOS PREFEITURA"
+    },
+    {
+        "endereco": " ",
+        "nome": "DADOS PREFEITURA"
+    },
+    {
+        "endereco": "DADOS PREFEITURA, São Miguel dos Milagres",
+        "nome": "DADOS PREFEITURA"
+    },
+    {
+        "endereco": "R. Roberto Mascarenhas De Britto, Barra de São Miguel",
+        "nome": "Ritz Barra de São Miguel"
+    },
+    {
+        "endereco": "AL-115, Arapiraca",
+        "nome": "Hotel Quatro Corações"
+    },
+    {
+        "endereco": "Vila Cangandu, Arapiraca",
+        "nome": "CANGANDU WATER PARK RESORT"
+    },
+    {
+        "endereco": "Rod BR 101, São Sebastião",
+        "nome": "Salome Pousada"
+    },
+    {
+        "endereco": "Povoado Gado Bravo, São Sebastião",
+        "nome": "Fazenda Ecovale"
+    },
+    {
+        "endereco": "Av. Carlos do Vale Ferro, São Sebastião",
+        "nome": "Auto Posto Nunes"
+    },
+    {
+        "endereco": "Rua Dr. Fernando Damaso Sampaio, Jequiá da Praia",
+        "nome": "Transamerica Dunas do Marapé"
+    },
+    {
+        "endereco": "Rua Antônio Vieira Coimbra, Boca da Mata",
+        "nome": "Noah Rústico Hotel"
+    },
+    {
+        "endereco": " ",
+        "nome": "Ibis Style"
+    },
+    {
+        "endereco": "AL-101, 102 - Maragogi, AL, 57955-000, Maragogi",
+        "nome": "Ibis Style Maragogi"
+    }
+]

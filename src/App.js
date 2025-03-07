@@ -8,8 +8,22 @@ import "leaflet.markercluster/dist/leaflet.markercluster";
 import "leaflet.markercluster/dist/MarkerCluster.css";
 import "leaflet.markercluster/dist/MarkerCluster.Default.css";
 
-const customIcon = new L.Icon({
+const alunoIcon = new L.Icon({
   iconUrl: "https://cdn-icons-png.flaticon.com/512/149/149072.png",
+  iconSize: [30, 30],
+  iconAnchor: [15, 30],
+  popupAnchor: [0, -25],
+});
+
+const hospedagemIcon = new L.Icon({
+  iconUrl: "https://cdn-icons-png.flaticon.com/512/167/167707.png",
+  iconSize: [30, 30],
+  iconAnchor: [15, 30],
+  popupAnchor: [0, -25],
+});
+
+const defaultIcon = new L.Icon({
+  iconUrl: "https://cdn-icons-png.flaticon.com/512/252/252025.png",
   iconSize: [30, 30],
   iconAnchor: [15, 30],
   popupAnchor: [0, -25],
@@ -32,17 +46,31 @@ const HeatmapLayer = ({ points }) => {
   return null;
 };
 
-const MapaComOpcoes = () => {
+  const MapaComOpcoes = () => {
   const [dados, setDados] = useState([]);
   const [modoVisualizacao, setModoVisualizacao] = useState("marcadores");
-  const mapRef = useRef(null); // Referência para o mapa
-  const markerClusterRef = useRef(null); // Referência para o cluster de marcadores
+  const mapRef = useRef(null);
+  const markerClusterRef = useRef(null);
 
   useEffect(() => {
     const fetchData = async () => {
       try {
-        const response = await axios.get("/enderecos.json");
-        const dadosComCoords = response.data.filter((item) => item.coordenadas);
+        const response1 = await axios.get("/enderecos.json");
+        const response2 = await axios.get("/enderecos_alunos.json");
+        const response3 = await axios.get("/enderecos_hospedagem.json");
+  
+        console.log("enderecos.json:", response1.data);
+        console.log("enderecos_alunos.json:", response2.data);
+        console.log("enderecos_hospedagem.json:", response3.data);
+  
+        const dados1 = Array.isArray(response1.data) ? response1.data : [];
+        const dados2 = Array.isArray(response2.data) ? response2.data : [];
+        const dados3 = Array.isArray(response3.data) ? response3.data : [];
+  
+        const dadosComCoords = [...dados1, ...dados2, ...dados3].filter((item) => item.coordenadas);
+  
+        console.log("Dados combinados:", dadosComCoords);
+  
         setDados(dadosComCoords);
       } catch (error) {
         console.error("Erro ao carregar os dados:", error);
@@ -54,21 +82,17 @@ const MapaComOpcoes = () => {
   useEffect(() => {
     if (mapRef.current && modoVisualizacao === "cluster") {
       const map = mapRef.current;
-
-      // Cria um grupo de clusters
       markerClusterRef.current = L.markerClusterGroup();
 
-      // Adiciona marcadores ao cluster
       dados.forEach((item) => {
-        const marker = L.marker([item.coordenadas.lat, item.coordenadas.lon], { icon: customIcon });
-        marker.bindPopup(item.endereco);
+        const icon = item.tipo === "aluno" ? alunoIcon : item.tipo === "hospedagem" ? hospedagemIcon : defaultIcon;
+        const marker = L.marker([item.coordenadas.lat, item.coordenadas.lon], { icon });
+        marker.bindPopup(`<strong>${item.endereco}</strong>`);
         markerClusterRef.current.addLayer(marker);
       });
 
-      // Adiciona o cluster ao mapa
       map.addLayer(markerClusterRef.current);
 
-      // Limpeza ao desmontar ou mudar o modo de visualização
       return () => {
         if (markerClusterRef.current) {
           map.removeLayer(markerClusterRef.current);
@@ -90,16 +114,29 @@ const MapaComOpcoes = () => {
           center={[-9.5713, -36.7819]}
           zoom={10}
           style={{ height: "100%", width: "100%" }}
-          ref={mapRef} // Referência para o mapa
+          ref={mapRef}
         >
           <TileLayer url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png" />
-          
+
           {modoVisualizacao === "marcadores" &&
-            dados.map((item, index) => (
-              <Marker key={index} position={[item.coordenadas.lat, item.coordenadas.lon]} icon={customIcon}>
-                <Popup>{item.endereco}</Popup>
-              </Marker>
-            ))}
+            dados.map((item, index) => {
+              let icon = defaultIcon;
+
+              if (item.nome) {
+                icon = hospedagemIcon; // Diferencia as hospedagens
+              } else if (item.code) {
+                icon = alunoIcon; // Diferencia as pessoas no cad
+              }
+              else {
+                icon = defaultIcon; // Diferencia os alunos
+              }
+              return (
+                <Marker key={index} position={[item.coordenadas.lat, item.coordenadas.lon]} icon={icon}>
+                  <Popup>{item.endereco} {item.nome ? `(${item.nome})` : ""}</Popup>
+                </Marker>
+              );
+            })
+          }
 
           {modoVisualizacao === "heatmap" && (
             <HeatmapLayer points={dados.map((item) => ({ lat: item.coordenadas.lat, lon: item.coordenadas.lon }))} />
