@@ -123,13 +123,13 @@ const MapaComOpcoes = () => {
         </div>
         <h4>Modos de exibição</h4>
         <div>
-        <button onClick={() => setModoVisualizacao("marcadores")}>Marcadores</button>
+        <button onClick={() => setModoVisualizacao("marcadores")} style={{ backgroundColor: "#007bff", color: "white", padding: "10px", border: "none", borderRadius: "5px", cursor: "pointer", marginBottom: "10px" }}>Marcadores</button>
         </div>
         <div>
-        <button onClick={() => setModoVisualizacao("heatmap")}>Heatmap</button>
+        <button onClick={() => setModoVisualizacao("heatmap")} style={{ backgroundColor: "#007bff", color: "white", padding: "10px", border: "none", borderRadius: "5px", cursor: "pointer" , marginBottom: "10px"}}>Heatmap</button>
         </div>
         <div>
-        <button onClick={() => setModoVisualizacao("cluster")}>Cluster</button>
+        <button onClick={() => setModoVisualizacao("cluster")} style={{ backgroundColor: "#007bff", color: "white", padding: "10px", border: "none", borderRadius: "5px", cursor: "pointer", marginBottom: "10px" }}>Cluster</button>
         </div>
       </div>
       <div style={{ flex: 1, height: "100vh" }}>

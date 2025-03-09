@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+
+.botao-azul {
+  background-color: #007bff;
+  color: white;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.botao-azul:hover {
+  background-color: #0056b3;
+}
